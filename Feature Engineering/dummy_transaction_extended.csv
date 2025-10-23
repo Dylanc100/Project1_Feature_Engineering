@@ -1,0 +1,43 @@
+import pandas as pd
+import numpy as np
+from faker import Faker
+import random
+
+# Setup
+fake = Faker()
+np.random.seed(42)
+
+# Pilihan data
+payment_methods = ["Credit Card", "Debit Card", "E-Wallet", "Bank Transfer"]
+locations = ["Jakarta", "Surabaya", "Bandung", "Medan", "Bali"]
+devices = ["Desktop", "Mobile", "Tablet"]
+fraud_types = ["CNP (Card Not Present)", "Counterfeit", "Fraud E-commerce", "Fraud Onboarding", "Non-Customer"]
+product_categories = ["Electronics", "Fashion", "Food", "Travel", "Entertainment"]
+
+# Jumlah baris
+n = 1000
+
+# Generate data
+data = {
+    "transaction_id": [f"T{i+1:05d}" for i in range(n)],
+    "customer_id": [f"C{np.random.randint(1000, 9999)}" for _ in range(n)],
+    "amount": np.random.randint(50_000, 5_000_000, n),
+    "payment_method": np.random.choice(payment_methods, n),
+    "location": np.random.choice(locations, n),
+    "device": np.random.choice(devices, n),
+    "fraud_type": np.random.choice(fraud_types + ["None"], n, p=[0.08]*len(fraud_types) + [1 - 0.08*len(fraud_types)]),
+    "timestamp": [fake.date_time_between(start_date="-1y", end_date="now") for _ in range(n)],
+    "ip_address": [fake.ipv4() for _ in range(n)],
+    "merchant_id": [f"M{np.random.randint(100,999)}" for _ in range(n)],
+    "product_category": np.random.choice(product_categories, n),
+    "device_id": [f"D{np.random.randint(100,999)}" for _ in range(n)]
+}
+
+# Label fraud
+data["is_fraud"] = [1 if ft != "None" else 0 for ft in data["fraud_type"]]
+
+# Simpan ke CSV
+df = pd.DataFrame(data)
+df.to_csv("dummy_transactions_extended.csv", index=False)
+
+print("✅ File 'dummy_transactions_extended.csv' berhasil dibuat dengan", n, "baris.")

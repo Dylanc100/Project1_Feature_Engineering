@@ -1,0 +1,301 @@
+{
+  "Rekening Tahapan": {
+    "KCP KARAWANG": "STJEMSS",
+    "KARAWANG": "CDJMPEL RT 005 RW 003",
+    "JERUK CIYA A": "KARAWANG 41311",
+    "INDONESIA": null,
+    "NO. REKENING": "1091766433",
+    "HALAMAN": "1 / 2",
+    "PERIODE": "APRIL 2018",
+    "MATA UANG": "IDR"
+  },
+  "Transaction Details": [
+    {
+      "TANGGAL": "01/04",
+      "KETERANGAN": "SALDO AWAL",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": "9,184,031.23"
+    },
+    {
+      "TANGGAL": "02/04",
+      "KETERANGAN": "SWITCHING DB TRANSFER TANGGAL :30/03",
+      "CBG": null,
+      "MUTASI": "5,350,000.00 DB",
+      "SALDO": "8,334,031.23"
+    },
+    {
+      "TANGGAL": "02/04",
+      "KETERANGAN": "KE 003 TONO PRIYANTO INS FIKRI ME TRANSFER KE 002 TONO PRIYANTO",
+      "CBG": null,
+      "MUTASI": "6,500.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "02/04",
+      "KETERANGAN": "SWITCHING DB TANGGAL :30/03",
+      "CBG": null,
+      "MUTASI": "6,500.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "02/04",
+      "KETERANGAN": "TRANSFER KE 200 JAMAL INS FIKRI ME",
+      "CBG": null,
+      "MUTASI": "3,000,000.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "02/04",
+      "KETERANGAN": "SWITCHING DB TANGGAL :30/03",
+      "CBG": null,
+      "MUTASI": "6,500.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "02/04",
+      "KETERANGAN": "TRANSFER KE 200 JAMAL INS FIKRI ME",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "02/04",
+      "KETERANGAN": "SWITCHING TANGGAL :30/03",
+      "CBG": null,
+      "MUTASI": "300,000.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "02/04",
+      "KETERANGAN": "WITHDRAWAL DE 008 KRW 04661 KAKARBW",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "02/04",
+      "KETERANGAN": "SWITCHING TANGGAL :30/03",
+      "CBG": null,
+      "MUTASI": "7,500.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "02/04",
+      "KETERANGAN": "BIAYA TXN DI 008 KRW 04661 KAKARBW",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "02/04",
+      "KETERANGAN": "SWITCHING TANGGAL :01/04",
+      "CBG": null,
+      "MUTASI": "500,000.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "02/04",
+      "KETERANGAN": "WITHDRAWAL DI 016 14066",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": "2,306,031.23"
+    },
+    {
+      "TANGGAL": "02/04",
+      "KETERANGAN": "SWITCHING TANGGAL :01/04",
+      "CBG": null,
+      "MUTASI": "7,500.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "04/04",
+      "KETERANGAN": "BIAYA TXN DI 016 14066",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "04/04",
+      "KETERANGAN": "SWITCHING",
+      "CBG": null,
+      "MUTASI": "4,000.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "04/04",
+      "KETERANGAN": "WITHDRAWAL DI 016 13660",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "04/04",
+      "KETERANGAN": "SWITCHING",
+      "CBG": null,
+      "MUTASI": "200,000.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "04/04",
+      "KETERANGAN": "WITHDRAWAL DI 016 00232",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "09/04",
+      "KETERANGAN": "SWITCHING",
+      "CBG": null,
+      "MUTASI": "7,500.00 DB",
+      "SALDO": "2,094,531.23"
+    },
+    {
+      "TANGGAL": "09/04",
+      "KETERANGAN": "BIAYA TXN DI 016 00232",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "09/04",
+      "KETERANGAN": "SWITCHING TANGGAL :07/04",
+      "CBG": null,
+      "MUTASI": "200,000.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "09/04",
+      "KETERANGAN": "WITHDRAWAL DI 009 INDAH K INDRA K",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": "1,587,031.23"
+    },
+    {
+      "TANGGAL": "10/04",
+      "KETERANGAN": "SWITCHING TANGGAL :07/04",
+      "CBG": null,
+      "MUTASI": "7,500.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "10/04",
+      "KETERANGAN": "BIAYA TXN DI 009 INDAH K INDRA K",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "10/04",
+      "KETERANGAN": "SWITCHING",
+      "CBG": null,
+      "MUTASI": "300,000.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "10/04",
+      "KETERANGAN": "WITHDRAWAL DI 002 9892 RSU. INTAN BA",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "10/04",
+      "KETERANGAN": "SWITCHING",
+      "CBG": null,
+      "MUTASI": "7,500.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "10/04",
+      "KETERANGAN": "BIAYA TXN DI 002 9892 RSU. INTAN BA",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "10/04",
+      "KETERANGAN": "SWITCHING DB",
+      "CBG": null,
+      "MUTASI": "200,000.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "10/04",
+      "KETERANGAN": "WITHDRAWAL DI 002 9892 RSU. INTAN BA",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "13/04",
+      "KETERANGAN": "SWITCHING DB",
+      "CBG": null,
+      "MUTASI": "6,500.00 DB",
+      "SALDO": "1,073,031.23"
+    },
+    {
+      "TANGGAL": "13/04",
+      "KETERANGAN": "TRANSFER KE 002 TONO PRIYANTO INS CITRA MN",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "13/04",
+      "KETERANGAN": "SWITCHING",
+      "CBG": null,
+      "MUTASI": "200,000.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "13/04",
+      "KETERANGAN": "WITHDRAWAL DI 009 INDAH K INDRA K",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": "865,531.23"
+    },
+    {
+      "TANGGAL": "16/04",
+      "KETERANGAN": "SWITCHING",
+      "CBG": null,
+      "MUTASI": "7,500.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "16/04",
+      "KETERANGAN": "BIAYA TXN DI 009 INDAH K INDRA K",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": "798,531.23"
+    },
+    {
+      "TANGGAL": "19/04",
+      "KETERANGAN": "TRSF E-BANKING DB TANGGAL:15/04",
+      "CBG": null,
+      "MUTASI": "67,000.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "19/04",
+      "KETERANGAN": "BIAYA TXN DI 009 MITRALUCI LUCIA MAR",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": "598,531.23"
+    },
+    {
+      "TANGGAL": "19/04",
+      "KETERANGAN": "SWITCHING",
+      "CBG": null,
+      "MUTASI": "200,000.00 DB",
+      "SALDO": null
+    },
+    {
+      "TANGGAL": "19/04",
+      "KETERANGAN": "WITHDRAWAL DI 016",
+      "CBG": null,
+      "MUTASI": null,
+      "SALDO": null
+    }
+  ]
+}

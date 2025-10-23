@@ -1,0 +1,1001 @@
+TransactionID,CustomerID,Amount,TransactionType,PaymentMethod,FraudType,Date
+T00001,C2449,2656.24,Transfer,Debit Card,Fake Identity,2024-12-01
+T00002,C8871,2101.55,Chargeback,PayPal,Account Takeover,2025-03-20
+T00003,C4589,4987.53,Transfer,Bank Transfer,Stolen Card,2024-12-14
+T00004,C1840,1804.89,Purchase,Bank Transfer,Stolen Card,2025-01-04
+T00005,C6383,2738.83,Chargeback,Debit Card,Phishing,2025-02-20
+T00006,C8620,3622.37,Purchase,E-Wallet,Stolen Card,2025-01-09
+T00007,C3749,108.64,Transfer,PayPal,Account Takeover,2025-08-08
+T00008,C2788,4787.04,Refund,E-Wallet,Stolen Card,2025-08-26
+T00009,C9921,4841.12,Purchase,Bank Transfer,None,2025-02-17
+T00010,C5105,2942.81,Transfer,Credit Card,Fake Identity,2025-07-02
+T00011,C8556,2666.83,Purchase,Credit Card,Account Takeover,2025-04-11
+T00012,C1365,1857.9,Refund,Credit Card,Account Takeover,2025-02-20
+T00013,C4051,4851.98,Purchase,Bank Transfer,Fake Identity,2025-07-16
+T00014,C2447,2332.36,Purchase,Bank Transfer,Stolen Card,2024-09-11
+T00015,C5067,4917.27,Refund,Bank Transfer,Stolen Card,2025-01-17
+T00016,C7727,3091.89,Purchase,Credit Card,None,2025-01-18
+T00017,C3257,1397.02,Transfer,Bank Transfer,Account Takeover,2025-03-15
+T00018,C1809,3037.65,Refund,E-Wallet,Phishing,2025-06-28
+T00019,C3821,2161.07,Chargeback,E-Wallet,Account Takeover,2024-10-12
+T00020,C7027,3500.01,Transfer,E-Wallet,Phishing,2024-11-03
+T00021,C9194,2590.09,Chargeback,E-Wallet,Fake Identity,2025-06-03
+T00022,C8392,3330.95,Chargeback,Bank Transfer,Fake Identity,2025-04-16
+T00023,C4847,3959.46,Refund,E-Wallet,Phishing,2025-02-16
+T00024,C2025,4552.6,Chargeback,E-Wallet,Account Takeover,2025-05-14
+T00025,C3780,3711.63,Chargeback,Credit Card,Phishing,2025-03-25
+T00026,C1534,652.07,Refund,PayPal,Phishing,2024-10-12
+T00027,C4706,1993.33,Transfer,PayPal,Fake Identity,2024-09-22
+T00028,C8080,1149.09,Refund,Bank Transfer,Phishing,2024-10-06
+T00029,C1072,2242.84,Purchase,Credit Card,Phishing,2024-12-12
+T00030,C6865,1221.08,Chargeback,Bank Transfer,None,2025-08-22
+T00031,C8230,1072.39,Refund,E-Wallet,Phishing,2025-02-19
+T00032,C5395,2640.75,Transfer,Debit Card,Fake Identity,2025-05-16
+T00033,C7578,4639.08,Refund,Credit Card,Fake Identity,2025-03-16
+T00034,C7266,2737.14,Purchase,E-Wallet,None,2025-05-01
+T00035,C8806,3235.08,Transfer,E-Wallet,Account Takeover,2025-05-19
+T00036,C3906,4184.5,Transfer,Debit Card,Phishing,2025-08-08
+T00037,C6235,4431.19,Purchase,Credit Card,None,2024-09-01
+T00038,C9620,3935.64,Transfer,Bank Transfer,Phishing,2025-07-19
+T00039,C1272,2816.46,Transfer,E-Wallet,Phishing,2025-03-11
+T00040,C2536,4270.32,Purchase,Credit Card,None,2024-10-22
+T00041,C1471,3987.45,Chargeback,Bank Transfer,Fake Identity,2025-03-26
+T00042,C4219,4305.17,Transfer,E-Wallet,Account Takeover,2025-04-29
+T00043,C3614,1873.95,Purchase,Bank Transfer,Fake Identity,2025-08-26
+T00044,C4410,1176.48,Purchase,Bank Transfer,Stolen Card,2025-01-26
+T00045,C4871,290.28,Purchase,PayPal,Fake Identity,2024-10-14
+T00046,C2304,2878.08,Transfer,PayPal,None,2025-06-27
+T00047,C7417,4811.92,Refund,Bank Transfer,Fake Identity,2024-10-23
+T00048,C4283,4557.08,Chargeback,E-Wallet,Phishing,2024-11-22
+T00049,C2127,1942.18,Purchase,E-Wallet,Stolen Card,2025-06-11
+T00050,C2802,1733.47,Purchase,Credit Card,None,2025-06-06
+T00051,C3965,3001.16,Refund,Credit Card,Fake Identity,2024-11-01
+T00052,C5210,429.41,Chargeback,Bank Transfer,None,2025-05-01
+T00053,C3582,3243.31,Chargeback,Credit Card,Phishing,2025-07-24
+T00054,C9702,84.9,Chargeback,Bank Transfer,Account Takeover,2025-04-05
+T00055,C7699,1028.16,Chargeback,PayPal,None,2024-12-02
+T00056,C2757,2069.78,Refund,E-Wallet,Account Takeover,2024-09-28
+T00057,C3584,790.42,Transfer,Credit Card,Fake Identity,2025-06-11
+T00058,C6247,3898.98,Transfer,PayPal,None,2025-05-12
+T00059,C4947,4663.1,Refund,Credit Card,Account Takeover,2025-08-22
+T00060,C6063,703.06,Purchase,Debit Card,Fake Identity,2024-12-02
+T00061,C3856,4527.96,Refund,PayPal,None,2025-08-25
+T00062,C8125,874.48,Refund,Bank Transfer,Stolen Card,2025-04-07
+T00063,C4528,2023.6,Transfer,Bank Transfer,Fake Identity,2024-12-11
+T00064,C4838,4472.03,Refund,Debit Card,Fake Identity,2025-01-21
+T00065,C3130,3800.92,Refund,PayPal,Phishing,2024-12-29
+T00066,C9346,1074.84,Refund,Debit Card,Phishing,2025-04-12
+T00067,C4181,4882.61,Purchase,Credit Card,Stolen Card,2024-09-26
+T00068,C5784,3732.0,Transfer,Bank Transfer,Phishing,2024-12-06
+T00069,C4374,3500.32,Transfer,Debit Card,Phishing,2025-05-16
+T00070,C3864,358.0,Transfer,E-Wallet,Fake Identity,2025-05-02
+T00071,C4770,1830.39,Purchase,Debit Card,Account Takeover,2024-10-10
+T00072,C7084,3694.31,Transfer,Bank Transfer,Phishing,2024-10-31
+T00073,C3247,2857.2,Refund,Bank Transfer,Account Takeover,2025-07-27
+T00074,C8160,3149.1,Transfer,E-Wallet,Account Takeover,2024-11-29
+T00075,C5495,1573.64,Chargeback,Credit Card,Phishing,2025-08-17
+T00076,C8475,88.54,Refund,PayPal,Stolen Card,2025-04-30
+T00077,C6013,68.7,Refund,E-Wallet,Phishing,2025-06-24
+T00078,C7463,3965.32,Chargeback,Debit Card,Stolen Card,2024-12-15
+T00079,C4940,1869.38,Chargeback,Credit Card,Stolen Card,2025-03-03
+T00080,C5543,3849.03,Refund,Credit Card,Stolen Card,2025-02-15
+T00081,C8211,3007.33,Chargeback,Debit Card,Account Takeover,2025-04-05
+T00082,C1791,229.04,Chargeback,Bank Transfer,Account Takeover,2025-08-02
+T00083,C7880,4902.8,Chargeback,Debit Card,None,2025-08-09
+T00084,C6131,1396.95,Refund,E-Wallet,None,2024-10-27
+T00085,C7892,3469.63,Transfer,Debit Card,Phishing,2024-09-21
+T00086,C4502,3551.12,Purchase,PayPal,None,2024-10-13
+T00087,C2066,370.64,Transfer,PayPal,Fake Identity,2024-10-08
+T00088,C5324,4251.28,Purchase,E-Wallet,None,2025-07-19
+T00089,C6025,1405.46,Refund,Debit Card,Account Takeover,2024-10-16
+T00090,C3992,3303.1,Transfer,PayPal,Stolen Card,2024-10-12
+T00091,C6085,940.43,Transfer,Credit Card,Phishing,2025-08-06
+T00092,C4541,637.81,Transfer,Credit Card,Phishing,2025-08-13
+T00093,C6681,2948.93,Refund,Credit Card,Stolen Card,2024-10-15
+T00094,C5747,10.27,Refund,Bank Transfer,Phishing,2025-04-05
+T00095,C5020,2659.06,Transfer,PayPal,None,2025-03-17
+T00096,C3781,4524.19,Purchase,Credit Card,Phishing,2025-08-02
+T00097,C3013,869.59,Refund,Bank Transfer,Stolen Card,2025-06-25
+T00098,C8126,4484.42,Refund,PayPal,Account Takeover,2024-10-29
+T00099,C1589,3165.27,Chargeback,Debit Card,Account Takeover,2025-08-02
+T00100,C7052,348.69,Purchase,Debit Card,None,2025-01-22
+T00101,C1672,2133.3,Purchase,PayPal,None,2024-12-24
+T00102,C5198,1903.76,Transfer,Credit Card,Stolen Card,2025-07-05
+T00103,C4829,419.05,Transfer,Bank Transfer,Account Takeover,2025-06-12
+T00104,C2344,3497.77,Purchase,E-Wallet,Stolen Card,2024-12-18
+T00105,C2463,4764.77,Purchase,Credit Card,Fake Identity,2024-10-13
+T00106,C8257,4855.27,Purchase,Debit Card,Account Takeover,2024-10-20
+T00107,C4085,3570.46,Transfer,PayPal,Phishing,2024-12-15
+T00108,C5409,239.06,Transfer,PayPal,Phishing,2025-05-11
+T00109,C8491,1717.76,Chargeback,Bank Transfer,Stolen Card,2025-08-16
+T00110,C6221,3369.2,Chargeback,Debit Card,Account Takeover,2024-10-26
+T00111,C4398,2046.8,Transfer,Bank Transfer,None,2025-08-25
+T00112,C6765,3126.99,Refund,E-Wallet,Phishing,2025-03-13
+T00113,C9926,457.08,Transfer,Credit Card,Stolen Card,2025-04-17
+T00114,C5420,2004.99,Purchase,Credit Card,None,2025-07-24
+T00115,C2133,4947.08,Chargeback,Credit Card,Account Takeover,2024-12-01
+T00116,C8476,94.4,Purchase,Credit Card,Fake Identity,2024-09-28
+T00117,C7955,43.99,Refund,Credit Card,None,2025-08-04
+T00118,C4948,2891.65,Chargeback,E-Wallet,Fake Identity,2025-07-27
+T00119,C1609,3915.06,Refund,Bank Transfer,Phishing,2025-06-24
+T00120,C3119,1858.41,Transfer,PayPal,Phishing,2025-07-16
+T00121,C1003,1611.19,Chargeback,E-Wallet,Stolen Card,2025-06-28
+T00122,C7328,1621.46,Chargeback,E-Wallet,Account Takeover,2025-02-07
+T00123,C2231,3756.36,Refund,Debit Card,None,2024-09-25
+T00124,C9051,468.07,Purchase,Bank Transfer,Account Takeover,2024-11-07
+T00125,C3570,2183.03,Purchase,PayPal,None,2025-04-04
+T00126,C5071,1936.96,Purchase,Bank Transfer,Stolen Card,2025-03-06
+T00127,C6984,2727.52,Refund,Bank Transfer,None,2024-12-04
+T00128,C9260,2360.09,Chargeback,Bank Transfer,Account Takeover,2025-01-09
+T00129,C1620,2773.43,Purchase,E-Wallet,Phishing,2025-02-06
+T00130,C5422,1716.36,Purchase,Credit Card,Account Takeover,2025-06-03
+T00131,C5731,3247.61,Chargeback,E-Wallet,Fake Identity,2025-02-28
+T00132,C8378,58.72,Chargeback,PayPal,None,2025-01-20
+T00133,C9149,1235.28,Purchase,Bank Transfer,Account Takeover,2024-09-02
+T00134,C8246,408.24,Refund,PayPal,Stolen Card,2024-09-14
+T00135,C7019,78.55,Refund,Bank Transfer,Stolen Card,2025-07-14
+T00136,C8133,4355.06,Chargeback,Bank Transfer,Account Takeover,2025-02-02
+T00137,C2026,1513.6,Transfer,Bank Transfer,Phishing,2024-12-02
+T00138,C4662,2238.93,Purchase,Bank Transfer,None,2025-02-14
+T00139,C1562,3486.47,Transfer,Bank Transfer,Account Takeover,2025-04-09
+T00140,C7007,4077.56,Chargeback,Bank Transfer,Phishing,2025-07-30
+T00141,C7858,3859.0,Transfer,Debit Card,Stolen Card,2025-02-13
+T00142,C6290,1842.23,Transfer,PayPal,Phishing,2025-04-08
+T00143,C6258,360.95,Transfer,PayPal,Phishing,2024-11-09
+T00144,C3698,2260.26,Transfer,Credit Card,None,2024-10-23
+T00145,C3853,1989.78,Refund,PayPal,Stolen Card,2024-10-27
+T00146,C4761,3014.65,Refund,PayPal,Account Takeover,2024-11-09
+T00147,C3217,2072.95,Purchase,PayPal,None,2024-12-06
+T00148,C2233,3770.09,Refund,E-Wallet,None,2024-10-30
+T00149,C8338,2736.92,Chargeback,E-Wallet,Fake Identity,2025-07-05
+T00150,C4899,4466.47,Chargeback,E-Wallet,Stolen Card,2024-11-06
+T00151,C5513,1010.86,Transfer,Credit Card,Fake Identity,2024-12-04
+T00152,C7250,2930.77,Transfer,PayPal,Account Takeover,2025-07-24
+T00153,C2490,3762.5,Transfer,Debit Card,Fake Identity,2025-01-15
+T00154,C6748,4417.68,Refund,Debit Card,Fake Identity,2025-07-14
+T00155,C3275,1398.59,Chargeback,Debit Card,Phishing,2025-04-27
+T00156,C3651,3739.74,Chargeback,E-Wallet,Stolen Card,2025-07-22
+T00157,C6549,1977.27,Purchase,Credit Card,None,2024-09-01
+T00158,C7221,2226.17,Refund,Bank Transfer,Account Takeover,2025-07-09
+T00159,C8552,4735.65,Purchase,E-Wallet,Account Takeover,2025-08-01
+T00160,C9855,1723.21,Transfer,Bank Transfer,None,2025-01-08
+T00161,C2646,2420.43,Refund,Debit Card,Phishing,2025-06-23
+T00162,C5433,141.21,Refund,Bank Transfer,Phishing,2024-10-18
+T00163,C7273,3771.18,Chargeback,E-Wallet,Fake Identity,2025-02-01
+T00164,C6751,2557.03,Chargeback,E-Wallet,None,2025-08-29
+T00165,C9003,510.15,Transfer,E-Wallet,Phishing,2024-12-12
+T00166,C7083,326.55,Refund,Debit Card,Phishing,2024-12-03
+T00167,C2006,1154.28,Refund,Credit Card,Stolen Card,2025-06-07
+T00168,C1180,556.63,Transfer,E-Wallet,Fake Identity,2025-06-22
+T00169,C6830,4159.88,Purchase,Bank Transfer,Stolen Card,2025-06-02
+T00170,C6741,2084.18,Purchase,Bank Transfer,Account Takeover,2024-12-27
+T00171,C8301,1594.43,Refund,PayPal,None,2024-10-21
+T00172,C6224,4764.01,Transfer,Bank Transfer,Stolen Card,2025-01-24
+T00173,C2034,190.02,Chargeback,E-Wallet,Fake Identity,2025-05-23
+T00174,C3111,2771.47,Refund,E-Wallet,Account Takeover,2024-11-10
+T00175,C9840,3097.22,Refund,Bank Transfer,Stolen Card,2025-07-29
+T00176,C2503,1359.18,Refund,Bank Transfer,Account Takeover,2025-08-25
+T00177,C9365,473.83,Transfer,Bank Transfer,Fake Identity,2025-05-05
+T00178,C4536,2772.36,Purchase,Bank Transfer,Phishing,2024-09-23
+T00179,C4487,3110.97,Chargeback,E-Wallet,Stolen Card,2025-06-11
+T00180,C1683,2718.63,Purchase,E-Wallet,Account Takeover,2024-08-29
+T00181,C2163,3514.81,Purchase,Bank Transfer,Account Takeover,2024-11-28
+T00182,C3988,2678.85,Chargeback,Bank Transfer,None,2025-08-29
+T00183,C8239,2040.95,Transfer,E-Wallet,Phishing,2024-09-03
+T00184,C7139,2561.05,Chargeback,PayPal,None,2024-12-14
+T00185,C8449,3308.05,Purchase,Debit Card,Stolen Card,2025-06-17
+T00186,C8382,3927.09,Transfer,E-Wallet,Phishing,2025-02-01
+T00187,C3478,4013.74,Chargeback,PayPal,Stolen Card,2024-12-22
+T00188,C3545,4150.76,Purchase,Debit Card,Account Takeover,2025-05-31
+T00189,C7499,3548.12,Purchase,Credit Card,None,2025-06-13
+T00190,C9894,4527.08,Transfer,Debit Card,Stolen Card,2025-04-06
+T00191,C9302,4671.47,Refund,Credit Card,None,2025-07-13
+T00192,C6055,1406.68,Purchase,E-Wallet,None,2025-04-07
+T00193,C8711,2367.49,Purchase,Credit Card,None,2025-07-25
+T00194,C7533,4584.51,Chargeback,Debit Card,Stolen Card,2024-10-27
+T00195,C1603,2262.86,Refund,Debit Card,Account Takeover,2024-09-21
+T00196,C7351,4626.15,Purchase,Debit Card,Stolen Card,2025-01-07
+T00197,C2402,2400.54,Refund,E-Wallet,Phishing,2025-07-09
+T00198,C6980,3935.87,Purchase,Debit Card,Fake Identity,2024-11-11
+T00199,C8546,2876.82,Purchase,Debit Card,Account Takeover,2025-06-26
+T00200,C1106,1737.95,Refund,Credit Card,Stolen Card,2025-02-04
+T00201,C7135,2917.29,Purchase,E-Wallet,None,2024-11-17
+T00202,C6662,3577.55,Chargeback,PayPal,Phishing,2024-12-30
+T00203,C9240,1911.97,Chargeback,E-Wallet,Stolen Card,2025-06-29
+T00204,C9841,471.87,Refund,E-Wallet,Fake Identity,2025-03-04
+T00205,C6834,2582.92,Purchase,E-Wallet,None,2024-12-06
+T00206,C3884,4165.46,Refund,Bank Transfer,Account Takeover,2025-06-28
+T00207,C3740,3464.46,Transfer,Debit Card,Stolen Card,2025-08-01
+T00208,C6892,273.3,Purchase,Bank Transfer,Phishing,2025-03-05
+T00209,C1100,1665.73,Transfer,PayPal,Fake Identity,2024-10-11
+T00210,C2442,666.61,Refund,E-Wallet,Account Takeover,2025-07-31
+T00211,C7782,2208.66,Purchase,E-Wallet,Phishing,2025-07-17
+T00212,C4554,622.97,Refund,Debit Card,None,2025-01-27
+T00213,C1538,2650.94,Transfer,Bank Transfer,None,2025-08-27
+T00214,C3983,723.71,Refund,E-Wallet,Account Takeover,2025-07-10
+T00215,C7502,3885.28,Chargeback,Bank Transfer,Fake Identity,2024-10-31
+T00216,C9792,762.21,Transfer,E-Wallet,Stolen Card,2025-04-09
+T00217,C9805,3267.02,Transfer,Debit Card,Fake Identity,2025-05-05
+T00218,C7188,1981.41,Refund,Credit Card,Stolen Card,2024-11-11
+T00219,C8923,4642.9,Chargeback,PayPal,None,2025-03-12
+T00220,C1824,4947.93,Refund,Bank Transfer,Stolen Card,2024-10-04
+T00221,C3803,2979.13,Purchase,Debit Card,Phishing,2024-10-14
+T00222,C9458,3451.95,Chargeback,E-Wallet,Account Takeover,2024-11-20
+T00223,C5163,190.73,Transfer,PayPal,Stolen Card,2024-09-26
+T00224,C2744,3120.49,Purchase,Debit Card,None,2025-07-12
+T00225,C2864,987.28,Transfer,Credit Card,Phishing,2025-04-23
+T00226,C1064,4981.26,Refund,Bank Transfer,None,2025-08-10
+T00227,C1877,4293.67,Transfer,Credit Card,Phishing,2024-09-19
+T00228,C2547,3776.67,Purchase,Bank Transfer,Fake Identity,2024-10-18
+T00229,C4191,1002.99,Refund,Debit Card,Account Takeover,2024-09-16
+T00230,C7970,818.19,Refund,E-Wallet,Phishing,2025-06-14
+T00231,C9957,1304.89,Refund,PayPal,Account Takeover,2024-11-08
+T00232,C8264,736.46,Transfer,Debit Card,Account Takeover,2024-12-18
+T00233,C6180,2510.01,Purchase,E-Wallet,None,2025-06-16
+T00234,C6410,3560.79,Refund,PayPal,Stolen Card,2025-06-23
+T00235,C6000,158.19,Refund,E-Wallet,Stolen Card,2025-06-16
+T00236,C4136,3941.58,Purchase,PayPal,Phishing,2024-10-22
+T00237,C9684,1835.0,Purchase,E-Wallet,Fake Identity,2024-10-07
+T00238,C7359,2884.76,Transfer,Bank Transfer,Account Takeover,2025-07-01
+T00239,C7842,4349.35,Chargeback,Credit Card,Phishing,2025-08-22
+T00240,C1252,2422.86,Transfer,Debit Card,Stolen Card,2025-01-08
+T00241,C8976,4224.21,Chargeback,Debit Card,Account Takeover,2025-01-22
+T00242,C4065,3064.93,Chargeback,Credit Card,Stolen Card,2025-06-24
+T00243,C4817,3295.3,Purchase,Debit Card,Stolen Card,2025-01-03
+T00244,C1295,3025.01,Purchase,Credit Card,Phishing,2025-05-22
+T00245,C6605,3021.38,Chargeback,Bank Transfer,Account Takeover,2024-09-28
+T00246,C6127,2144.16,Refund,PayPal,Phishing,2025-06-01
+T00247,C4003,4665.59,Refund,Bank Transfer,Phishing,2024-09-04
+T00248,C2800,1408.08,Transfer,Debit Card,None,2024-09-11
+T00249,C6595,3944.69,Purchase,Debit Card,None,2024-09-30
+T00250,C9938,3851.48,Purchase,E-Wallet,Phishing,2025-02-04
+T00251,C7384,4108.3,Refund,Bank Transfer,Stolen Card,2025-05-19
+T00252,C8714,867.2,Purchase,Bank Transfer,Phishing,2025-03-05
+T00253,C2036,1268.09,Chargeback,Debit Card,Phishing,2024-11-15
+T00254,C3072,1610.08,Refund,Credit Card,Fake Identity,2025-03-29
+T00255,C1352,3493.64,Transfer,E-Wallet,None,2025-06-26
+T00256,C8674,4433.07,Transfer,E-Wallet,Stolen Card,2024-09-23
+T00257,C5807,3510.25,Purchase,Debit Card,Phishing,2024-12-02
+T00258,C6934,139.42,Purchase,Credit Card,Phishing,2025-05-25
+T00259,C2589,2286.83,Refund,E-Wallet,Phishing,2025-08-23
+T00260,C8227,2900.74,Refund,PayPal,Fake Identity,2024-11-29
+T00261,C3972,664.93,Chargeback,Credit Card,Phishing,2025-01-27
+T00262,C6647,4329.73,Purchase,Debit Card,None,2024-10-24
+T00263,C7051,566.98,Purchase,E-Wallet,Stolen Card,2025-01-23
+T00264,C6332,34.55,Refund,E-Wallet,Fake Identity,2025-04-09
+T00265,C7788,3207.91,Purchase,Debit Card,Stolen Card,2025-04-12
+T00266,C2132,4790.97,Refund,Credit Card,Account Takeover,2025-03-23
+T00267,C1750,2372.85,Refund,PayPal,None,2025-05-19
+T00268,C9058,3772.1,Transfer,Credit Card,Phishing,2024-09-15
+T00269,C9696,1098.53,Purchase,Bank Transfer,Fake Identity,2024-11-10
+T00270,C6876,1122.84,Purchase,Debit Card,Stolen Card,2024-10-24
+T00271,C2362,1559.09,Transfer,PayPal,Account Takeover,2025-02-26
+T00272,C5341,2188.86,Chargeback,Credit Card,Stolen Card,2025-06-19
+T00273,C9707,1578.96,Transfer,Debit Card,None,2025-07-20
+T00274,C8047,2198.7,Transfer,Debit Card,Stolen Card,2025-04-19
+T00275,C1667,2761.53,Transfer,E-Wallet,Phishing,2024-10-05
+T00276,C9738,3527.4,Chargeback,Debit Card,Account Takeover,2024-10-13
+T00277,C7532,12.36,Purchase,PayPal,None,2025-04-28
+T00278,C7885,1498.28,Chargeback,Bank Transfer,Fake Identity,2025-07-08
+T00279,C4213,2338.52,Chargeback,Bank Transfer,Phishing,2025-04-12
+T00280,C5517,1204.5,Purchase,PayPal,Phishing,2025-06-14
+T00281,C3485,1651.57,Purchase,Credit Card,Stolen Card,2024-12-08
+T00282,C3447,2428.63,Refund,Bank Transfer,None,2025-05-12
+T00283,C2142,2941.56,Refund,Bank Transfer,None,2024-10-11
+T00284,C4885,826.95,Purchase,Credit Card,Account Takeover,2024-09-12
+T00285,C5471,818.41,Chargeback,PayPal,Stolen Card,2025-02-19
+T00286,C1426,1769.04,Transfer,Bank Transfer,Phishing,2025-03-30
+T00287,C9228,3079.74,Chargeback,E-Wallet,Fake Identity,2025-04-28
+T00288,C3242,3374.04,Purchase,Credit Card,None,2025-03-23
+T00289,C9520,2993.43,Purchase,Bank Transfer,Phishing,2025-05-08
+T00290,C6826,4736.21,Purchase,Debit Card,Phishing,2025-07-31
+T00291,C7528,2371.9,Refund,Debit Card,Phishing,2025-05-31
+T00292,C9912,4472.12,Purchase,Credit Card,Account Takeover,2025-06-15
+T00293,C9058,303.34,Purchase,Credit Card,Phishing,2025-07-18
+T00294,C6630,10.53,Transfer,E-Wallet,Phishing,2025-03-21
+T00295,C7933,4277.22,Transfer,PayPal,None,2024-10-29
+T00296,C1720,4986.18,Purchase,PayPal,Account Takeover,2025-02-11
+T00297,C9755,4319.13,Purchase,E-Wallet,Fake Identity,2024-11-04
+T00298,C6421,2096.63,Refund,Bank Transfer,Phishing,2025-02-11
+T00299,C2837,2398.43,Refund,Bank Transfer,Account Takeover,2025-07-28
+T00300,C7399,3625.91,Purchase,E-Wallet,Phishing,2025-04-17
+T00301,C8687,3948.84,Transfer,Credit Card,Phishing,2024-12-14
+T00302,C2305,994.9,Chargeback,PayPal,Fake Identity,2024-10-07
+T00303,C1392,4654.79,Transfer,PayPal,None,2024-09-02
+T00304,C1369,3333.61,Purchase,Debit Card,Account Takeover,2025-08-09
+T00305,C9866,1254.47,Chargeback,E-Wallet,Account Takeover,2024-11-23
+T00306,C3996,3804.43,Transfer,Debit Card,Account Takeover,2025-04-10
+T00307,C3443,4999.17,Refund,Credit Card,Fake Identity,2025-06-07
+T00308,C1064,3386.32,Transfer,Credit Card,Account Takeover,2025-01-09
+T00309,C4049,4289.49,Transfer,PayPal,None,2025-06-27
+T00310,C5228,4881.41,Transfer,E-Wallet,None,2025-07-07
+T00311,C5092,873.15,Chargeback,E-Wallet,Phishing,2025-08-09
+T00312,C2229,4882.63,Transfer,Bank Transfer,Stolen Card,2025-06-12
+T00313,C9889,1909.86,Purchase,Bank Transfer,None,2025-02-16
+T00314,C8454,3858.36,Chargeback,Credit Card,Phishing,2025-03-31
+T00315,C4767,3877.06,Transfer,Credit Card,Stolen Card,2024-11-20
+T00316,C8404,3464.42,Purchase,Credit Card,None,2025-01-27
+T00317,C8046,3563.27,Refund,PayPal,None,2025-01-20
+T00318,C6649,2316.36,Chargeback,Credit Card,Phishing,2024-09-08
+T00319,C1197,468.56,Purchase,E-Wallet,None,2025-05-26
+T00320,C4209,1358.29,Purchase,PayPal,Account Takeover,2024-12-23
+T00321,C8267,4232.07,Transfer,Credit Card,Fake Identity,2025-06-14
+T00322,C8880,3581.96,Transfer,Debit Card,None,2025-07-13
+T00323,C1067,3922.0,Transfer,Credit Card,Phishing,2024-11-26
+T00324,C8567,2273.41,Refund,PayPal,Fake Identity,2024-12-30
+T00325,C7411,4839.69,Refund,Credit Card,None,2025-03-04
+T00326,C9520,636.02,Purchase,Bank Transfer,Fake Identity,2025-08-28
+T00327,C1537,1277.96,Chargeback,Credit Card,Account Takeover,2025-06-14
+T00328,C2556,602.28,Refund,Debit Card,Phishing,2024-11-08
+T00329,C9890,3659.7,Purchase,Debit Card,Fake Identity,2025-03-12
+T00330,C4399,2957.64,Chargeback,Bank Transfer,Account Takeover,2024-09-24
+T00331,C7269,3857.66,Chargeback,Debit Card,None,2025-05-27
+T00332,C7961,2119.98,Purchase,Debit Card,Phishing,2025-01-30
+T00333,C3317,3492.84,Purchase,Bank Transfer,Account Takeover,2024-10-16
+T00334,C3877,3107.27,Purchase,Credit Card,Stolen Card,2025-01-17
+T00335,C8539,1635.65,Chargeback,Bank Transfer,Phishing,2025-08-10
+T00336,C1049,2206.5,Purchase,PayPal,Stolen Card,2024-09-08
+T00337,C7339,3519.41,Refund,Debit Card,Phishing,2024-09-04
+T00338,C3581,4910.86,Chargeback,E-Wallet,None,2025-04-08
+T00339,C1411,1655.11,Purchase,Bank Transfer,Account Takeover,2025-01-07
+T00340,C4805,1342.59,Refund,PayPal,Stolen Card,2025-07-07
+T00341,C3656,1619.78,Purchase,PayPal,None,2024-10-10
+T00342,C6171,3011.98,Transfer,Bank Transfer,Account Takeover,2025-01-04
+T00343,C7813,4942.01,Purchase,PayPal,Account Takeover,2025-04-18
+T00344,C8269,1508.51,Chargeback,E-Wallet,Stolen Card,2025-05-17
+T00345,C9627,4480.18,Refund,Bank Transfer,Phishing,2025-03-26
+T00346,C8984,2498.3,Refund,Bank Transfer,Account Takeover,2024-10-12
+T00347,C9490,3550.91,Transfer,Bank Transfer,Stolen Card,2024-11-17
+T00348,C9005,1453.8,Purchase,Debit Card,Fake Identity,2025-03-19
+T00349,C9284,3926.25,Refund,Bank Transfer,None,2025-05-22
+T00350,C1440,466.24,Chargeback,Debit Card,Stolen Card,2025-02-14
+T00351,C7157,3863.65,Refund,Bank Transfer,Stolen Card,2025-08-14
+T00352,C3555,1855.03,Chargeback,PayPal,None,2025-07-19
+T00353,C4419,2643.6,Chargeback,Credit Card,Fake Identity,2024-09-18
+T00354,C1566,3789.88,Chargeback,Credit Card,None,2025-02-24
+T00355,C7376,1825.79,Refund,Bank Transfer,None,2024-10-14
+T00356,C7077,939.28,Transfer,Credit Card,Phishing,2025-04-14
+T00357,C2719,37.91,Purchase,PayPal,Phishing,2025-05-26
+T00358,C7755,4736.23,Purchase,Credit Card,Account Takeover,2024-10-01
+T00359,C6680,734.41,Transfer,Debit Card,Account Takeover,2024-11-14
+T00360,C3169,1698.37,Refund,Debit Card,None,2025-07-15
+T00361,C6071,634.92,Chargeback,Debit Card,Account Takeover,2025-05-10
+T00362,C9845,1166.15,Chargeback,E-Wallet,None,2025-02-13
+T00363,C9565,1851.13,Chargeback,PayPal,None,2024-11-09
+T00364,C2537,4539.38,Refund,Debit Card,Stolen Card,2024-09-26
+T00365,C4610,1123.68,Purchase,PayPal,Stolen Card,2025-02-03
+T00366,C8148,1133.2,Transfer,E-Wallet,Account Takeover,2025-03-15
+T00367,C8881,1697.12,Transfer,PayPal,Fake Identity,2025-07-03
+T00368,C2583,2921.81,Transfer,Bank Transfer,Fake Identity,2025-04-01
+T00369,C3748,1421.87,Purchase,Credit Card,Stolen Card,2024-09-02
+T00370,C4641,79.0,Refund,Debit Card,Account Takeover,2024-10-18
+T00371,C6553,4000.88,Transfer,Bank Transfer,Stolen Card,2025-04-19
+T00372,C1546,3673.96,Refund,PayPal,None,2025-04-19
+T00373,C1517,4081.98,Transfer,E-Wallet,Account Takeover,2025-05-26
+T00374,C8632,3460.75,Transfer,Credit Card,Phishing,2025-06-10
+T00375,C4622,4768.57,Purchase,PayPal,Stolen Card,2025-02-08
+T00376,C1788,2124.26,Purchase,PayPal,Stolen Card,2025-04-24
+T00377,C4744,1868.01,Purchase,E-Wallet,Stolen Card,2025-05-11
+T00378,C9107,3351.48,Refund,PayPal,Phishing,2025-06-26
+T00379,C9391,3277.08,Purchase,Debit Card,Stolen Card,2025-03-22
+T00380,C1004,3964.95,Transfer,PayPal,Fake Identity,2025-08-06
+T00381,C6400,3132.33,Chargeback,Bank Transfer,Stolen Card,2024-10-26
+T00382,C7163,2490.77,Transfer,Debit Card,Stolen Card,2024-09-10
+T00383,C2010,3759.05,Refund,PayPal,Stolen Card,2025-04-11
+T00384,C8351,2172.56,Transfer,PayPal,None,2025-08-08
+T00385,C9119,3161.82,Refund,Bank Transfer,Stolen Card,2025-04-06
+T00386,C9902,2506.67,Chargeback,Debit Card,Stolen Card,2025-01-30
+T00387,C2381,2239.16,Chargeback,Bank Transfer,Fake Identity,2025-01-07
+T00388,C4059,3326.42,Refund,Credit Card,Phishing,2025-01-25
+T00389,C7857,857.55,Purchase,E-Wallet,Fake Identity,2025-04-29
+T00390,C5646,42.37,Refund,PayPal,Account Takeover,2025-07-10
+T00391,C1746,3180.59,Chargeback,Debit Card,Stolen Card,2024-09-01
+T00392,C1557,2315.98,Refund,PayPal,Stolen Card,2025-03-28
+T00393,C5016,2198.14,Transfer,Bank Transfer,Account Takeover,2025-04-08
+T00394,C8829,3411.17,Refund,Bank Transfer,Phishing,2024-10-13
+T00395,C4314,1291.19,Chargeback,PayPal,Fake Identity,2025-07-10
+T00396,C2878,4162.47,Transfer,Debit Card,Stolen Card,2024-11-21
+T00397,C7378,2007.26,Purchase,Debit Card,Stolen Card,2024-10-23
+T00398,C5794,4045.63,Chargeback,Bank Transfer,Stolen Card,2024-11-11
+T00399,C1663,2009.92,Purchase,Debit Card,Phishing,2025-06-05
+T00400,C3326,4862.47,Transfer,Debit Card,Account Takeover,2024-12-03
+T00401,C2642,3909.98,Chargeback,E-Wallet,Stolen Card,2025-06-05
+T00402,C6231,2787.84,Chargeback,E-Wallet,Stolen Card,2025-05-23
+T00403,C6336,2669.18,Chargeback,Debit Card,Stolen Card,2025-05-31
+T00404,C7657,855.23,Refund,Debit Card,None,2024-10-08
+T00405,C6047,4644.28,Purchase,Debit Card,None,2024-08-31
+T00406,C7865,2612.82,Chargeback,Debit Card,Fake Identity,2025-02-15
+T00407,C2845,2149.49,Purchase,Bank Transfer,Phishing,2024-09-01
+T00408,C2196,3320.06,Transfer,PayPal,Phishing,2025-03-31
+T00409,C6288,377.38,Refund,Bank Transfer,Fake Identity,2025-04-03
+T00410,C3688,1396.28,Chargeback,Credit Card,None,2025-06-30
+T00411,C4270,3408.9,Refund,PayPal,Fake Identity,2025-04-16
+T00412,C8574,296.71,Chargeback,Credit Card,Fake Identity,2024-09-17
+T00413,C9800,4419.14,Transfer,Debit Card,Stolen Card,2025-08-02
+T00414,C3123,3550.47,Purchase,Debit Card,Fake Identity,2024-11-03
+T00415,C9956,2284.48,Purchase,Bank Transfer,Fake Identity,2025-05-07
+T00416,C9398,418.1,Transfer,Bank Transfer,Account Takeover,2025-08-21
+T00417,C1411,2245.31,Transfer,Credit Card,None,2025-01-20
+T00418,C4743,4742.16,Chargeback,Debit Card,None,2025-02-20
+T00419,C7129,613.6,Purchase,Credit Card,None,2025-04-02
+T00420,C4226,648.78,Purchase,Bank Transfer,Stolen Card,2025-05-12
+T00421,C9317,746.36,Refund,Debit Card,Stolen Card,2025-08-12
+T00422,C4742,2327.7,Chargeback,Bank Transfer,Phishing,2025-08-23
+T00423,C3654,825.92,Purchase,Bank Transfer,Stolen Card,2025-08-16
+T00424,C1031,1383.47,Purchase,Credit Card,Account Takeover,2025-01-07
+T00425,C2841,4143.96,Chargeback,E-Wallet,Stolen Card,2024-11-17
+T00426,C2581,3480.25,Purchase,Credit Card,Phishing,2025-01-22
+T00427,C9287,3686.2,Refund,E-Wallet,None,2025-04-21
+T00428,C1423,1605.5,Transfer,E-Wallet,Phishing,2025-01-12
+T00429,C5160,2561.13,Chargeback,Credit Card,Fake Identity,2025-01-02
+T00430,C3913,4387.5,Purchase,PayPal,Account Takeover,2025-05-15
+T00431,C7246,2159.18,Refund,Bank Transfer,Account Takeover,2025-06-23
+T00432,C1855,4753.47,Purchase,PayPal,Stolen Card,2025-06-09
+T00433,C1296,133.91,Purchase,Credit Card,Phishing,2025-07-29
+T00434,C8558,4864.09,Chargeback,PayPal,Phishing,2025-05-18
+T00435,C3035,324.47,Chargeback,E-Wallet,Stolen Card,2025-06-09
+T00436,C4094,2975.81,Transfer,Debit Card,None,2024-09-16
+T00437,C7127,611.49,Refund,E-Wallet,Stolen Card,2025-04-02
+T00438,C9709,3110.03,Chargeback,Debit Card,Account Takeover,2025-01-02
+T00439,C7823,4395.04,Chargeback,E-Wallet,Fake Identity,2024-10-08
+T00440,C7925,3703.72,Transfer,PayPal,Account Takeover,2025-03-31
+T00441,C5407,3218.49,Purchase,PayPal,Phishing,2024-09-26
+T00442,C3339,4212.75,Purchase,Bank Transfer,Account Takeover,2024-12-06
+T00443,C3401,4344.91,Purchase,E-Wallet,Account Takeover,2025-03-08
+T00444,C8514,658.62,Transfer,E-Wallet,Account Takeover,2024-09-02
+T00445,C9773,1937.65,Refund,E-Wallet,None,2024-12-09
+T00446,C9685,1648.16,Transfer,Bank Transfer,Fake Identity,2024-11-20
+T00447,C4753,4510.47,Chargeback,E-Wallet,Phishing,2024-09-02
+T00448,C9849,1972.48,Chargeback,PayPal,None,2025-07-08
+T00449,C5843,126.52,Purchase,Bank Transfer,Stolen Card,2024-10-17
+T00450,C6503,1760.76,Chargeback,Bank Transfer,Stolen Card,2025-06-16
+T00451,C7493,4168.33,Refund,E-Wallet,None,2025-03-28
+T00452,C2908,2078.87,Refund,E-Wallet,None,2025-01-10
+T00453,C7977,1653.57,Transfer,PayPal,None,2025-08-20
+T00454,C8824,2113.84,Transfer,Credit Card,Phishing,2025-04-17
+T00455,C6127,3169.48,Purchase,Credit Card,Phishing,2025-01-29
+T00456,C7119,2261.47,Refund,Credit Card,None,2024-10-08
+T00457,C8341,1578.8,Chargeback,Bank Transfer,Stolen Card,2025-04-23
+T00458,C3273,2574.32,Refund,Credit Card,Phishing,2025-05-10
+T00459,C9635,4376.72,Chargeback,Credit Card,None,2025-03-24
+T00460,C3889,4912.58,Purchase,Bank Transfer,Phishing,2025-06-18
+T00461,C4610,2075.38,Purchase,Bank Transfer,Account Takeover,2024-11-07
+T00462,C2639,327.5,Chargeback,Bank Transfer,None,2024-08-30
+T00463,C2619,3536.63,Transfer,PayPal,Phishing,2025-06-10
+T00464,C6172,989.25,Refund,Credit Card,None,2025-06-05
+T00465,C5125,4675.11,Transfer,Debit Card,None,2025-01-14
+T00466,C3063,431.76,Transfer,Debit Card,None,2025-01-29
+T00467,C2399,1593.85,Transfer,Debit Card,Account Takeover,2025-02-18
+T00468,C1174,1346.56,Chargeback,E-Wallet,Stolen Card,2025-07-11
+T00469,C5499,2753.09,Purchase,Debit Card,Fake Identity,2024-10-21
+T00470,C5495,4021.57,Chargeback,E-Wallet,Stolen Card,2024-10-10
+T00471,C6791,4982.21,Refund,PayPal,Stolen Card,2025-08-29
+T00472,C2405,300.09,Transfer,Credit Card,None,2025-03-23
+T00473,C8455,1319.9,Transfer,Debit Card,Stolen Card,2024-12-18
+T00474,C7065,2115.66,Refund,Debit Card,Stolen Card,2025-07-10
+T00475,C1251,3691.08,Purchase,PayPal,None,2025-07-07
+T00476,C3556,2803.1,Purchase,Bank Transfer,Stolen Card,2025-08-06
+T00477,C8495,4395.21,Transfer,Bank Transfer,Account Takeover,2024-11-19
+T00478,C3757,3274.54,Refund,Bank Transfer,Phishing,2025-02-05
+T00479,C2639,4107.48,Chargeback,E-Wallet,Phishing,2025-04-04
+T00480,C5683,4119.66,Transfer,Credit Card,Phishing,2025-04-15
+T00481,C6681,4719.82,Transfer,PayPal,Account Takeover,2025-07-30
+T00482,C5355,3342.99,Transfer,E-Wallet,Stolen Card,2024-12-17
+T00483,C2247,1562.04,Refund,PayPal,Stolen Card,2025-03-04
+T00484,C2974,271.3,Refund,E-Wallet,None,2025-06-27
+T00485,C7210,2575.53,Transfer,Credit Card,Account Takeover,2024-12-18
+T00486,C5012,4467.35,Refund,E-Wallet,Phishing,2024-12-04
+T00487,C2136,2057.09,Refund,E-Wallet,Fake Identity,2024-08-29
+T00488,C1586,1443.19,Transfer,Debit Card,Account Takeover,2024-12-02
+T00489,C4439,4111.84,Transfer,Bank Transfer,Account Takeover,2025-07-01
+T00490,C7909,586.22,Refund,Credit Card,None,2024-11-30
+T00491,C1047,505.17,Transfer,Bank Transfer,Stolen Card,2025-07-30
+T00492,C4539,3705.85,Transfer,Credit Card,Phishing,2025-07-16
+T00493,C3782,397.8,Chargeback,PayPal,Stolen Card,2024-12-19
+T00494,C7201,4956.23,Purchase,Credit Card,Fake Identity,2025-06-14
+T00495,C2474,195.49,Purchase,E-Wallet,Phishing,2024-10-16
+T00496,C8999,349.98,Transfer,E-Wallet,Stolen Card,2025-07-24
+T00497,C9086,3792.5,Purchase,E-Wallet,Phishing,2025-06-14
+T00498,C6702,852.5,Purchase,Debit Card,Phishing,2025-05-05
+T00499,C5331,4987.96,Purchase,Credit Card,Phishing,2025-01-05
+T00500,C8857,553.48,Purchase,Debit Card,None,2024-11-04
+T00501,C6470,4799.67,Transfer,Bank Transfer,Stolen Card,2025-07-02
+T00502,C4147,2123.88,Purchase,Credit Card,Stolen Card,2024-10-13
+T00503,C6019,481.17,Purchase,Debit Card,Fake Identity,2024-10-17
+T00504,C2039,2554.64,Chargeback,E-Wallet,Stolen Card,2024-11-30
+T00505,C2472,4709.97,Chargeback,PayPal,None,2025-07-13
+T00506,C2030,919.75,Refund,Debit Card,Stolen Card,2024-11-19
+T00507,C1876,4802.42,Refund,PayPal,None,2025-01-05
+T00508,C8425,3263.29,Chargeback,Credit Card,Fake Identity,2024-12-31
+T00509,C3247,3439.47,Chargeback,PayPal,None,2025-01-17
+T00510,C1520,950.41,Chargeback,PayPal,Account Takeover,2025-01-29
+T00511,C1953,3377.35,Refund,Credit Card,Fake Identity,2025-05-21
+T00512,C5897,1528.59,Refund,E-Wallet,Phishing,2025-03-09
+T00513,C7909,4403.87,Purchase,Bank Transfer,Fake Identity,2025-02-10
+T00514,C1294,2677.12,Chargeback,E-Wallet,None,2024-10-10
+T00515,C3010,1661.31,Refund,Credit Card,Phishing,2025-08-14
+T00516,C5041,586.78,Purchase,Bank Transfer,Phishing,2025-02-01
+T00517,C8487,3131.93,Chargeback,Credit Card,Account Takeover,2025-01-14
+T00518,C9208,601.96,Purchase,Bank Transfer,None,2025-02-10
+T00519,C8751,3092.5,Purchase,E-Wallet,None,2024-12-02
+T00520,C9171,4183.5,Refund,Credit Card,Fake Identity,2025-05-26
+T00521,C7403,4573.8,Transfer,Credit Card,Phishing,2025-05-18
+T00522,C7833,1417.13,Purchase,Bank Transfer,Stolen Card,2024-12-18
+T00523,C2845,1371.18,Purchase,Bank Transfer,None,2024-11-11
+T00524,C5335,4423.32,Chargeback,Credit Card,None,2025-02-27
+T00525,C5430,11.49,Refund,Credit Card,Account Takeover,2024-10-07
+T00526,C1442,3651.43,Refund,Bank Transfer,Fake Identity,2025-08-28
+T00527,C5573,1867.2,Transfer,E-Wallet,None,2025-07-26
+T00528,C5687,2514.66,Refund,E-Wallet,None,2024-09-07
+T00529,C6951,2235.01,Refund,Credit Card,Fake Identity,2025-06-05
+T00530,C2904,2529.8,Purchase,Bank Transfer,None,2024-11-18
+T00531,C1593,2333.92,Transfer,PayPal,None,2025-06-12
+T00532,C5003,778.84,Purchase,E-Wallet,Account Takeover,2025-01-10
+T00533,C1499,2172.44,Refund,Bank Transfer,Phishing,2024-10-11
+T00534,C1895,3406.33,Refund,PayPal,None,2025-06-29
+T00535,C5005,4938.18,Chargeback,Debit Card,Stolen Card,2025-05-30
+T00536,C6270,1507.67,Transfer,E-Wallet,Fake Identity,2025-07-06
+T00537,C4433,4878.0,Transfer,Credit Card,None,2025-07-12
+T00538,C2903,2806.29,Chargeback,E-Wallet,Fake Identity,2025-07-19
+T00539,C2157,2729.24,Purchase,E-Wallet,Account Takeover,2025-07-25
+T00540,C8795,3840.33,Purchase,E-Wallet,Account Takeover,2025-03-12
+T00541,C2482,210.73,Transfer,Debit Card,Phishing,2025-07-19
+T00542,C7586,573.41,Purchase,Bank Transfer,Fake Identity,2025-07-19
+T00543,C2340,3224.87,Chargeback,Bank Transfer,Stolen Card,2025-03-09
+T00544,C5134,26.66,Transfer,PayPal,Phishing,2025-08-10
+T00545,C2649,3813.49,Chargeback,Bank Transfer,Phishing,2025-08-04
+T00546,C5405,2068.24,Refund,Bank Transfer,Fake Identity,2025-05-07
+T00547,C6975,3761.53,Transfer,E-Wallet,Phishing,2025-08-05
+T00548,C6464,2331.36,Refund,Debit Card,Fake Identity,2025-03-19
+T00549,C6859,2141.83,Refund,Credit Card,Stolen Card,2025-03-22
+T00550,C6670,1698.7,Transfer,Bank Transfer,Account Takeover,2025-08-04
+T00551,C7766,255.26,Refund,E-Wallet,Stolen Card,2024-10-19
+T00552,C5193,3239.55,Chargeback,E-Wallet,Account Takeover,2025-02-08
+T00553,C8294,1917.98,Purchase,Debit Card,Phishing,2025-08-25
+T00554,C3918,842.45,Refund,Credit Card,Phishing,2025-03-30
+T00555,C3770,1035.03,Chargeback,PayPal,Account Takeover,2025-05-31
+T00556,C3094,4785.55,Refund,PayPal,Phishing,2025-02-03
+T00557,C7114,2848.28,Transfer,PayPal,None,2025-06-10
+T00558,C3858,4530.3,Purchase,Debit Card,Stolen Card,2025-04-11
+T00559,C7018,3192.79,Transfer,PayPal,Fake Identity,2024-11-27
+T00560,C6179,2872.58,Chargeback,Credit Card,Phishing,2025-01-15
+T00561,C9149,851.72,Chargeback,Credit Card,Stolen Card,2025-06-01
+T00562,C8405,717.72,Purchase,PayPal,Stolen Card,2025-02-16
+T00563,C4329,1575.27,Chargeback,E-Wallet,None,2024-11-15
+T00564,C1849,3977.48,Transfer,Debit Card,None,2024-09-09
+T00565,C3205,4416.65,Refund,Credit Card,Account Takeover,2025-07-05
+T00566,C1803,4991.47,Purchase,PayPal,Phishing,2025-03-12
+T00567,C9313,3898.14,Transfer,E-Wallet,Fake Identity,2024-11-04
+T00568,C1590,703.6,Refund,Bank Transfer,Phishing,2025-08-18
+T00569,C1773,2359.78,Chargeback,E-Wallet,Stolen Card,2025-07-01
+T00570,C1315,4149.76,Purchase,PayPal,None,2024-12-11
+T00571,C8439,2324.22,Chargeback,Credit Card,None,2024-10-10
+T00572,C8229,3672.31,Purchase,Bank Transfer,Account Takeover,2024-10-31
+T00573,C5848,3538.26,Refund,Bank Transfer,None,2024-12-04
+T00574,C3799,1405.46,Chargeback,Bank Transfer,Stolen Card,2024-10-01
+T00575,C7995,2510.15,Chargeback,PayPal,Stolen Card,2024-10-15
+T00576,C4120,4261.2,Refund,Debit Card,Phishing,2024-10-15
+T00577,C3099,2923.48,Purchase,Bank Transfer,Fake Identity,2024-12-24
+T00578,C9851,2567.15,Purchase,Credit Card,None,2025-06-08
+T00579,C8562,3871.21,Chargeback,Debit Card,Fake Identity,2025-04-18
+T00580,C1207,1800.82,Refund,E-Wallet,Stolen Card,2024-12-14
+T00581,C7094,2503.34,Chargeback,Credit Card,Fake Identity,2025-03-03
+T00582,C8261,165.01,Purchase,Bank Transfer,Fake Identity,2025-02-17
+T00583,C4452,2862.12,Chargeback,E-Wallet,Phishing,2024-11-18
+T00584,C2734,601.27,Purchase,Credit Card,Phishing,2024-12-02
+T00585,C7530,905.06,Purchase,PayPal,Fake Identity,2024-12-23
+T00586,C6549,1868.59,Chargeback,Bank Transfer,Stolen Card,2025-08-03
+T00587,C8988,4703.97,Transfer,Credit Card,Account Takeover,2024-11-28
+T00588,C4744,3034.89,Transfer,Credit Card,Phishing,2025-04-18
+T00589,C1989,2325.88,Chargeback,Bank Transfer,Account Takeover,2024-08-30
+T00590,C9857,85.43,Purchase,Bank Transfer,None,2025-07-28
+T00591,C3925,1100.94,Refund,E-Wallet,Phishing,2025-02-13
+T00592,C1660,4847.26,Chargeback,Bank Transfer,Stolen Card,2025-03-14
+T00593,C4064,4373.06,Transfer,Debit Card,Phishing,2025-01-03
+T00594,C2689,960.93,Refund,Credit Card,Fake Identity,2024-12-18
+T00595,C1336,3274.34,Transfer,Debit Card,Stolen Card,2024-12-17
+T00596,C6218,4498.24,Chargeback,Bank Transfer,Stolen Card,2025-03-06
+T00597,C2098,938.77,Purchase,E-Wallet,None,2025-08-17
+T00598,C6986,2453.81,Chargeback,Bank Transfer,Account Takeover,2024-12-24
+T00599,C3323,4988.48,Transfer,Credit Card,Fake Identity,2025-03-03
+T00600,C3734,4067.6,Transfer,Bank Transfer,Account Takeover,2025-08-10
+T00601,C4136,2518.77,Purchase,Debit Card,None,2025-01-27
+T00602,C4285,1578.22,Transfer,PayPal,Stolen Card,2024-12-24
+T00603,C9885,1199.04,Chargeback,Credit Card,None,2025-07-14
+T00604,C6554,2377.0,Transfer,PayPal,Fake Identity,2024-12-13
+T00605,C9593,2732.53,Transfer,Bank Transfer,None,2025-02-27
+T00606,C4584,1221.91,Refund,Bank Transfer,Fake Identity,2024-10-31
+T00607,C3009,1042.48,Refund,Credit Card,Stolen Card,2025-04-01
+T00608,C7796,1774.4,Transfer,PayPal,Account Takeover,2025-07-24
+T00609,C4209,1536.71,Transfer,Credit Card,Phishing,2025-02-22
+T00610,C5031,59.4,Chargeback,E-Wallet,Account Takeover,2025-04-12
+T00611,C2218,3951.88,Refund,PayPal,Phishing,2025-03-27
+T00612,C9032,2393.01,Chargeback,Credit Card,Account Takeover,2025-07-31
+T00613,C8016,218.1,Chargeback,Credit Card,Stolen Card,2025-02-08
+T00614,C4832,241.59,Transfer,Debit Card,Account Takeover,2025-06-03
+T00615,C2962,4368.33,Refund,Debit Card,Account Takeover,2025-06-24
+T00616,C5594,2058.02,Chargeback,Debit Card,Account Takeover,2025-01-30
+T00617,C3544,1628.64,Purchase,Debit Card,Account Takeover,2024-11-09
+T00618,C7668,950.01,Chargeback,E-Wallet,Account Takeover,2024-09-07
+T00619,C7241,626.42,Transfer,Credit Card,None,2025-07-27
+T00620,C6077,3920.08,Refund,Debit Card,None,2024-11-07
+T00621,C6719,3288.86,Chargeback,Debit Card,Fake Identity,2025-04-06
+T00622,C1120,156.04,Refund,Credit Card,Fake Identity,2025-07-29
+T00623,C8995,3302.71,Refund,Credit Card,None,2025-01-06
+T00624,C8962,3002.3,Purchase,Debit Card,Phishing,2025-03-03
+T00625,C5989,2196.51,Refund,Debit Card,Stolen Card,2024-12-01
+T00626,C1633,864.42,Refund,E-Wallet,Fake Identity,2025-01-18
+T00627,C1280,4042.3,Chargeback,Bank Transfer,None,2025-02-04
+T00628,C7117,2125.27,Transfer,Credit Card,Fake Identity,2025-05-28
+T00629,C6619,3364.95,Transfer,Bank Transfer,Stolen Card,2024-11-09
+T00630,C3052,872.47,Transfer,Debit Card,Stolen Card,2025-05-20
+T00631,C9873,1532.2,Refund,E-Wallet,Phishing,2025-01-07
+T00632,C7309,1646.63,Transfer,PayPal,Phishing,2024-12-16
+T00633,C8938,2437.41,Purchase,Debit Card,Stolen Card,2025-05-15
+T00634,C6600,1144.75,Purchase,PayPal,Account Takeover,2025-03-22
+T00635,C1008,3794.12,Purchase,E-Wallet,Stolen Card,2025-07-05
+T00636,C5634,3343.31,Purchase,Credit Card,Stolen Card,2025-04-27
+T00637,C5698,1172.91,Purchase,PayPal,Account Takeover,2024-11-10
+T00638,C2403,2445.23,Purchase,PayPal,Phishing,2024-11-20
+T00639,C1036,646.55,Refund,Debit Card,Fake Identity,2024-11-19
+T00640,C1538,743.34,Chargeback,Debit Card,Account Takeover,2025-07-26
+T00641,C4174,4556.22,Chargeback,Bank Transfer,Account Takeover,2025-03-06
+T00642,C2872,4587.07,Chargeback,PayPal,Account Takeover,2024-10-27
+T00643,C1419,3684.28,Chargeback,Debit Card,None,2024-11-01
+T00644,C6240,134.38,Transfer,E-Wallet,None,2025-01-07
+T00645,C8408,2301.4,Transfer,PayPal,Account Takeover,2024-11-26
+T00646,C9233,4020.28,Transfer,E-Wallet,None,2025-04-24
+T00647,C4080,2585.8,Purchase,Bank Transfer,Stolen Card,2025-01-06
+T00648,C6867,932.23,Chargeback,Bank Transfer,Stolen Card,2025-04-10
+T00649,C9922,4840.31,Refund,PayPal,Account Takeover,2025-07-23
+T00650,C3890,424.8,Refund,E-Wallet,Account Takeover,2025-02-18
+T00651,C5465,3704.69,Chargeback,Bank Transfer,Phishing,2025-06-01
+T00652,C1807,1620.87,Purchase,Bank Transfer,Stolen Card,2024-12-10
+T00653,C1142,4403.99,Chargeback,E-Wallet,Phishing,2025-08-02
+T00654,C2807,4220.31,Chargeback,Credit Card,Fake Identity,2024-11-07
+T00655,C1047,3903.72,Transfer,Credit Card,Stolen Card,2025-08-09
+T00656,C6791,3499.59,Purchase,Credit Card,None,2025-01-25
+T00657,C6142,425.49,Purchase,Credit Card,Fake Identity,2025-03-03
+T00658,C2522,4974.66,Refund,Debit Card,Account Takeover,2025-03-19
+T00659,C6739,1673.25,Refund,Bank Transfer,Phishing,2024-12-28
+T00660,C3283,1709.57,Purchase,Bank Transfer,Account Takeover,2024-09-17
+T00661,C9834,4476.13,Purchase,Credit Card,None,2025-02-26
+T00662,C6773,2776.69,Transfer,PayPal,Fake Identity,2025-08-18
+T00663,C4347,4338.55,Purchase,Bank Transfer,None,2025-01-21
+T00664,C9250,2245.55,Purchase,PayPal,Stolen Card,2025-04-17
+T00665,C1552,2814.75,Transfer,E-Wallet,None,2025-04-19
+T00666,C2801,2526.32,Refund,Bank Transfer,Phishing,2025-07-24
+T00667,C4442,2397.09,Transfer,Debit Card,Fake Identity,2025-03-16
+T00668,C2234,4297.74,Chargeback,E-Wallet,None,2025-02-10
+T00669,C8693,2393.72,Purchase,Credit Card,Phishing,2025-01-29
+T00670,C7146,1693.26,Transfer,Bank Transfer,Account Takeover,2024-09-10
+T00671,C4838,3638.13,Chargeback,Debit Card,Fake Identity,2025-01-12
+T00672,C6232,3111.63,Transfer,Bank Transfer,Fake Identity,2024-12-07
+T00673,C9881,837.05,Refund,Credit Card,Stolen Card,2025-05-17
+T00674,C4695,2471.98,Transfer,E-Wallet,Stolen Card,2024-10-13
+T00675,C7237,2769.48,Transfer,Credit Card,None,2024-09-03
+T00676,C5618,2486.39,Refund,E-Wallet,Phishing,2025-02-04
+T00677,C9381,2532.6,Purchase,Credit Card,Stolen Card,2025-03-03
+T00678,C3252,2255.84,Chargeback,Credit Card,None,2025-01-29
+T00679,C8164,2809.32,Purchase,E-Wallet,Account Takeover,2025-05-05
+T00680,C6733,1092.96,Refund,Debit Card,Account Takeover,2024-10-23
+T00681,C2913,4211.74,Transfer,E-Wallet,None,2025-02-10
+T00682,C9875,3581.14,Refund,Credit Card,Fake Identity,2024-11-13
+T00683,C6549,791.22,Chargeback,E-Wallet,None,2025-03-26
+T00684,C1690,1052.28,Refund,PayPal,Fake Identity,2025-03-05
+T00685,C6834,2288.45,Transfer,E-Wallet,Fake Identity,2025-04-23
+T00686,C1314,2945.95,Chargeback,Bank Transfer,Fake Identity,2025-07-28
+T00687,C5527,3284.81,Refund,E-Wallet,Fake Identity,2024-10-05
+T00688,C2416,1441.97,Purchase,Credit Card,Stolen Card,2024-11-28
+T00689,C4506,3680.29,Chargeback,Credit Card,Account Takeover,2025-01-07
+T00690,C5801,2829.49,Chargeback,Debit Card,Phishing,2025-05-14
+T00691,C7230,4308.65,Chargeback,Debit Card,None,2025-04-20
+T00692,C6646,3538.06,Chargeback,E-Wallet,None,2024-09-24
+T00693,C2373,1445.96,Transfer,Credit Card,Fake Identity,2025-08-26
+T00694,C3247,110.14,Purchase,Credit Card,None,2025-01-03
+T00695,C5010,54.72,Refund,PayPal,Phishing,2025-05-22
+T00696,C9073,992.48,Purchase,Bank Transfer,Fake Identity,2025-02-15
+T00697,C6015,3727.93,Chargeback,E-Wallet,Stolen Card,2025-06-23
+T00698,C8361,1198.78,Purchase,Debit Card,None,2025-05-25
+T00699,C7142,2059.71,Transfer,E-Wallet,Stolen Card,2025-08-16
+T00700,C6877,2465.33,Refund,Bank Transfer,Stolen Card,2025-06-09
+T00701,C4811,4131.42,Purchase,E-Wallet,Fake Identity,2024-11-13
+T00702,C7449,3314.34,Chargeback,PayPal,Stolen Card,2025-03-06
+T00703,C5757,1278.04,Chargeback,PayPal,Stolen Card,2025-08-01
+T00704,C8638,2550.72,Transfer,PayPal,Account Takeover,2025-05-08
+T00705,C6162,2464.25,Chargeback,PayPal,Account Takeover,2024-09-24
+T00706,C9758,3484.58,Purchase,Debit Card,Phishing,2025-08-10
+T00707,C9862,704.89,Transfer,Bank Transfer,None,2025-01-05
+T00708,C5549,4570.72,Refund,Bank Transfer,Account Takeover,2024-11-01
+T00709,C7268,1386.42,Purchase,Bank Transfer,Account Takeover,2025-05-27
+T00710,C1733,2370.4,Chargeback,PayPal,Fake Identity,2024-11-11
+T00711,C8094,3236.59,Transfer,PayPal,Fake Identity,2025-06-02
+T00712,C6559,3326.17,Purchase,Bank Transfer,Phishing,2025-03-26
+T00713,C1949,4290.89,Purchase,PayPal,Phishing,2024-10-13
+T00714,C2697,4793.7,Transfer,Credit Card,Phishing,2024-10-26
+T00715,C9556,1914.72,Chargeback,Credit Card,Stolen Card,2025-02-26
+T00716,C1969,261.27,Transfer,Bank Transfer,Account Takeover,2024-11-13
+T00717,C5885,1017.98,Refund,E-Wallet,Stolen Card,2024-12-09
+T00718,C3257,888.35,Refund,Debit Card,Account Takeover,2025-04-22
+T00719,C6800,41.26,Purchase,Bank Transfer,None,2025-04-27
+T00720,C1031,1402.34,Purchase,Bank Transfer,None,2025-02-24
+T00721,C3610,3903.57,Refund,Credit Card,Account Takeover,2024-11-22
+T00722,C7507,3353.94,Chargeback,Credit Card,Stolen Card,2024-11-21
+T00723,C4467,4581.43,Refund,Credit Card,Account Takeover,2024-09-06
+T00724,C6491,4032.09,Transfer,Debit Card,Phishing,2024-11-22
+T00725,C7671,2783.41,Chargeback,PayPal,Phishing,2024-12-19
+T00726,C9625,432.59,Transfer,Debit Card,Account Takeover,2025-07-31
+T00727,C2561,866.76,Chargeback,PayPal,Phishing,2024-09-10
+T00728,C9818,3067.38,Refund,PayPal,None,2024-10-10
+T00729,C9663,4621.37,Chargeback,Debit Card,Stolen Card,2024-12-27
+T00730,C1385,2172.33,Refund,Credit Card,Phishing,2025-06-28
+T00731,C7891,1323.75,Refund,Debit Card,Stolen Card,2024-12-03
+T00732,C3410,3130.48,Transfer,Debit Card,Phishing,2025-07-22
+T00733,C3277,2947.91,Chargeback,E-Wallet,Phishing,2025-03-13
+T00734,C9362,971.81,Transfer,Bank Transfer,None,2024-11-12
+T00735,C5236,2356.49,Refund,E-Wallet,Stolen Card,2024-10-27
+T00736,C3536,2240.47,Transfer,PayPal,Fake Identity,2024-09-10
+T00737,C6427,1879.3,Transfer,Credit Card,None,2024-09-29
+T00738,C6434,3424.97,Purchase,Credit Card,Fake Identity,2025-03-30
+T00739,C2810,2782.44,Refund,Credit Card,Fake Identity,2025-06-21
+T00740,C1510,4775.05,Purchase,Bank Transfer,None,2025-05-16
+T00741,C3834,3316.63,Refund,Credit Card,Phishing,2025-07-04
+T00742,C5954,3384.36,Purchase,Credit Card,Fake Identity,2025-03-22
+T00743,C2135,768.2,Refund,Debit Card,Stolen Card,2025-01-06
+T00744,C3957,2450.4,Purchase,Debit Card,Account Takeover,2025-03-17
+T00745,C5923,2584.11,Chargeback,Debit Card,Fake Identity,2025-08-22
+T00746,C7230,2495.59,Chargeback,Bank Transfer,Fake Identity,2024-10-25
+T00747,C6689,481.14,Purchase,PayPal,Fake Identity,2025-08-21
+T00748,C7246,1769.42,Refund,Credit Card,Phishing,2025-05-28
+T00749,C3937,1925.34,Chargeback,Bank Transfer,Account Takeover,2025-07-12
+T00750,C4803,411.03,Transfer,Debit Card,Phishing,2025-07-21
+T00751,C5447,986.38,Chargeback,E-Wallet,Fake Identity,2024-10-17
+T00752,C4992,2612.91,Transfer,Bank Transfer,Fake Identity,2025-08-09
+T00753,C3545,220.54,Transfer,PayPal,Fake Identity,2025-06-26
+T00754,C4442,3106.37,Purchase,PayPal,Stolen Card,2025-07-19
+T00755,C3310,3932.04,Purchase,E-Wallet,Phishing,2024-12-27
+T00756,C2215,4343.85,Purchase,E-Wallet,Stolen Card,2025-07-15
+T00757,C4805,1778.44,Purchase,Bank Transfer,Phishing,2024-12-25
+T00758,C5161,3307.53,Chargeback,E-Wallet,Fake Identity,2024-10-08
+T00759,C1231,4834.51,Refund,Debit Card,Phishing,2025-06-13
+T00760,C4558,3732.14,Chargeback,E-Wallet,Account Takeover,2025-01-26
+T00761,C7929,1285.47,Purchase,E-Wallet,Stolen Card,2024-10-26
+T00762,C6181,482.74,Transfer,Bank Transfer,Phishing,2025-06-10
+T00763,C2495,967.52,Chargeback,Debit Card,Phishing,2025-07-09
+T00764,C8367,767.29,Chargeback,Bank Transfer,Fake Identity,2025-08-26
+T00765,C5044,189.68,Purchase,PayPal,Phishing,2025-06-17
+T00766,C1693,3088.51,Chargeback,Credit Card,Stolen Card,2024-11-16
+T00767,C1537,2339.37,Purchase,PayPal,Account Takeover,2024-12-14
+T00768,C1348,3282.21,Transfer,E-Wallet,Stolen Card,2024-11-19
+T00769,C3393,3635.7,Chargeback,Credit Card,Account Takeover,2025-02-06
+T00770,C9028,4642.66,Chargeback,Debit Card,Stolen Card,2025-04-20
+T00771,C2913,3732.21,Purchase,Debit Card,Account Takeover,2025-05-15
+T00772,C2230,372.13,Refund,Credit Card,Account Takeover,2025-06-17
+T00773,C1433,4226.57,Purchase,Bank Transfer,Fake Identity,2024-12-19
+T00774,C3531,1486.08,Purchase,E-Wallet,Phishing,2024-10-12
+T00775,C6758,4636.71,Chargeback,Bank Transfer,Account Takeover,2025-03-30
+T00776,C6901,2434.22,Transfer,E-Wallet,Account Takeover,2025-06-22
+T00777,C9978,1683.13,Transfer,E-Wallet,Phishing,2025-04-10
+T00778,C5492,3772.12,Transfer,Debit Card,Fake Identity,2024-11-28
+T00779,C3751,3945.01,Transfer,PayPal,Fake Identity,2025-05-03
+T00780,C1977,2155.21,Chargeback,E-Wallet,Stolen Card,2025-01-29
+T00781,C4944,3730.12,Purchase,Bank Transfer,None,2024-10-24
+T00782,C9620,1272.65,Refund,Debit Card,Phishing,2024-12-22
+T00783,C3568,3292.21,Chargeback,PayPal,Fake Identity,2025-02-06
+T00784,C9351,4338.26,Purchase,PayPal,Stolen Card,2025-08-26
+T00785,C2742,4976.58,Refund,Credit Card,Account Takeover,2024-12-30
+T00786,C1050,4895.38,Transfer,PayPal,None,2025-05-09
+T00787,C4263,1479.68,Purchase,Credit Card,Stolen Card,2025-08-02
+T00788,C5908,3875.88,Transfer,E-Wallet,Phishing,2024-09-21
+T00789,C1050,1148.49,Purchase,PayPal,Phishing,2025-02-02
+T00790,C7794,4760.37,Refund,Credit Card,Phishing,2024-10-30
+T00791,C9001,3556.54,Purchase,PayPal,Fake Identity,2025-05-17
+T00792,C1364,1468.41,Chargeback,E-Wallet,Phishing,2025-05-17
+T00793,C7547,2486.85,Refund,PayPal,None,2024-09-03
+T00794,C4613,1500.01,Chargeback,Bank Transfer,Account Takeover,2025-03-05
+T00795,C5318,3330.06,Refund,PayPal,Account Takeover,2025-04-21
+T00796,C8118,1703.45,Refund,PayPal,Fake Identity,2024-10-12
+T00797,C5449,830.19,Refund,Credit Card,Account Takeover,2025-08-11
+T00798,C6956,1964.19,Refund,Debit Card,Stolen Card,2025-06-24
+T00799,C1143,2781.44,Transfer,Debit Card,Fake Identity,2024-12-29
+T00800,C8697,1511.47,Chargeback,PayPal,Fake Identity,2024-12-03
+T00801,C7975,2722.96,Refund,Credit Card,Phishing,2025-03-05
+T00802,C6059,1238.06,Chargeback,PayPal,Account Takeover,2024-09-21
+T00803,C3429,2425.16,Transfer,PayPal,None,2025-08-22
+T00804,C1689,3563.94,Refund,E-Wallet,Account Takeover,2025-04-15
+T00805,C4777,2189.41,Transfer,E-Wallet,Stolen Card,2025-08-26
+T00806,C5340,2113.64,Chargeback,PayPal,Account Takeover,2025-01-31
+T00807,C6956,1849.76,Transfer,E-Wallet,None,2024-12-06
+T00808,C3211,2846.91,Purchase,PayPal,Account Takeover,2024-09-02
+T00809,C5769,1109.69,Refund,Bank Transfer,Stolen Card,2024-12-08
+T00810,C8621,4725.31,Transfer,PayPal,None,2025-04-01
+T00811,C7512,3002.57,Transfer,E-Wallet,Phishing,2024-09-16
+T00812,C6825,4493.18,Chargeback,Bank Transfer,Fake Identity,2025-06-15
+T00813,C3190,3357.99,Chargeback,Credit Card,Stolen Card,2025-02-26
+T00814,C1612,4838.42,Transfer,E-Wallet,None,2024-12-29
+T00815,C7940,2972.42,Chargeback,E-Wallet,Stolen Card,2025-03-08
+T00816,C8709,3978.94,Purchase,Credit Card,Account Takeover,2024-11-25
+T00817,C5145,535.41,Refund,PayPal,Phishing,2025-03-19
+T00818,C3658,2803.84,Transfer,PayPal,Account Takeover,2024-12-18
+T00819,C6054,1337.26,Purchase,Credit Card,Stolen Card,2025-07-12
+T00820,C6892,258.5,Transfer,Bank Transfer,Account Takeover,2025-01-27
+T00821,C5642,1231.72,Refund,Debit Card,Account Takeover,2024-09-28
+T00822,C1448,1732.31,Chargeback,Bank Transfer,None,2025-03-09
+T00823,C6117,1626.02,Chargeback,E-Wallet,Phishing,2025-02-07
+T00824,C9870,3772.44,Refund,Debit Card,Stolen Card,2025-06-27
+T00825,C2657,1159.01,Transfer,Credit Card,Stolen Card,2025-08-02
+T00826,C5201,2722.23,Chargeback,Bank Transfer,Account Takeover,2025-01-30
+T00827,C6302,817.58,Refund,Debit Card,None,2025-07-04
+T00828,C4397,1589.85,Chargeback,E-Wallet,Phishing,2025-01-23
+T00829,C1685,60.72,Chargeback,Debit Card,Phishing,2025-04-12
+T00830,C5060,4328.15,Transfer,Debit Card,Phishing,2024-09-23
+T00831,C8860,997.61,Chargeback,Debit Card,Stolen Card,2025-05-06
+T00832,C5471,3548.63,Transfer,Debit Card,Fake Identity,2025-06-10
+T00833,C4956,1944.1,Chargeback,Debit Card,Fake Identity,2025-08-21
+T00834,C1492,468.98,Purchase,PayPal,Stolen Card,2024-10-18
+T00835,C2924,3755.66,Refund,E-Wallet,Phishing,2024-10-17
+T00836,C4036,2073.98,Refund,E-Wallet,Account Takeover,2024-12-24
+T00837,C7503,1402.69,Chargeback,Credit Card,Account Takeover,2025-01-31
+T00838,C5195,3717.6,Chargeback,Bank Transfer,Account Takeover,2025-02-28
+T00839,C4731,4823.35,Transfer,Debit Card,None,2025-03-31
+T00840,C9296,4658.32,Transfer,Bank Transfer,Account Takeover,2025-07-07
+T00841,C6311,4566.11,Refund,Bank Transfer,Stolen Card,2025-07-25
+T00842,C2156,3746.05,Transfer,Bank Transfer,None,2025-01-29
+T00843,C4889,464.36,Purchase,Bank Transfer,Account Takeover,2024-10-03
+T00844,C7787,3587.88,Refund,Credit Card,None,2025-02-21
+T00845,C5318,4018.6,Purchase,Bank Transfer,Account Takeover,2025-05-15
+T00846,C7907,211.85,Chargeback,PayPal,None,2025-06-11
+T00847,C3462,3026.09,Refund,E-Wallet,Phishing,2025-02-27
+T00848,C6212,4411.47,Transfer,Debit Card,Phishing,2025-01-29
+T00849,C2804,767.13,Purchase,E-Wallet,Account Takeover,2024-12-08
+T00850,C1345,2001.8,Transfer,Bank Transfer,Account Takeover,2024-12-02
+T00851,C5999,4139.55,Refund,Credit Card,Phishing,2024-09-07
+T00852,C8179,2891.27,Purchase,PayPal,Fake Identity,2025-02-15
+T00853,C9155,2934.64,Transfer,Credit Card,Account Takeover,2025-02-18
+T00854,C5349,4652.69,Purchase,E-Wallet,None,2024-12-18
+T00855,C8290,4049.58,Chargeback,Credit Card,Phishing,2024-09-18
+T00856,C9594,4656.9,Refund,Bank Transfer,Stolen Card,2025-07-12
+T00857,C9636,587.09,Purchase,Credit Card,Account Takeover,2025-07-30
+T00858,C9922,4963.06,Purchase,PayPal,Account Takeover,2025-06-04
+T00859,C6837,3732.01,Purchase,Credit Card,Fake Identity,2025-06-06
+T00860,C4928,2268.69,Purchase,PayPal,Phishing,2025-07-26
+T00861,C3491,3095.38,Purchase,PayPal,Account Takeover,2024-09-28
+T00862,C7135,2399.94,Refund,Bank Transfer,Stolen Card,2024-10-20
+T00863,C7443,3105.2,Transfer,PayPal,Account Takeover,2025-07-01
+T00864,C9816,4763.51,Chargeback,Bank Transfer,Stolen Card,2025-05-08
+T00865,C5721,2944.28,Chargeback,Bank Transfer,None,2025-08-11
+T00866,C6757,3542.31,Chargeback,Credit Card,None,2025-01-11
+T00867,C1642,3600.55,Refund,Bank Transfer,Stolen Card,2025-02-04
+T00868,C9789,769.45,Refund,Bank Transfer,None,2025-06-23
+T00869,C4334,1980.47,Transfer,PayPal,None,2025-05-07
+T00870,C3885,4722.5,Chargeback,E-Wallet,Phishing,2024-10-14
+T00871,C9208,634.64,Chargeback,Credit Card,Stolen Card,2024-12-07
+T00872,C7048,3571.8,Transfer,Bank Transfer,Account Takeover,2025-03-21
+T00873,C5663,4302.4,Purchase,PayPal,Phishing,2025-03-06
+T00874,C2568,4096.07,Chargeback,Debit Card,Stolen Card,2025-02-07
+T00875,C9577,4353.18,Chargeback,Bank Transfer,Fake Identity,2024-10-04
+T00876,C2359,2118.27,Purchase,Bank Transfer,Account Takeover,2024-12-28
+T00877,C8103,4982.5,Refund,PayPal,Stolen Card,2024-11-15
+T00878,C5982,4070.18,Transfer,Bank Transfer,Phishing,2025-02-28
+T00879,C4445,901.29,Transfer,PayPal,Account Takeover,2025-02-04
+T00880,C4942,1629.23,Transfer,PayPal,Account Takeover,2025-05-23
+T00881,C3460,33.92,Transfer,E-Wallet,Fake Identity,2025-07-26
+T00882,C5774,623.97,Chargeback,Credit Card,Account Takeover,2025-04-23
+T00883,C3676,3724.88,Chargeback,E-Wallet,Phishing,2024-11-15
+T00884,C2528,1964.03,Purchase,Bank Transfer,Account Takeover,2025-04-08
+T00885,C7674,543.2,Transfer,Debit Card,Fake Identity,2024-11-15
+T00886,C6843,2261.21,Chargeback,Bank Transfer,Fake Identity,2024-11-08
+T00887,C4963,4566.64,Transfer,PayPal,Stolen Card,2025-07-11
+T00888,C4363,2252.78,Purchase,E-Wallet,Phishing,2025-05-23
+T00889,C6620,1103.22,Chargeback,Bank Transfer,None,2025-02-08
+T00890,C8692,4868.41,Refund,Bank Transfer,None,2024-11-12
+T00891,C5748,4732.5,Refund,Debit Card,Account Takeover,2024-09-01
+T00892,C3884,3815.22,Purchase,E-Wallet,Phishing,2025-04-18
+T00893,C8975,543.46,Transfer,PayPal,Fake Identity,2025-07-12
+T00894,C6589,4588.69,Purchase,Debit Card,Account Takeover,2025-01-05
+T00895,C8864,3126.75,Chargeback,Bank Transfer,Account Takeover,2025-03-17
+T00896,C5569,1293.53,Transfer,Credit Card,None,2024-11-18
+T00897,C7479,928.17,Chargeback,E-Wallet,None,2025-05-19
+T00898,C3293,353.01,Transfer,E-Wallet,Phishing,2025-07-05
+T00899,C1268,737.17,Purchase,Bank Transfer,Fake Identity,2025-02-08
+T00900,C2784,1426.37,Transfer,Debit Card,Stolen Card,2025-06-19
+T00901,C8825,1666.43,Purchase,Debit Card,Phishing,2024-10-13
+T00902,C9551,3990.15,Chargeback,Credit Card,Stolen Card,2025-02-19
+T00903,C5038,2462.16,Purchase,PayPal,Account Takeover,2025-03-02
+T00904,C6247,2018.49,Refund,Bank Transfer,Phishing,2025-06-10
+T00905,C7363,607.52,Refund,PayPal,None,2025-01-12
+T00906,C2904,2956.38,Transfer,Debit Card,Stolen Card,2025-05-31
+T00907,C9933,2872.83,Purchase,Credit Card,Phishing,2025-07-18
+T00908,C4926,1241.89,Purchase,Debit Card,Stolen Card,2024-08-30
+T00909,C4817,2588.52,Refund,Credit Card,Stolen Card,2025-02-20
+T00910,C5686,2467.3,Purchase,Credit Card,Account Takeover,2025-07-08
+T00911,C3843,3050.63,Chargeback,Debit Card,Account Takeover,2025-02-25
+T00912,C1741,911.02,Refund,Debit Card,Stolen Card,2025-05-31
+T00913,C8725,3641.14,Chargeback,PayPal,Account Takeover,2025-05-23
+T00914,C6456,3042.4,Purchase,E-Wallet,Phishing,2024-11-28
+T00915,C6299,1481.55,Chargeback,Credit Card,Account Takeover,2025-05-02
+T00916,C3480,1483.57,Transfer,Debit Card,Fake Identity,2025-06-10
+T00917,C6389,3067.07,Transfer,PayPal,Account Takeover,2024-09-10
+T00918,C3917,1709.89,Chargeback,Bank Transfer,Account Takeover,2025-05-30
+T00919,C5486,4530.64,Chargeback,PayPal,Stolen Card,2024-10-22
+T00920,C6077,3503.35,Chargeback,Bank Transfer,Stolen Card,2025-05-29
+T00921,C8044,2923.92,Purchase,PayPal,Account Takeover,2024-11-25
+T00922,C1959,1029.59,Transfer,Credit Card,Stolen Card,2024-10-03
+T00923,C6825,3971.85,Purchase,Debit Card,None,2025-03-13
+T00924,C4084,3356.04,Chargeback,Bank Transfer,Phishing,2024-10-03
+T00925,C5130,1696.85,Purchase,Credit Card,Stolen Card,2025-04-18
+T00926,C7861,288.46,Transfer,PayPal,None,2024-11-21
+T00927,C6357,1976.37,Transfer,PayPal,Stolen Card,2024-10-08
+T00928,C1142,2371.12,Purchase,Credit Card,None,2024-12-09
+T00929,C9256,3747.48,Chargeback,PayPal,None,2024-09-29
+T00930,C6178,969.4,Transfer,Bank Transfer,Fake Identity,2025-06-09
+T00931,C9025,2656.14,Purchase,E-Wallet,Phishing,2024-10-04
+T00932,C6139,119.93,Purchase,Credit Card,Stolen Card,2025-01-21
+T00933,C3041,4977.06,Refund,PayPal,Fake Identity,2025-02-15
+T00934,C9493,3290.09,Purchase,E-Wallet,Fake Identity,2024-12-20
+T00935,C9752,2481.14,Transfer,Credit Card,Stolen Card,2025-07-10
+T00936,C2318,2599.07,Refund,E-Wallet,None,2025-02-24
+T00937,C2825,1020.08,Purchase,Credit Card,Stolen Card,2025-01-05
+T00938,C6710,135.13,Purchase,Debit Card,None,2025-07-16
+T00939,C5038,1908.42,Transfer,E-Wallet,None,2025-01-02
+T00940,C9916,1714.04,Refund,Bank Transfer,Fake Identity,2024-12-23
+T00941,C2672,4883.61,Chargeback,E-Wallet,Account Takeover,2024-10-11
+T00942,C1110,3332.48,Chargeback,Debit Card,Fake Identity,2024-11-04
+T00943,C2094,307.7,Transfer,Bank Transfer,Fake Identity,2024-09-30
+T00944,C5469,4640.94,Transfer,Debit Card,Phishing,2024-10-08
+T00945,C5990,1487.94,Purchase,E-Wallet,Account Takeover,2024-10-28
+T00946,C9592,2741.54,Transfer,Bank Transfer,Fake Identity,2025-06-09
+T00947,C2518,4887.0,Refund,Bank Transfer,Fake Identity,2025-08-11
+T00948,C3307,427.27,Transfer,Debit Card,Stolen Card,2024-11-07
+T00949,C2544,3115.4,Chargeback,E-Wallet,Account Takeover,2025-04-03
+T00950,C6249,3303.25,Chargeback,Debit Card,Stolen Card,2025-04-29
+T00951,C7122,921.0,Purchase,Bank Transfer,Stolen Card,2024-12-04
+T00952,C6735,3876.78,Chargeback,Bank Transfer,Stolen Card,2025-08-13
+T00953,C2291,474.82,Transfer,Bank Transfer,Phishing,2025-02-13
+T00954,C9987,3396.44,Refund,Bank Transfer,Account Takeover,2025-04-13
+T00955,C5086,3921.77,Purchase,Bank Transfer,Stolen Card,2025-05-28
+T00956,C6566,3043.36,Purchase,Credit Card,Fake Identity,2024-12-28
+T00957,C3002,4394.89,Refund,Bank Transfer,Fake Identity,2024-10-30
+T00958,C8140,1124.46,Purchase,Debit Card,None,2025-07-15
+T00959,C6661,3851.46,Transfer,PayPal,Account Takeover,2024-12-08
+T00960,C5883,4252.64,Refund,PayPal,Stolen Card,2024-10-23
+T00961,C5063,2291.98,Purchase,Bank Transfer,Stolen Card,2025-04-23
+T00962,C6660,2638.46,Transfer,E-Wallet,Phishing,2025-07-20
+T00963,C9890,2540.03,Transfer,Bank Transfer,Account Takeover,2024-10-04
+T00964,C6238,1906.12,Transfer,Credit Card,Stolen Card,2025-04-03
+T00965,C5102,3066.71,Transfer,PayPal,Stolen Card,2025-01-11
+T00966,C2106,3859.18,Transfer,Bank Transfer,Phishing,2025-07-30
+T00967,C9132,3272.27,Refund,Bank Transfer,Fake Identity,2024-09-10
+T00968,C3467,537.92,Chargeback,Debit Card,None,2024-10-27
+T00969,C3045,1684.39,Purchase,PayPal,Fake Identity,2025-02-04
+T00970,C8187,4751.04,Chargeback,Credit Card,Account Takeover,2025-04-21
+T00971,C1443,1181.72,Purchase,E-Wallet,Stolen Card,2025-08-21
+T00972,C3442,871.2,Chargeback,Credit Card,Fake Identity,2025-07-31
+T00973,C1534,4290.72,Transfer,PayPal,Phishing,2024-11-05
+T00974,C3273,1173.35,Refund,Bank Transfer,Phishing,2024-12-10
+T00975,C3096,4375.63,Purchase,Bank Transfer,Fake Identity,2024-09-05
+T00976,C5139,2349.44,Refund,E-Wallet,Stolen Card,2024-12-17
+T00977,C1828,1812.42,Chargeback,E-Wallet,Stolen Card,2025-05-18
+T00978,C2942,1346.58,Purchase,PayPal,None,2025-03-01
+T00979,C8363,3994.2,Purchase,Bank Transfer,Phishing,2024-09-27
+T00980,C9242,143.85,Purchase,Debit Card,Fake Identity,2025-04-02
+T00981,C7495,3695.21,Chargeback,Debit Card,Fake Identity,2025-05-06
+T00982,C6865,974.93,Purchase,Bank Transfer,Account Takeover,2025-07-24
+T00983,C7530,32.68,Chargeback,Credit Card,Account Takeover,2024-12-10
+T00984,C8819,49.55,Chargeback,Credit Card,Account Takeover,2025-07-16
+T00985,C6882,1985.28,Transfer,PayPal,Account Takeover,2025-01-21
+T00986,C5315,1713.75,Chargeback,Debit Card,Fake Identity,2024-10-30
+T00987,C1300,1518.62,Transfer,E-Wallet,Phishing,2024-12-19
+T00988,C1595,2537.46,Transfer,Bank Transfer,Fake Identity,2025-03-17
+T00989,C5284,1866.38,Purchase,E-Wallet,Stolen Card,2025-04-03
+T00990,C2148,4834.54,Chargeback,Debit Card,Fake Identity,2025-01-26
+T00991,C4175,159.12,Chargeback,Debit Card,Account Takeover,2024-09-25
+T00992,C9759,1789.23,Transfer,Credit Card,Account Takeover,2025-07-10
+T00993,C2592,1695.8,Refund,PayPal,None,2025-08-29
+T00994,C6105,4701.53,Chargeback,E-Wallet,Fake Identity,2025-08-11
+T00995,C3122,3167.69,Transfer,E-Wallet,Account Takeover,2025-06-23
+T00996,C6337,3365.64,Transfer,Bank Transfer,Fake Identity,2025-06-29
+T00997,C3833,1895.89,Transfer,E-Wallet,Stolen Card,2024-12-22
+T00998,C5820,2595.95,Chargeback,PayPal,Fake Identity,2025-07-20
+T00999,C9484,4636.17,Purchase,E-Wallet,Stolen Card,2025-03-15
+T01000,C7692,1880.54,Refund,E-Wallet,Fake Identity,2025-01-12

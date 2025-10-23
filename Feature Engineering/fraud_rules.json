@@ -1,0 +1,17 @@
+{
+    "rule_high_amount": {
+        "column": "transaction amount",
+        "operator": ">",
+        "value": 5000000
+    },
+    "rule_night_time": {
+        "column": "transaction hour",
+        "operator": "between",
+        "value": [0, 5]
+    },
+    "rule_old_account": {
+        "column": "account age days",
+        "operator": "<",
+        "value": 30
+    }
+}

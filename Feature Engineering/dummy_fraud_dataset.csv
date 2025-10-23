@@ -1,0 +1,3001 @@
+CustomerID,Amount,DeviceBrand,DeviceModel,Fraud,FraudType
+4677,3605.61,Realme,GT Neo 5,0,Non-Fraud
+9927,3192.43,Samsung,Galaxy Note 20,0,Non-Fraud
+3794,793.61,Laptop,Dell XPS,0,Non-Fraud
+1174,4526.92,Samsung,Galaxy Note 20,0,Non-Fraud
+5976,3172.57,Oppo,Reno 8,1,"Fraud Onboarding 
+Alamat Palsu"
+7814,4698.51,Google,Pixel 7,1,"CNP (Card Not Present)
+Fake Account"
+9247,1359.07,Oppo,Reno 8,0,Non-Fraud
+6395,2384.31,Realme,GT Neo 5,0,Non-Fraud
+6093,2675.58,Xiaomi,Redmi 13C,0,Non-Fraud
+1750,557.94,Custom PC,Windows 10 Office PC,0,Non-Fraud
+2776,1776.91,Oppo,Find X5 Pro,0,Non-Fraud
+6991,2873.94,Apple,iPhone 12,1,"CNP (Card Not Present)
+Transaksi Berulang"
+8363,26.52,Huawei,Mate 40,0,Non-Fraud
+9984,1756.07,Huawei,MatePad Pro,0,Non-Fraud
+7638,1690.72,Huawei,MatePad Pro,0,Non-Fraud
+6625,4073.8,Laptop,HP Pavilion,0,Non-Fraud
+4666,4907.65,Xiaomi,Poco X5,0,Non-Fraud
+7795,116.72,Apple,iPhone 14 Pro Max,0,Non-Fraud
+4554,4405.67,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+6245,4469.61,Infinix,Zero Ultra,0,Non-Fraud
+8273,557.96,Laptop,Asus ROG,0,Non-Fraud
+1660,1347.99,Laptop,HP Pavilion,1,"Fraud Onboarding 
+Dokumen Curian"
+6203,3097.34,Vivo,V27 Pro,1,"Fraud E-Commerce
+Pesanan Palsu"
+6784,3503.83,Samsung,Galaxy A54,0,Non-Fraud
+6382,2489.25,Laptop,Acer Aspire,0,Non-Fraud
+6050,3606.28,Apple,iPad Air,1,"Fraud E-Commerce
+Refund Fraud"
+4257,4171.1,Google,Pixel 7,1,"Fraud Onboarding 
+Data Duplikat"
+9297,3118.8,Xiaomi,Pad 6,0,Non-Fraud
+6398,362.12,Apple,iPhone 13 Pro,0,Non-Fraud
+4976,3020.29,Laptop,MSI Stealth,1,"Counterfeit
+Modifikasi Chip"
+8542,3418.22,Apple,iPhone SE,0,Non-Fraud
+5182,4491.19,Laptop,Acer Aspire,1,"CNP (Card Not Present)
+Bot Transaksi"
+6510,3006.27,Samsung,Galaxy Note 20,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+3341,2252.51,Oppo,Reno 8,1,"Fraud E-Commerce
+Pesanan Palsu"
+5274,3412.3,Xiaomi,Redmi 13C,1,"Fraud Onboarding 
+Alamat Palsu"
+1519,753.39,Huawei,P50 Pro,0,Non-Fraud
+5485,2893.63,Laptop,Dell XPS,1,"Counterfeit
+Kartu Kloning"
+2279,4389.26,Apple,iPhone 14 Pro Max,1,"Fraud E-Commerce
+Refund Fraud"
+7224,2574.75,Custom PC,Windows 10 Office PC,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+3350,3260.06,Apple,MacBook Air M2,1,"CNP (Card Not Present)
+Fake Account"
+5454,1333.67,Apple,iPhone 14 Pro Max,0,Non-Fraud
+5346,671.25,Laptop,Lenovo ThinkPad,0,Non-Fraud
+1956,3593.72,Laptop,HP Pavilion,0,Non-Fraud
+6587,1354.52,Vivo,X90,0,Non-Fraud
+4551,2840.53,Xiaomi,Pad 6,0,Non-Fraud
+1696,1978.52,Realme,C55,1,"CNP (Card Not Present)
+Bot Transaksi"
+8043,2351.29,Huawei,P50 Pro,0,Non-Fraud
+5076,4264.52,Xiaomi,Pad 6,1,"CNP (Card Not Present)
+Transaksi Berulang"
+2869,3637.88,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+2206,3538.79,Apple,iPad Pro 12.9,0,Non-Fraud
+3402,4225.94,Laptop,Asus ROG,1,"Fraud Onboarding 
+Identitas Palsu"
+2471,3058.65,Laptop,MSI Stealth,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+2063,4534.84,Infinix,Zero Ultra,1,"Fraud E-Commerce
+Refund Fraud"
+1126,3230.42,Laptop,Asus ROG,1,"CNP (Card Not Present)
+Transaksi Berulang"
+5502,2709.13,Infinix,Zero Ultra,1,"CNP (Card Not Present)
+Fake Account"
+5297,2095.37,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+3775,4734.2,Custom PC,Windows 10 Office PC,1,"Fraud Onboarding 
+Data Duplikat"
+8062,1608.62,Apple,MacBook Air M2,1,"Fraud E-Commerce
+Ulasan Palsu"
+4564,1123.68,Xiaomi,Pad 6,1,"Fraud Onboarding 
+Data Duplikat"
+2545,2770.06,Samsung,Galaxy S23,1,"Fraud Onboarding 
+Data Duplikat"
+2684,3190.1,Oppo,A78,0,Non-Fraud
+8267,1276.53,Xiaomi,Pad 6,0,Non-Fraud
+6386,2062.3,Apple,iPhone 14 Pro Max,0,Non-Fraud
+1561,477.94,Laptop,Acer Aspire,1,"Counterfeit
+Cetak Kartu Palsu"
+4211,4932.87,Huawei,Mate 40,0,Non-Fraud
+8826,272.35,Samsung,Galaxy A54,0,Non-Fraud
+4177,3047.37,Google,Pixel 6a,1,"Fraud E-Commerce
+Ulasan Palsu"
+3594,1859.34,Apple,iPhone SE,0,Non-Fraud
+1259,4427.67,Apple,iPad Air,1,"Fraud E-Commerce
+Diskon Palsu"
+8205,62.42,Laptop,Asus ROG,0,Non-Fraud
+4518,4203.04,Apple,iPad Air,0,Non-Fraud
+7799,4721.17,Xiaomi,Mi 11 Ultra,1,"CNP (Card Not Present)
+Phising Data"
+5859,1168.79,Google,Pixel 7,1,"CNP (Card Not Present)
+Phising Data"
+8139,3606.28,Google,Pixel 7,1,"Fraud E-Commerce
+Pesanan Palsu"
+2049,1901.48,Huawei,P50 Pro,1,"Fraud Onboarding 
+Alamat Palsu"
+3824,1702.92,Apple,iPhone 13 Pro,0,Non-Fraud
+7294,3199.73,Realme,GT Neo 5,0,Non-Fraud
+6484,911.57,Realme,C55,0,Non-Fraud
+6949,235.6,Xiaomi,Pad 6,1,"Fraud Onboarding 
+Dokumen Curian"
+1758,1838.62,Samsung,Galaxy Tab A8,1,"Fraud E-Commerce
+Refund Fraud"
+7924,4360.08,Infinix,Hot 30,0,Non-Fraud
+9012,3795.87,Realme,GT Neo 5,1,"CNP (Card Not Present)
+Fake Account"
+4166,4328.29,Infinix,Hot 30,0,Non-Fraud
+1803,1423.57,Infinix,Zero Ultra,1,"CNP (Card Not Present)
+Bot Transaksi"
+7980,590.24,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+6779,4185.44,Infinix,Zero Ultra,0,Non-Fraud
+6572,2445.39,Samsung,Galaxy Note 20,1,"CNP (Card Not Present)
+Phising Data"
+4078,919.99,Samsung,Galaxy Note 20,1,"Fraud Onboarding 
+Identitas Palsu"
+3500,1254.18,Realme,C55,0,Non-Fraud
+8429,2890.55,Google,Pixel 6a,0,Non-Fraud
+4387,2909.93,Google,Pixel 7,0,Non-Fraud
+2292,1743.45,Vivo,V27 Pro,1,"Counterfeit
+Kartu Kloning"
+6613,4956.27,Laptop,HP Pavilion,0,Non-Fraud
+8832,645.23,Vivo,Y36,1,"CNP (Card Not Present)
+Phising Data"
+4448,2374.07,Vivo,Y36,1,"Counterfeit
+Cetak Kartu Palsu"
+5671,624.69,Xiaomi,Pad 6,1,"Counterfeit
+Penjualan Kartu Palsu"
+8242,2870.54,Google,Pixel 7,1,"CNP (Card Not Present)
+IP Asing "
+6952,2709.92,Apple,iPad Air,1,"CNP (Card Not Present)
+IP Asing "
+2851,2258.23,Oppo,A78,0,Non-Fraud
+3131,1660.56,Apple,MacBook Pro M3,0,Non-Fraud
+6270,1799.58,Custom PC,Windows 11 Gaming Rig,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+2257,4548.58,Huawei,Mate 40,0,Non-Fraud
+9934,1974.35,Xiaomi,Poco X5,0,Non-Fraud
+4135,1301.04,Infinix,Hot 30,1,"Counterfeit
+Penjualan Kartu Palsu"
+4073,4170.93,Laptop,MSI Stealth,1,"CNP (Card Not Present)
+Fake Account"
+6189,2953.96,Apple,iPhone 12,0,Non-Fraud
+1464,322.48,Apple,iPhone 13 Pro,1,"Fraud Onboarding 
+Alamat Palsu"
+5721,1351.86,Laptop,Dell XPS,1,"Fraud Onboarding 
+Bot Registerasi"
+3177,3859.5,Samsung,Galaxy Tab S9,0,Non-Fraud
+5960,4614.98,Laptop,Lenovo ThinkPad,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+3863,4086.51,Realme,C55,0,Non-Fraud
+4979,1885.94,Xiaomi,Redmi 13C,1,"CNP (Card Not Present)
+Phising Data"
+3905,4033.65,Infinix,Zero Ultra,1,"Fraud E-Commerce
+Pesanan Palsu"
+2278,4935.2,Google,Pixel 6a,1,"Counterfeit
+Modifikasi Chip"
+9266,4444.94,Apple,iPhone 12,1,"Fraud Onboarding 
+Dokumen Curian"
+8898,3769.97,Apple,iPad Air,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+8026,374.96,Samsung,Galaxy Tab A8,1,"Counterfeit
+Modifikasi Chip"
+1982,3108.43,Huawei,P50 Pro,0,Non-Fraud
+8033,956.43,Oppo,Reno 8,1,"Fraud Onboarding 
+Data Duplikat"
+1336,1318.41,Laptop,Asus ROG,1,"Fraud Onboarding 
+Identitas Palsu"
+3619,4369.48,Realme,C55,1,"Counterfeit
+Modifikasi Chip"
+3589,415.07,Apple,iPad Pro 12.9,1,"Fraud Onboarding 
+Dokumen Curian"
+3381,2033.09,Apple,iPad Pro 12.9,0,Non-Fraud
+5039,1472.97,Samsung,Galaxy Tab A8,1,"Fraud Onboarding 
+Identitas Palsu"
+7961,97.61,Apple,iPad Pro 12.9,0,Non-Fraud
+7855,1735.06,Realme,C55,0,Non-Fraud
+5387,1142.18,Vivo,Y36,0,Non-Fraud
+3558,139.47,Laptop,Lenovo ThinkPad,1,"Counterfeit
+Penjualan Kartu Palsu"
+2437,1317.53,Samsung,Galaxy A54,0,Non-Fraud
+5671,2160.55,Xiaomi,Redmi Note 12,1,"Fraud E-Commerce
+Ulasan Palsu"
+9691,872.62,Apple,iPhone 12,0,Non-Fraud
+3238,3061.44,Oppo,Reno 8,0,Non-Fraud
+8720,730.31,Apple,iPhone 12,1,"CNP (Card Not Present)
+Bot Transaksi"
+3511,1865.71,Custom PC,Windows 10 Office PC,0,Non-Fraud
+5694,3468.01,Apple,iPad Air,0,Non-Fraud
+1617,3979.41,Laptop,Lenovo ThinkPad,0,Non-Fraud
+7473,147.89,Google,Pixel 6a,0,Non-Fraud
+7161,3468.64,Xiaomi,Pad 6,0,Non-Fraud
+2219,3290.27,Apple,iPhone 14 Pro Max,1,"CNP (Card Not Present)
+Transaksi Berulang"
+7238,156.79,Oppo,A78,0,Non-Fraud
+1054,1543.95,Google,Pixel 7,1,"Fraud Onboarding 
+Alamat Palsu"
+1363,4390.76,Vivo,Y36,1,"CNP (Card Not Present)
+Bot Transaksi"
+7530,359.1,Apple,iPhone 13 Pro,0,Non-Fraud
+5944,479.28,Infinix,Zero Ultra,0,Non-Fraud
+6042,4605.06,Samsung,Galaxy Tab A8,0,Non-Fraud
+3450,1501.61,Laptop,Acer Aspire,0,Non-Fraud
+9780,3427.01,Laptop,HP Pavilion,1,"Fraud Onboarding 
+Alamat Palsu"
+8096,4612.52,Apple,iPhone 13 Pro,0,Non-Fraud
+8230,3591.92,Xiaomi,Redmi 13C,0,Non-Fraud
+3970,2117.93,Samsung,Galaxy S23,0,Non-Fraud
+9436,4714.17,Vivo,V27 Pro,1,"Fraud E-Commerce
+Refund Fraud"
+8256,4069.09,Laptop,MSI Stealth,0,Non-Fraud
+6562,1278.86,Vivo,X90,1,"Fraud Onboarding 
+Data Duplikat"
+5697,3742.25,Samsung,Galaxy Z Fold 5,1,"CNP (Card Not Present)
+Bot Transaksi"
+1130,2424.84,Laptop,MSI Stealth,1,"Counterfeit
+Modifikasi Chip"
+9773,1675.2,Realme,GT Neo 5,0,Non-Fraud
+6414,2741.22,Xiaomi,Pad 6,0,Non-Fraud
+5521,2566.17,Laptop,HP Pavilion,1,"Fraud Onboarding 
+Data Duplikat"
+3685,1783.52,Google,Pixel 7,1,"Fraud E-Commerce
+Diskon Palsu"
+8424,775.05,Huawei,P50 Pro,0,Non-Fraud
+7920,4589.46,Vivo,V27 Pro,1,"Fraud Onboarding 
+Identitas Palsu"
+1154,228.4,Apple,iPad Air,0,Non-Fraud
+5863,4413.34,Apple,iPad Air,0,Non-Fraud
+2489,3706.4,Laptop,Acer Aspire,0,Non-Fraud
+6872,4731.01,Laptop,Lenovo ThinkPad,0,Non-Fraud
+3116,3143.5,Realme,C55,1,"Fraud Onboarding 
+Alamat Palsu"
+6878,2376.65,Apple,iPhone 14 Pro Max,1,"Counterfeit
+Kartu Kloning"
+6061,1541.0,Samsung,Galaxy A54,0,Non-Fraud
+8974,773.66,Realme,GT Neo 5,0,Non-Fraud
+9121,4128.08,Apple,iPhone SE,1,"Fraud E-Commerce
+Diskon Palsu"
+6362,1768.73,Huawei,MatePad Pro,0,Non-Fraud
+2556,446.78,Laptop,HP Pavilion,0,Non-Fraud
+9939,2968.66,Apple,iPhone 14 Pro Max,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+4889,2244.67,Google,Pixel 7,0,Non-Fraud
+5743,4877.26,Google,Pixel 6a,0,Non-Fraud
+1179,3786.02,Apple,iPhone 14 Pro Max,0,Non-Fraud
+4318,3567.94,Samsung,Galaxy A54,1,"Fraud Onboarding 
+Data Duplikat"
+4371,4730.4,Apple,iPad Air,1,"Fraud Onboarding 
+Alamat Palsu"
+3792,2375.39,Huawei,Mate 40,1,"Fraud Onboarding 
+Identitas Palsu"
+1290,4137.19,Xiaomi,Redmi Note 12,0,Non-Fraud
+6679,2640.59,Vivo,Y36,1,"Fraud E-Commerce
+Ulasan Palsu"
+1958,4453.07,Apple,MacBook Air M2,0,Non-Fraud
+3517,3543.8,Realme,GT Neo 5,0,Non-Fraud
+8547,4065.34,Xiaomi,Poco X5,1,"Counterfeit
+Skimming ATM"
+8261,2367.86,Xiaomi,Poco X5,1,"Fraud Onboarding 
+Dokumen Curian"
+4086,4072.23,Realme,C55,1,"CNP (Card Not Present)
+Fake Account"
+4247,4838.13,Vivo,X90,0,Non-Fraud
+4375,2441.41,Apple,iPhone 12,1,"Fraud Onboarding 
+Data Duplikat"
+8780,454.87,Apple,iPad Pro 12.9,0,Non-Fraud
+5883,1754.75,Samsung,Galaxy S23,1,"Fraud E-Commerce
+Pesanan Palsu"
+6600,1514.22,Realme,GT Neo 5,0,Non-Fraud
+6993,2969.9,Laptop,Dell XPS,0,Non-Fraud
+7727,4910.99,Xiaomi,Mi 11 Ultra,1,"Counterfeit
+Modifikasi Chip"
+7268,3829.15,Realme,C55,1,"Counterfeit
+Cetak Kartu Palsu"
+2815,2600.66,Vivo,V27 Pro,0,Non-Fraud
+4688,3699.85,Laptop,Acer Aspire,1,"Fraud Onboarding 
+Dokumen Curian"
+7764,4459.48,Xiaomi,Mi 11 Ultra,1,"CNP (Card Not Present)
+IP Asing "
+1710,1653.13,Google,Pixel 7,1,"Fraud Onboarding 
+Identitas Palsu"
+5299,559.48,Apple,iPad Pro 12.9,1,"CNP (Card Not Present)
+Transaksi Berulang"
+1307,2937.29,Samsung,Galaxy Tab S9,1,"CNP (Card Not Present)
+Phising Data"
+8202,655.98,Laptop,MSI Stealth,0,Non-Fraud
+6357,1197.87,Laptop,MSI Stealth,1,"Fraud E-Commerce
+Refund Fraud"
+5888,2655.04,Laptop,HP Pavilion,1,"Counterfeit
+Kartu Kloning"
+8163,4558.51,Apple,iPad Pro 12.9,0,Non-Fraud
+1494,89.76,Vivo,Y36,0,Non-Fraud
+8907,3495.02,Laptop,Asus ROG,1,"Counterfeit
+Modifikasi Chip"
+5087,3362.36,Apple,iPad Air,1,"Fraud Onboarding 
+Data Duplikat"
+9010,1417.22,Laptop,HP Pavilion,1,"CNP (Card Not Present)
+Phising Data"
+5979,2120.72,Infinix,Hot 30,1,"Fraud Onboarding 
+Alamat Palsu"
+4792,4215.0,Xiaomi,Poco X5,1,"Counterfeit
+Cetak Kartu Palsu"
+9726,2161.37,Oppo,Find X5 Pro,1,"Counterfeit
+Skimming ATM"
+3906,1852.84,Vivo,V27 Pro,0,Non-Fraud
+3703,3294.91,Oppo,Reno 8,1,"Fraud E-Commerce
+Pesanan Palsu"
+2413,4929.44,Apple,iPhone 14 Pro Max,1,"CNP (Card Not Present)
+Phising Data"
+9757,2905.15,Infinix,Hot 30,0,Non-Fraud
+9418,1722.84,Apple,MacBook Air M2,0,Non-Fraud
+1100,2519.32,Huawei,MatePad Pro,1,"CNP (Card Not Present)
+Fake Account"
+8624,1516.06,Huawei,P50 Pro,1,"Counterfeit
+Modifikasi Chip"
+6327,1058.21,Xiaomi,Redmi 13C,0,Non-Fraud
+7656,1065.07,Xiaomi,Redmi Note 12,0,Non-Fraud
+6234,972.19,Google,Pixel 7,0,Non-Fraud
+5328,2198.14,Realme,C55,1,"Fraud E-Commerce
+Refund Fraud"
+6506,2266.33,Huawei,P50 Pro,1,"Counterfeit
+Cetak Kartu Palsu"
+7783,2783.77,Infinix,Hot 30,1,"Fraud E-Commerce
+Ulasan Palsu"
+8546,1687.58,Infinix,Hot 30,1,"Fraud E-Commerce
+Ulasan Palsu"
+3353,4492.87,Google,Pixel 7,1,"Fraud E-Commerce
+Refund Fraud"
+4925,4509.89,Vivo,X90,1,"CNP (Card Not Present)
+Phising Data"
+6583,2790.71,Xiaomi,Redmi Note 12,0,Non-Fraud
+4917,1616.6,Samsung,Galaxy Note 20,0,Non-Fraud
+3306,1879.7,Samsung,Galaxy A54,0,Non-Fraud
+8685,2045.38,Apple,MacBook Pro M3,1,"Fraud Onboarding 
+Identitas Palsu"
+2526,588.93,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+5862,2294.84,Vivo,X90,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+6369,1878.89,Google,Pixel 7,0,Non-Fraud
+9073,17.29,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+5501,980.4,Custom PC,Windows 10 Office PC,1,"Fraud Onboarding 
+Data Duplikat"
+9985,3450.58,Custom PC,Windows 10 Office PC,0,Non-Fraud
+3668,702.81,Laptop,MSI Stealth,0,Non-Fraud
+4858,1178.57,Laptop,Dell XPS,0,Non-Fraud
+7227,3027.17,Samsung,Galaxy Note 20,0,Non-Fraud
+8057,941.98,Laptop,Acer Aspire,1,"Fraud Onboarding 
+Alamat Palsu"
+6303,4004.02,Laptop,Asus ROG,0,Non-Fraud
+5718,988.39,Laptop,Dell XPS,0,Non-Fraud
+4694,915.64,Xiaomi,Redmi Note 12,0,Non-Fraud
+1644,1042.88,Infinix,Hot 30,1,"Counterfeit
+Penjualan Kartu Palsu"
+3767,1003.12,Samsung,Galaxy Note 20,0,Non-Fraud
+5844,1424.5,Xiaomi,Pad 6,0,Non-Fraud
+7879,1766.21,Huawei,MatePad Pro,1,"Counterfeit
+Modifikasi Chip"
+8327,2376.39,Apple,iPad Air,1,"Fraud Onboarding 
+Data Duplikat"
+4962,1206.05,Google,Pixel 6a,1,"Fraud Onboarding 
+Data Duplikat"
+4047,162.07,Google,Pixel 6a,0,Non-Fraud
+3961,1120.18,Xiaomi,Mi 11 Ultra,1,"CNP (Card Not Present)
+Fake Account"
+1671,264.35,Samsung,Galaxy Tab A8,1,"CNP (Card Not Present)
+Transaksi Berulang"
+5854,4365.85,Samsung,Galaxy S23,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+5369,3293.13,Apple,iPad Pro 12.9,0,Non-Fraud
+8112,237.55,Xiaomi,Redmi 13C,0,Non-Fraud
+8840,2846.23,Oppo,Reno 8,1,"Counterfeit
+Cetak Kartu Palsu"
+2933,1228.22,Apple,iPhone 13 Pro,0,Non-Fraud
+4228,4495.37,Xiaomi,Redmi 13C,1,"Counterfeit
+Modifikasi Chip"
+4803,2538.75,Oppo,A78,0,Non-Fraud
+7635,4167.08,Apple,iPhone SE,1,"Counterfeit
+Kartu Kloning"
+3640,4802.12,Apple,iPhone 13 Pro,0,Non-Fraud
+3277,1836.57,Apple,MacBook Air M2,0,Non-Fraud
+3586,4835.05,Laptop,HP Pavilion,0,Non-Fraud
+9672,254.26,Samsung,Galaxy Tab S9,1,"CNP (Card Not Present)
+Fake Account"
+5558,4288.5,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+2222,2512.83,Laptop,Acer Aspire,0,Non-Fraud
+1738,1048.17,Xiaomi,Redmi Note 12,1,"CNP (Card Not Present)
+Phising Data"
+9561,1712.83,Huawei,Mate 40,0,Non-Fraud
+2910,257.58,Laptop,HP Pavilion,1,"Fraud Onboarding 
+Bot Registerasi"
+6977,4330.43,Oppo,A78,0,Non-Fraud
+8805,360.43,Apple,iPhone 12,1,"CNP (Card Not Present)
+Bot Transaksi"
+6611,1109.17,Xiaomi,Poco X5,0,Non-Fraud
+6016,4798.71,Laptop,HP Pavilion,1,"Fraud Onboarding 
+Dokumen Curian"
+3747,1728.1,Samsung,Galaxy Tab S9,0,Non-Fraud
+1125,4674.03,Huawei,Mate 40,1,"CNP (Card Not Present)
+Bot Transaksi"
+8653,412.38,Samsung,Galaxy Z Fold 5,1,"Fraud Onboarding 
+Dokumen Curian"
+4236,2290.85,Xiaomi,Mi 11 Ultra,1,"Counterfeit
+Penjualan Kartu Palsu"
+6451,1074.86,Oppo,Reno 8,1,"Counterfeit
+Skimming ATM"
+9631,4670.38,Oppo,A78,1,"Fraud Onboarding 
+Bot Registerasi"
+1265,1684.74,Apple,iPhone 14 Pro Max,0,Non-Fraud
+8029,3920.59,Samsung,Galaxy Tab S9,0,Non-Fraud
+6196,2500.4,Xiaomi,Redmi 13C,0,Non-Fraud
+4643,3325.87,Samsung,Galaxy Tab A8,0,Non-Fraud
+1903,2521.32,Apple,iPhone 12,0,Non-Fraud
+9138,3543.25,Huawei,MatePad Pro,0,Non-Fraud
+2120,4650.15,Samsung,Galaxy Note 20,1,"CNP (Card Not Present)
+Bot Transaksi"
+9305,724.5,Xiaomi,Redmi 13C,0,Non-Fraud
+7471,2982.34,Apple,MacBook Air M2,0,Non-Fraud
+5501,2286.43,Laptop,HP Pavilion,0,Non-Fraud
+4577,517.64,Xiaomi,Redmi 13C,1,"CNP (Card Not Present)
+Fake Account"
+2490,2996.62,Apple,iPhone 12,0,Non-Fraud
+9876,3043.4,Laptop,HP Pavilion,1,"Counterfeit
+Skimming ATM"
+6493,2085.53,Apple,iPhone 13 Pro,1,"Fraud Onboarding 
+Data Duplikat"
+6969,658.24,Xiaomi,Mi 11 Ultra,1,"Fraud Onboarding 
+Dokumen Curian"
+9360,4824.13,Laptop,Dell XPS,1,"Counterfeit
+Cetak Kartu Palsu"
+6734,1237.66,Laptop,Lenovo ThinkPad,0,Non-Fraud
+9400,4005.44,Laptop,Dell XPS,1,"Counterfeit
+Modifikasi Chip"
+6975,2655.98,Oppo,A78,1,"Fraud E-Commerce
+Diskon Palsu"
+3548,2622.5,Apple,iPhone 13 Pro,0,Non-Fraud
+2976,1701.04,Laptop,Acer Aspire,0,Non-Fraud
+2589,1665.87,Xiaomi,Poco X5,1,"CNP (Card Not Present)
+Bot Transaksi"
+5399,1442.3,Laptop,Acer Aspire,1,"Fraud E-Commerce
+Pesanan Palsu"
+4018,2721.25,Apple,iPhone 14 Pro Max,1,"Fraud E-Commerce
+Refund Fraud"
+1382,3654.3,Vivo,Y36,1,"Fraud E-Commerce
+Ulasan Palsu"
+4628,2732.38,Infinix,Hot 30,0,Non-Fraud
+7863,4611.51,Apple,iPad Air,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+8201,3791.13,Oppo,A78,0,Non-Fraud
+2047,1908.08,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+2854,1970.99,Apple,MacBook Air M2,0,Non-Fraud
+6064,3330.66,Xiaomi,Redmi 13C,1,"CNP (Card Not Present)
+Transaksi Berulang"
+2503,750.36,Samsung,Galaxy Z Fold 5,1,"Fraud E-Commerce
+Refund Fraud"
+1935,4413.21,Apple,MacBook Pro M3,1,"CNP (Card Not Present)
+Bot Transaksi"
+9262,2695.04,Huawei,Mate 40,1,"Fraud Onboarding 
+Dokumen Curian"
+9826,1049.73,Apple,iPhone 12,0,Non-Fraud
+7245,1804.82,Oppo,Reno 8,1,"Fraud E-Commerce
+Pesanan Palsu"
+1055,4820.95,Infinix,Hot 30,1,"Counterfeit
+Skimming ATM"
+8758,4843.88,Apple,iPhone 12,0,Non-Fraud
+7326,1074.65,Infinix,Zero Ultra,0,Non-Fraud
+8255,3096.49,Infinix,Hot 30,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+8614,2308.52,Oppo,Find X5 Pro,0,Non-Fraud
+8242,1302.62,Realme,C55,0,Non-Fraud
+6454,1097.28,Infinix,Hot 30,1,"Counterfeit
+Cetak Kartu Palsu"
+8397,4347.99,Laptop,Acer Aspire,1,"CNP (Card Not Present)
+Fake Account"
+6528,3763.78,Laptop,MSI Stealth,1,"CNP (Card Not Present)
+Phising Data"
+7963,4082.21,Xiaomi,Redmi 13C,1,"CNP (Card Not Present)
+Phising Data"
+7836,4060.95,Laptop,MSI Stealth,0,Non-Fraud
+1004,392.29,Vivo,V27 Pro,1,"Fraud E-Commerce
+Ulasan Palsu"
+1845,3122.13,Huawei,P50 Pro,0,Non-Fraud
+3241,2971.23,Xiaomi,Redmi 13C,1,"Fraud E-Commerce
+Ulasan Palsu"
+8717,1302.93,Samsung,Galaxy Tab S9,0,Non-Fraud
+3041,2584.29,Infinix,Zero Ultra,0,Non-Fraud
+1251,799.91,Apple,iPad Pro 12.9,1,"Counterfeit
+Skimming ATM"
+4708,3670.44,Custom PC,Windows 11 Gaming Rig,1,"CNP (Card Not Present)
+Transaksi Berulang"
+8785,1110.73,Laptop,Dell XPS,0,Non-Fraud
+4231,1042.82,Samsung,Galaxy Tab A8,1,"Fraud E-Commerce
+Pesanan Palsu"
+3711,3814.09,Google,Pixel 6a,1,"Counterfeit
+Penjualan Kartu Palsu"
+5921,4820.12,Oppo,Reno 8,1,"CNP (Card Not Present)
+Phising Data"
+8568,4708.05,Oppo,Reno 8,1,"Fraud Onboarding 
+Alamat Palsu"
+5123,1593.91,Apple,iPhone 13 Pro,1,"CNP (Card Not Present)
+IP Asing "
+6278,1035.67,Xiaomi,Redmi Note 12,0,Non-Fraud
+9629,3438.46,Apple,MacBook Air M2,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+6659,2684.5,Oppo,Find X5 Pro,1,"Fraud E-Commerce
+Refund Fraud"
+6215,3099.96,Vivo,X90,1,"CNP (Card Not Present)
+Bot Transaksi"
+1596,478.49,Samsung,Galaxy Tab A8,1,"Fraud E-Commerce
+Diskon Palsu"
+7949,3822.43,Samsung,Galaxy Tab A8,0,Non-Fraud
+6833,2951.27,Custom PC,Windows 10 Office PC,0,Non-Fraud
+1342,2420.42,Vivo,V27 Pro,1,"Counterfeit
+Modifikasi Chip"
+9583,2308.77,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+7480,3152.0,Samsung,Galaxy Note 20,1,"Fraud E-Commerce
+Pesanan Palsu"
+6546,1205.57,Google,Pixel 6a,1,"Counterfeit
+Kartu Kloning"
+4042,2729.35,Huawei,P50 Pro,0,Non-Fraud
+7841,660.43,Infinix,Hot 30,1,"Counterfeit
+Skimming ATM"
+3513,2449.0,Google,Pixel 7,0,Non-Fraud
+4820,1348.15,Xiaomi,Pad 6,1,"Counterfeit
+Kartu Kloning"
+3320,3061.24,Apple,iPad Air,0,Non-Fraud
+9416,2410.4,Vivo,Y36,1,"Fraud Onboarding 
+Bot Registerasi"
+8269,3289.28,Laptop,Lenovo ThinkPad,0,Non-Fraud
+6359,2795.61,Oppo,Find X5 Pro,0,Non-Fraud
+2851,4941.4,Oppo,Find X5 Pro,1,"Counterfeit
+Cetak Kartu Palsu"
+2689,2058.98,Samsung,Galaxy Tab S9,1,"CNP (Card Not Present)
+Bot Transaksi"
+1089,1781.09,Laptop,MSI Stealth,1,"Fraud E-Commerce
+Refund Fraud"
+3607,514.32,Samsung,Galaxy Tab S9,1,"Fraud E-Commerce
+Ulasan Palsu"
+4165,571.09,Realme,GT Neo 5,0,Non-Fraud
+1628,756.89,Laptop,Dell XPS,1,"CNP (Card Not Present)
+Phising Data"
+4779,1387.98,Laptop,HP Pavilion,0,Non-Fraud
+6938,916.88,Huawei,Mate 40,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+1697,1863.24,Samsung,Galaxy Tab S9,1,"Fraud Onboarding 
+Bot Registerasi"
+8772,2043.41,Custom PC,Windows 11 Gaming Rig,1,"CNP (Card Not Present)
+IP Asing "
+2175,155.1,Laptop,Acer Aspire,1,"Counterfeit
+Skimming ATM"
+9525,3106.14,Samsung,Galaxy Z Fold 5,1,"Counterfeit
+Kartu Kloning"
+7705,4465.96,Samsung,Galaxy Tab S9,0,Non-Fraud
+1303,644.63,Apple,iPhone 13 Pro,0,Non-Fraud
+7093,466.7,Google,Pixel 6a,1,"Counterfeit
+Skimming ATM"
+5071,2316.6,Huawei,MatePad Pro,0,Non-Fraud
+8721,252.97,Samsung,Galaxy Tab A8,1,"Fraud Onboarding 
+Bot Registerasi"
+4279,3456.1,Google,Pixel 6a,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+7677,251.42,Xiaomi,Pad 6,0,Non-Fraud
+8676,659.2,Infinix,Zero Ultra,0,Non-Fraud
+7707,4241.19,Oppo,A78,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+5221,2928.53,Realme,C55,1,"Fraud E-Commerce
+Ulasan Palsu"
+2530,2763.51,Vivo,Y36,0,Non-Fraud
+2249,3357.21,Apple,iPhone 12,0,Non-Fraud
+5334,2810.14,Vivo,X90,0,Non-Fraud
+4031,1205.46,Google,Pixel 6a,0,Non-Fraud
+1374,2919.55,Apple,iPad Air,0,Non-Fraud
+5032,4084.44,Xiaomi,Redmi Note 12,1,"Fraud E-Commerce
+Ulasan Palsu"
+8689,3209.85,Laptop,Asus ROG,0,Non-Fraud
+3638,2458.21,Samsung,Galaxy Tab A8,1,"Fraud Onboarding 
+Data Duplikat"
+1188,806.85,Apple,MacBook Pro M3,1,"Counterfeit
+Kartu Kloning"
+9856,4909.47,Xiaomi,Pad 6,0,Non-Fraud
+9158,2041.43,Apple,MacBook Air M2,1,"Fraud E-Commerce
+Diskon Palsu"
+4334,4086.52,Apple,MacBook Pro M3,0,Non-Fraud
+2057,689.25,Laptop,MSI Stealth,1,"Counterfeit
+Penjualan Kartu Palsu"
+7329,2886.6,Laptop,Acer Aspire,1,"Fraud E-Commerce
+Pesanan Palsu"
+5404,2947.14,Laptop,HP Pavilion,1,"Fraud Onboarding 
+Identitas Palsu"
+7704,652.04,Vivo,X90,0,Non-Fraud
+3438,3308.16,Oppo,A78,0,Non-Fraud
+8511,1331.01,Laptop,MSI Stealth,0,Non-Fraud
+9931,1201.75,Xiaomi,Redmi Note 12,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+9731,2901.8,Samsung,Galaxy Tab A8,1,"CNP (Card Not Present)
+Transaksi Berulang"
+4006,4289.93,Custom PC,Windows 10 Office PC,0,Non-Fraud
+3330,4229.41,Vivo,Y36,1,"Counterfeit
+Penjualan Kartu Palsu"
+7048,4684.3,Huawei,P50 Pro,1,"CNP (Card Not Present)
+Bot Transaksi"
+9790,2834.79,Xiaomi,Redmi 13C,1,"Fraud Onboarding 
+Data Duplikat"
+2647,392.68,Laptop,Dell XPS,1,"CNP (Card Not Present)
+Phising Data"
+2004,4298.27,Oppo,Find X5 Pro,0,Non-Fraud
+8704,3746.19,Xiaomi,Redmi Note 12,1,"CNP (Card Not Present)
+Transaksi Berulang"
+7402,3301.7,Infinix,Hot 30,1,"CNP (Card Not Present)
+IP Asing "
+2855,749.93,Xiaomi,Redmi 13C,1,"CNP (Card Not Present)
+IP Asing "
+8928,4295.38,Google,Pixel 7,1,"Counterfeit
+Modifikasi Chip"
+8927,426.08,Infinix,Zero Ultra,1,"Fraud E-Commerce
+Diskon Palsu"
+5620,4926.97,Custom PC,Windows 11 Gaming Rig,1,"Fraud E-Commerce
+Diskon Palsu"
+4314,759.3,Xiaomi,Redmi Note 12,1,"Counterfeit
+Skimming ATM"
+5592,4381.39,Oppo,Find X5 Pro,0,Non-Fraud
+3202,515.86,Oppo,A78,1,"Fraud E-Commerce
+Pesanan Palsu"
+8933,1322.14,Xiaomi,Poco X5,1,"Counterfeit
+Kartu Kloning"
+1896,3225.4,Oppo,Find X5 Pro,1,"Counterfeit
+Skimming ATM"
+8923,3824.01,Huawei,MatePad Pro,1,"CNP (Card Not Present)
+Fake Account"
+4663,3065.73,Samsung,Galaxy A54,0,Non-Fraud
+9112,3582.82,Apple,iPad Pro 12.9,0,Non-Fraud
+4910,1770.16,Samsung,Galaxy Note 20,1,"CNP (Card Not Present)
+Bot Transaksi"
+3460,1276.44,Apple,MacBook Air M2,1,"Fraud Onboarding 
+Identitas Palsu"
+2104,94.77,Vivo,X90,0,Non-Fraud
+9868,2096.3,Samsung,Galaxy S23,0,Non-Fraud
+2948,190.18,Apple,iPad Pro 12.9,1,"Fraud Onboarding 
+Dokumen Curian"
+2913,1524.49,Samsung,Galaxy Note 20,1,"Fraud Onboarding 
+Dokumen Curian"
+5712,706.68,Samsung,Galaxy S23,1,"Fraud E-Commerce
+Pesanan Palsu"
+6177,2995.47,Xiaomi,Redmi Note 12,1,"Counterfeit
+Modifikasi Chip"
+1046,2235.47,Vivo,V27 Pro,0,Non-Fraud
+3148,921.8,Xiaomi,Redmi 13C,1,"CNP (Card Not Present)
+Bot Transaksi"
+6322,3283.39,Apple,iPhone 12,0,Non-Fraud
+6150,1307.13,Samsung,Galaxy Note 20,1,"Fraud E-Commerce
+Pesanan Palsu"
+5070,190.16,Apple,iPad Pro 12.9,1,"Fraud E-Commerce
+Refund Fraud"
+2955,3332.35,Samsung,Galaxy A54,0,Non-Fraud
+8406,37.64,Google,Pixel 7,0,Non-Fraud
+9006,2136.24,Oppo,A78,1,"CNP (Card Not Present)
+Phising Data"
+5725,4104.76,Oppo,A78,1,"CNP (Card Not Present)
+Phising Data"
+1745,4010.63,Vivo,V27 Pro,0,Non-Fraud
+4001,3777.68,Vivo,X90,0,Non-Fraud
+5666,4497.88,Oppo,A78,0,Non-Fraud
+7047,2951.95,Laptop,MSI Stealth,0,Non-Fraud
+3124,309.07,Samsung,Galaxy Note 20,0,Non-Fraud
+4529,1284.12,Apple,MacBook Pro M3,1,"CNP (Card Not Present)
+Transaksi Berulang"
+3498,1355.27,Realme,GT Neo 5,1,"Fraud E-Commerce
+Refund Fraud"
+1442,1776.56,Google,Pixel 7,0,Non-Fraud
+7250,4080.0,Infinix,Hot 30,1,"Fraud E-Commerce
+Ulasan Palsu"
+6158,4370.24,Laptop,MSI Stealth,0,Non-Fraud
+7320,1384.94,Xiaomi,Redmi 13C,0,Non-Fraud
+8002,3974.71,Apple,iPhone 14 Pro Max,1,"Fraud Onboarding 
+Identitas Palsu"
+6428,1359.98,Infinix,Hot 30,0,Non-Fraud
+2891,1640.38,Custom PC,Windows 10 Office PC,0,Non-Fraud
+8301,894.23,Laptop,Acer Aspire,0,Non-Fraud
+8488,3925.25,Oppo,Find X5 Pro,0,Non-Fraud
+3282,622.51,Samsung,Galaxy A54,1,"Fraud E-Commerce
+Diskon Palsu"
+9535,3236.31,Samsung,Galaxy Tab A8,1,"Counterfeit
+Modifikasi Chip"
+8719,1026.3,Vivo,X90,1,"Fraud Onboarding 
+Data Duplikat"
+7046,1170.91,Realme,C55,1,"CNP (Card Not Present)
+Bot Transaksi"
+9536,4590.41,Laptop,MSI Stealth,0,Non-Fraud
+7481,3005.51,Oppo,Find X5 Pro,1,"Fraud Onboarding 
+Bot Registerasi"
+3197,3490.84,Google,Pixel 7,1,"Counterfeit
+Penjualan Kartu Palsu"
+9716,4032.54,Apple,iPad Air,1,"Counterfeit
+Penjualan Kartu Palsu"
+3261,1317.78,Laptop,MSI Stealth,0,Non-Fraud
+2811,2089.84,Apple,iPad Pro 12.9,0,Non-Fraud
+4675,1456.47,Laptop,MSI Stealth,0,Non-Fraud
+3026,803.54,Google,Pixel 7,0,Non-Fraud
+2550,893.99,Xiaomi,Redmi 13C,1,"Counterfeit
+Kartu Kloning"
+3870,3134.05,Laptop,Lenovo ThinkPad,0,Non-Fraud
+9410,1681.14,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+7098,3059.77,Apple,iPhone SE,1,"Fraud Onboarding 
+Alamat Palsu"
+8922,4218.88,Apple,iPhone 12,1,"Fraud E-Commerce
+Pesanan Palsu"
+5911,4911.66,Vivo,Y36,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+4454,271.02,Oppo,Find X5 Pro,1,"CNP (Card Not Present)
+Transaksi Berulang"
+4961,4276.23,Xiaomi,Redmi Note 12,1,"Fraud E-Commerce
+Pesanan Palsu"
+8675,4053.27,Laptop,MSI Stealth,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+6322,404.51,Laptop,Asus ROG,1,"Fraud Onboarding 
+Bot Registerasi"
+5578,2892.06,Google,Pixel 6a,1,"Fraud E-Commerce
+Ulasan Palsu"
+3194,2267.15,Xiaomi,Pad 6,1,"Fraud E-Commerce
+Diskon Palsu"
+9339,207.03,Google,Pixel 7,0,Non-Fraud
+9442,305.67,Samsung,Galaxy S23,0,Non-Fraud
+2144,1495.84,Apple,iPhone 14 Pro Max,0,Non-Fraud
+2797,2538.45,Apple,MacBook Air M2,0,Non-Fraud
+6685,1693.42,Samsung,Galaxy Note 20,0,Non-Fraud
+3228,446.4,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+2258,4809.97,Oppo,Reno 8,0,Non-Fraud
+3682,2740.0,Xiaomi,Pad 6,0,Non-Fraud
+9449,592.19,Samsung,Galaxy Z Fold 5,1,"Fraud E-Commerce
+Pesanan Palsu"
+3127,4562.53,Xiaomi,Poco X5,1,"Fraud E-Commerce
+Pesanan Palsu"
+4794,4370.42,Oppo,A78,0,Non-Fraud
+2801,4330.46,Apple,iPhone 12,0,Non-Fraud
+8880,3037.97,Custom PC,Windows 10 Office PC,1,"Fraud Onboarding 
+Data Duplikat"
+8651,445.51,Realme,C55,0,Non-Fraud
+7340,653.18,Realme,GT Neo 5,1,"CNP (Card Not Present)
+Transaksi Berulang"
+7962,4185.53,Samsung,Galaxy Note 20,1,"CNP (Card Not Present)
+Phising Data"
+9065,4466.72,Laptop,HP Pavilion,1,"CNP (Card Not Present)
+Bot Transaksi"
+7365,1203.07,Laptop,HP Pavilion,0,Non-Fraud
+2148,3375.57,Infinix,Zero Ultra,0,Non-Fraud
+8756,1112.51,Laptop,MSI Stealth,1,"CNP (Card Not Present)
+Bot Transaksi"
+3197,2995.75,Google,Pixel 6a,0,Non-Fraud
+8321,2102.31,Apple,MacBook Air M2,1,"Fraud E-Commerce
+Refund Fraud"
+3205,4548.39,Realme,GT Neo 5,1,"CNP (Card Not Present)
+IP Asing "
+3100,3529.35,Apple,MacBook Pro M3,0,Non-Fraud
+8706,4339.96,Xiaomi,Redmi Note 12,1,"CNP (Card Not Present)
+Transaksi Berulang"
+7943,4653.58,Huawei,Mate 40,1,"Fraud Onboarding 
+Data Duplikat"
+6969,4903.46,Xiaomi,Pad 6,1,"Fraud Onboarding 
+Dokumen Curian"
+3164,575.99,Samsung,Galaxy S23,1,"Fraud E-Commerce
+Pesanan Palsu"
+5056,341.53,Laptop,MSI Stealth,1,"Fraud E-Commerce
+Refund Fraud"
+5066,805.64,Laptop,HP Pavilion,1,"CNP (Card Not Present)
+Bot Transaksi"
+8533,1086.82,Apple,iPhone SE,0,Non-Fraud
+2413,3908.79,Laptop,HP Pavilion,1,"CNP (Card Not Present)
+Fake Account"
+8483,3021.54,Huawei,MatePad Pro,1,"CNP (Card Not Present)
+Bot Transaksi"
+5795,4242.62,Xiaomi,Poco X5,0,Non-Fraud
+6635,164.49,Xiaomi,Poco X5,0,Non-Fraud
+7037,1045.5,Samsung,Galaxy Tab S9,1,"Fraud E-Commerce
+Pesanan Palsu"
+2412,2463.62,Samsung,Galaxy S23,1,"Counterfeit
+Skimming ATM"
+9589,1752.36,Custom PC,Windows 10 Office PC,1,"Fraud E-Commerce
+Diskon Palsu"
+1988,3692.43,Laptop,Lenovo ThinkPad,1,"CNP (Card Not Present)
+Bot Transaksi"
+1473,1386.3,Vivo,Y36,1,"Fraud Onboarding 
+Alamat Palsu"
+1132,4052.81,Laptop,HP Pavilion,0,Non-Fraud
+5861,4404.18,Infinix,Zero Ultra,0,Non-Fraud
+6232,4303.62,Huawei,MatePad Pro,0,Non-Fraud
+8791,591.92,Samsung,Galaxy Tab A8,0,Non-Fraud
+4480,2817.71,Oppo,A78,0,Non-Fraud
+5793,2563.1,Google,Pixel 7,0,Non-Fraud
+3392,3899.73,Xiaomi,Redmi 13C,0,Non-Fraud
+7691,4850.31,Google,Pixel 7,0,Non-Fraud
+2029,1960.7,Vivo,X90,0,Non-Fraud
+7330,1152.72,Custom PC,Windows 10 Office PC,0,Non-Fraud
+9996,2068.87,Laptop,HP Pavilion,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+5795,915.77,Oppo,Find X5 Pro,1,"Fraud Onboarding 
+Dokumen Curian"
+5331,4817.41,Laptop,Lenovo ThinkPad,0,Non-Fraud
+6827,3609.59,Google,Pixel 6a,0,Non-Fraud
+7027,4744.52,Laptop,Asus ROG,1,"CNP (Card Not Present)
+Fake Account"
+6237,2175.26,Apple,iPhone 12,0,Non-Fraud
+7005,3567.9,Google,Pixel 6a,1,"Counterfeit
+Kartu Kloning"
+6833,1749.0,Apple,MacBook Pro M3,0,Non-Fraud
+2234,2854.11,Vivo,V27 Pro,0,Non-Fraud
+4888,4496.37,Apple,iPad Pro 12.9,0,Non-Fraud
+2920,2966.82,Google,Pixel 7,0,Non-Fraud
+8534,2017.45,Xiaomi,Poco X5,1,"Fraud E-Commerce
+Diskon Palsu"
+5216,3428.44,Oppo,A78,0,Non-Fraud
+3360,2619.08,Realme,C55,1,"Fraud Onboarding 
+Dokumen Curian"
+9052,2421.35,Realme,GT Neo 5,0,Non-Fraud
+8868,2573.59,Xiaomi,Mi 11 Ultra,1,"CNP (Card Not Present)
+Phising Data"
+8867,3196.72,Huawei,Mate 40,0,Non-Fraud
+9155,1827.04,Realme,GT Neo 5,0,Non-Fraud
+5680,3101.29,Oppo,A78,1,"Fraud Onboarding 
+Identitas Palsu"
+4290,1942.1,Apple,MacBook Air M2,0,Non-Fraud
+8383,4770.86,Laptop,MSI Stealth,0,Non-Fraud
+7359,4511.42,Laptop,Dell XPS,1,"CNP (Card Not Present)
+Phising Data"
+9386,2533.63,Laptop,Lenovo ThinkPad,1,"CNP (Card Not Present)
+Transaksi Berulang"
+6237,3114.89,Oppo,A78,0,Non-Fraud
+8145,123.99,Realme,C55,1,"Fraud Onboarding 
+Identitas Palsu"
+6823,978.94,Infinix,Hot 30,1,"CNP (Card Not Present)
+Fake Account"
+1016,3038.4,Apple,iPad Air,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+6179,4867.91,Samsung,Galaxy A54,0,Non-Fraud
+9532,3270.61,Xiaomi,Redmi 13C,0,Non-Fraud
+2596,1834.09,Apple,iPad Air,0,Non-Fraud
+8590,372.39,Apple,MacBook Air M2,0,Non-Fraud
+4514,340.98,Laptop,Acer Aspire,0,Non-Fraud
+8854,1689.78,Vivo,Y36,0,Non-Fraud
+5122,3753.54,Xiaomi,Mi 11 Ultra,1,"Fraud E-Commerce
+Ulasan Palsu"
+6207,353.53,Vivo,V27 Pro,0,Non-Fraud
+9816,4301.17,Apple,iPhone 14 Pro Max,0,Non-Fraud
+2044,3960.77,Vivo,V27 Pro,0,Non-Fraud
+6198,2872.54,Vivo,X90,1,"Fraud Onboarding 
+Identitas Palsu"
+7300,4329.64,Samsung,Galaxy Note 20,0,Non-Fraud
+5170,2287.29,Realme,C55,0,Non-Fraud
+2181,2583.96,Infinix,Zero Ultra,1,"Counterfeit
+Kartu Kloning"
+6693,1887.4,Vivo,X90,0,Non-Fraud
+7078,3715.99,Apple,MacBook Pro M3,1,"Fraud E-Commerce
+Pesanan Palsu"
+4127,4175.85,Apple,iPad Air,0,Non-Fraud
+2423,3577.8,Google,Pixel 6a,1,"Counterfeit
+Skimming ATM"
+2833,3878.3,Samsung,Galaxy Note 20,0,Non-Fraud
+2824,3232.24,Huawei,P50 Pro,0,Non-Fraud
+4603,4478.37,Laptop,Dell XPS,1,"Fraud Onboarding 
+Bot Registerasi"
+1780,186.23,Samsung,Galaxy Tab S9,0,Non-Fraud
+1016,3627.26,Xiaomi,Pad 6,1,"CNP (Card Not Present)
+IP Asing "
+9733,313.65,Samsung,Galaxy Tab A8,1,"Counterfeit
+Kartu Kloning"
+4543,2730.33,Oppo,Reno 8,0,Non-Fraud
+7049,686.52,Samsung,Galaxy Note 20,1,"Counterfeit
+Skimming ATM"
+4769,2115.14,Apple,MacBook Air M2,1,"Fraud Onboarding 
+Dokumen Curian"
+2151,4255.75,Xiaomi,Redmi Note 12,0,Non-Fraud
+4291,2258.89,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+3775,1680.54,Google,Pixel 7,0,Non-Fraud
+3152,398.23,Laptop,MSI Stealth,0,Non-Fraud
+4109,2299.99,Apple,MacBook Air M2,0,Non-Fraud
+4120,4659.88,Infinix,Zero Ultra,0,Non-Fraud
+4864,2998.49,Custom PC,Windows 10 Office PC,0,Non-Fraud
+3978,1824.04,Realme,GT Neo 5,0,Non-Fraud
+1906,3605.58,Oppo,Find X5 Pro,1,"CNP (Card Not Present)
+Transaksi Berulang"
+6969,4881.74,Apple,MacBook Air M2,0,Non-Fraud
+6275,2909.44,Oppo,Find X5 Pro,1,"Counterfeit
+Skimming ATM"
+9450,2413.05,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+7633,4843.53,Xiaomi,Mi 11 Ultra,1,"Fraud Onboarding 
+Alamat Palsu"
+1560,1967.56,Apple,MacBook Air M2,1,"Fraud E-Commerce
+Refund Fraud"
+1106,4878.84,Apple,MacBook Pro M3,1,"Counterfeit
+Penjualan Kartu Palsu"
+9427,805.59,Xiaomi,Redmi Note 12,1,"Counterfeit
+Penjualan Kartu Palsu"
+6686,909.62,Laptop,Acer Aspire,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+7000,3125.99,Samsung,Galaxy Tab A8,0,Non-Fraud
+4897,4335.56,Laptop,HP Pavilion,0,Non-Fraud
+5874,2336.02,Laptop,Lenovo ThinkPad,0,Non-Fraud
+1132,525.88,Google,Pixel 7,1,"Fraud E-Commerce
+Refund Fraud"
+3106,2356.33,Samsung,Galaxy Tab S9,0,Non-Fraud
+2668,4956.26,Apple,iPhone 14 Pro Max,1,"Fraud E-Commerce
+Diskon Palsu"
+2844,3449.1,Google,Pixel 6a,0,Non-Fraud
+6163,2042.61,Apple,MacBook Air M2,0,Non-Fraud
+7759,1213.88,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+8959,2670.65,Samsung,Galaxy Tab A8,1,"Fraud Onboarding 
+Identitas Palsu"
+8871,711.73,Laptop,MSI Stealth,0,Non-Fraud
+4133,2408.02,Apple,iPhone 13 Pro,1,"Fraud E-Commerce
+Refund Fraud"
+7741,4838.86,Apple,MacBook Air M2,0,Non-Fraud
+3080,3896.46,Infinix,Hot 30,1,"CNP (Card Not Present)
+Fake Account"
+3823,2523.48,Samsung,Galaxy Tab S9,0,Non-Fraud
+5174,227.19,Apple,MacBook Air M2,1,"Fraud E-Commerce
+Ulasan Palsu"
+5390,3302.44,Vivo,Y36,1,"Counterfeit
+Skimming ATM"
+3660,2321.03,Apple,iPhone 14 Pro Max,0,Non-Fraud
+7647,3772.41,Apple,iPhone 14 Pro Max,1,"CNP (Card Not Present)
+Fake Account"
+1406,3963.66,Infinix,Hot 30,0,Non-Fraud
+3914,4920.94,Custom PC,Windows 10 Office PC,0,Non-Fraud
+4705,249.79,Apple,MacBook Pro M3,1,"Fraud Onboarding 
+Bot Registerasi"
+3926,419.14,Samsung,Galaxy Z Fold 5,1,"Fraud Onboarding 
+Dokumen Curian"
+1250,2805.22,Oppo,A78,1,"CNP (Card Not Present)
+Bot Transaksi"
+8871,3317.55,Laptop,MSI Stealth,0,Non-Fraud
+3731,1383.41,Samsung,Galaxy Tab A8,1,"Counterfeit
+Cetak Kartu Palsu"
+6837,836.29,Oppo,Find X5 Pro,0,Non-Fraud
+6369,3425.91,Custom PC,Windows 10 Office PC,1,"CNP (Card Not Present)
+Phising Data"
+3590,464.7,Huawei,P50 Pro,1,"CNP (Card Not Present)
+Bot Transaksi"
+5668,1234.53,Apple,iPhone 12,1,"CNP (Card Not Present)
+Fake Account"
+6122,4108.38,Oppo,A78,1,"Counterfeit
+Penjualan Kartu Palsu"
+2150,1792.96,Samsung,Galaxy A54,0,Non-Fraud
+9673,174.54,Oppo,A78,1,"Fraud Onboarding 
+Alamat Palsu"
+7179,447.05,Oppo,Find X5 Pro,0,Non-Fraud
+7731,439.33,Samsung,Galaxy Tab A8,1,"Counterfeit
+Penjualan Kartu Palsu"
+5579,3994.42,Samsung,Galaxy Note 20,1,"Fraud Onboarding 
+Dokumen Curian"
+1145,4276.22,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+6101,341.5,Laptop,Asus ROG,0,Non-Fraud
+5129,4095.43,Samsung,Galaxy Z Fold 5,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+4808,649.23,Xiaomi,Mi 11 Ultra,1,"Fraud E-Commerce
+Pesanan Palsu"
+3907,311.08,Samsung,Galaxy Z Fold 5,1,"CNP (Card Not Present)
+IP Asing "
+8104,965.83,Huawei,P50 Pro,0,Non-Fraud
+6616,2271.36,Samsung,Galaxy Note 20,0,Non-Fraud
+1446,3198.71,Apple,iPhone 13 Pro,0,Non-Fraud
+5585,1410.41,Xiaomi,Redmi Note 12,1,"Fraud Onboarding 
+Bot Registerasi"
+2650,16.97,Google,Pixel 7,0,Non-Fraud
+5936,1767.88,Realme,GT Neo 5,0,Non-Fraud
+3719,957.34,Apple,iPad Air,1,"Counterfeit
+Skimming ATM"
+2036,3275.63,Apple,iPhone 13 Pro,0,Non-Fraud
+6136,1809.66,Apple,iPad Air,0,Non-Fraud
+6566,4688.68,Apple,MacBook Pro M3,0,Non-Fraud
+7222,2311.43,Vivo,X90,1,"Counterfeit
+Kartu Kloning"
+2045,3804.4,Apple,iPhone SE,0,Non-Fraud
+3433,1807.11,Xiaomi,Poco X5,1,"Fraud Onboarding 
+Dokumen Curian"
+1942,3961.25,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+3351,4146.21,Apple,iPad Pro 12.9,0,Non-Fraud
+8605,3749.79,Vivo,Y36,0,Non-Fraud
+5845,2331.14,Samsung,Galaxy Tab A8,1,"Fraud E-Commerce
+Refund Fraud"
+8923,2418.43,Laptop,Lenovo ThinkPad,1,"Fraud E-Commerce
+Diskon Palsu"
+9729,2921.11,Laptop,Lenovo ThinkPad,1,"CNP (Card Not Present)
+Transaksi Berulang"
+1087,3167.76,Infinix,Hot 30,0,Non-Fraud
+8045,1019.89,Laptop,Acer Aspire,1,"Counterfeit
+Kartu Kloning"
+3637,2896.98,Apple,MacBook Air M2,0,Non-Fraud
+2137,506.04,Google,Pixel 6a,1,"CNP (Card Not Present)
+Fake Account"
+9466,1286.19,Google,Pixel 6a,1,"CNP (Card Not Present)
+Bot Transaksi"
+2367,2175.39,Google,Pixel 6a,1,"Counterfeit
+Skimming ATM"
+5003,3095.92,Laptop,HP Pavilion,1,"Counterfeit
+Penjualan Kartu Palsu"
+1208,1157.31,Samsung,Galaxy Tab S9,1,"Fraud Onboarding 
+Dokumen Curian"
+6453,369.19,Apple,iPhone 12,1,"CNP (Card Not Present)
+Phising Data"
+6202,4533.26,Xiaomi,Poco X5,0,Non-Fraud
+1292,3970.02,Laptop,Dell XPS,0,Non-Fraud
+2939,4665.81,Samsung,Galaxy Z Fold 5,1,"Fraud Onboarding 
+Identitas Palsu"
+4896,4420.83,Infinix,Hot 30,0,Non-Fraud
+5597,2697.79,Infinix,Zero Ultra,0,Non-Fraud
+7753,4058.94,Vivo,V27 Pro,0,Non-Fraud
+1475,648.72,Laptop,Acer Aspire,0,Non-Fraud
+3426,1675.62,Laptop,HP Pavilion,1,"Fraud Onboarding 
+Data Duplikat"
+2020,3875.09,Laptop,MSI Stealth,1,"Fraud Onboarding 
+Identitas Palsu"
+4878,3509.12,Realme,C55,1,"CNP (Card Not Present)
+Fake Account"
+4957,237.69,Oppo,Find X5 Pro,0,Non-Fraud
+7384,1333.64,Apple,iPhone SE,1,"CNP (Card Not Present)
+IP Asing "
+3294,1393.17,Apple,iPhone 14 Pro Max,1,"Fraud Onboarding 
+Data Duplikat"
+7482,2122.61,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+5522,3946.87,Laptop,Acer Aspire,1,"Counterfeit
+Kartu Kloning"
+8525,547.11,Realme,GT Neo 5,0,Non-Fraud
+6559,4177.13,Apple,iPhone SE,1,"CNP (Card Not Present)
+Transaksi Berulang"
+5687,1925.58,Huawei,MatePad Pro,0,Non-Fraud
+1421,558.3,Infinix,Zero Ultra,1,"Counterfeit
+Penjualan Kartu Palsu"
+8025,971.41,Laptop,MSI Stealth,1,"Counterfeit
+Cetak Kartu Palsu"
+2947,2574.07,Realme,C55,1,"Counterfeit
+Penjualan Kartu Palsu"
+7859,4433.5,Apple,MacBook Air M2,0,Non-Fraud
+6301,3673.95,Xiaomi,Redmi Note 12,1,"Fraud E-Commerce
+Refund Fraud"
+9995,873.38,Vivo,X90,0,Non-Fraud
+2725,2431.25,Laptop,Dell XPS,0,Non-Fraud
+2040,1471.89,Vivo,V27 Pro,1,"Fraud Onboarding 
+Identitas Palsu"
+7200,1232.94,Laptop,Acer Aspire,0,Non-Fraud
+9688,3199.17,Apple,MacBook Air M2,1,"Fraud Onboarding 
+Identitas Palsu"
+5982,1502.46,Apple,iPad Pro 12.9,1,"Counterfeit
+Cetak Kartu Palsu"
+7207,3842.83,Google,Pixel 7,0,Non-Fraud
+2517,791.28,Samsung,Galaxy Note 20,0,Non-Fraud
+8483,559.87,Apple,MacBook Pro M3,0,Non-Fraud
+2620,521.96,Xiaomi,Redmi 13C,0,Non-Fraud
+6432,2868.77,Google,Pixel 7,0,Non-Fraud
+5263,2606.74,Xiaomi,Redmi 13C,1,"CNP (Card Not Present)
+Fake Account"
+1357,2705.87,Xiaomi,Pad 6,0,Non-Fraud
+1048,645.14,Laptop,MSI Stealth,0,Non-Fraud
+9651,91.92,Apple,iPhone 12,0,Non-Fraud
+5048,3862.94,Laptop,MSI Stealth,1,"Fraud E-Commerce
+Refund Fraud"
+7209,2521.43,Vivo,V27 Pro,0,Non-Fraud
+9347,3091.62,Samsung,Galaxy S23,1,"Fraud E-Commerce
+Ulasan Palsu"
+9367,569.75,Samsung,Galaxy S23,1,"Fraud Onboarding 
+Identitas Palsu"
+7055,1908.49,Huawei,Mate 40,0,Non-Fraud
+8004,3625.46,Huawei,Mate 40,1,"CNP (Card Not Present)
+Fake Account"
+8251,1080.71,Realme,GT Neo 5,0,Non-Fraud
+9012,4158.09,Vivo,X90,0,Non-Fraud
+4640,1837.62,Laptop,Dell XPS,0,Non-Fraud
+4547,2173.3,Xiaomi,Poco X5,1,"Fraud Onboarding 
+Data Duplikat"
+8344,4623.81,Laptop,Lenovo ThinkPad,0,Non-Fraud
+6431,1379.14,Samsung,Galaxy Tab A8,0,Non-Fraud
+3058,2104.03,Vivo,X90,0,Non-Fraud
+2029,1288.79,Custom PC,Windows 11 Gaming Rig,1,"Counterfeit
+Modifikasi Chip"
+4308,3335.28,Custom PC,Windows 10 Office PC,1,"Counterfeit
+Cetak Kartu Palsu"
+6296,2729.54,Huawei,Mate 40,1,"Fraud Onboarding 
+Dokumen Curian"
+1348,1517.67,Apple,MacBook Air M2,1,"Fraud E-Commerce
+Diskon Palsu"
+2454,634.25,Oppo,Reno 8,0,Non-Fraud
+9773,104.26,Google,Pixel 6a,1,"CNP (Card Not Present)
+Fake Account"
+1024,3269.05,Laptop,Acer Aspire,0,Non-Fraud
+2476,1723.39,Huawei,Mate 40,1,"CNP (Card Not Present)
+IP Asing "
+8714,4314.2,Laptop,HP Pavilion,1,"Counterfeit
+Cetak Kartu Palsu"
+2113,1714.09,Apple,iPad Air,0,Non-Fraud
+6375,1204.11,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+2605,3299.3,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+3223,2269.88,Oppo,A78,0,Non-Fraud
+8695,1011.74,Google,Pixel 6a,1,"CNP (Card Not Present)
+Phising Data"
+1710,3509.54,Samsung,Galaxy Tab A8,0,Non-Fraud
+3637,4877.1,Samsung,Galaxy Note 20,1,"Fraud E-Commerce
+Diskon Palsu"
+5535,388.03,Infinix,Zero Ultra,1,"Counterfeit
+Kartu Kloning"
+4392,1247.12,Laptop,Asus ROG,1,"Counterfeit
+Skimming ATM"
+2817,3835.09,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+8672,741.23,Laptop,Lenovo ThinkPad,0,Non-Fraud
+2330,1463.93,Laptop,Lenovo ThinkPad,0,Non-Fraud
+4315,3268.38,Samsung,Galaxy Tab A8,0,Non-Fraud
+2871,462.41,Vivo,X90,0,Non-Fraud
+4504,4995.05,Apple,iPhone 14 Pro Max,0,Non-Fraud
+5037,1248.03,Laptop,Asus ROG,0,Non-Fraud
+1458,1771.21,Apple,iPhone 13 Pro,1,"Counterfeit
+Skimming ATM"
+9598,4360.12,Apple,iPhone 12,0,Non-Fraud
+5813,3093.39,Samsung,Galaxy S23,1,"Fraud Onboarding 
+Bot Registerasi"
+8879,4144.18,Laptop,Lenovo ThinkPad,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+3075,4367.56,Laptop,Acer Aspire,0,Non-Fraud
+4338,1532.87,Custom PC,Windows 10 Office PC,1,"Counterfeit
+Skimming ATM"
+1538,4443.04,Apple,MacBook Pro M3,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+2522,1812.46,Xiaomi,Pad 6,1,"Fraud E-Commerce
+Diskon Palsu"
+3120,191.94,Apple,iPad Pro 12.9,1,"Fraud Onboarding 
+Bot Registerasi"
+7574,544.11,Laptop,HP Pavilion,0,Non-Fraud
+3940,3381.96,Google,Pixel 7,0,Non-Fraud
+9171,4117.46,Infinix,Zero Ultra,1,"Fraud Onboarding 
+Data Duplikat"
+7030,3282.34,Laptop,MSI Stealth,1,"Fraud Onboarding 
+Identitas Palsu"
+5423,1329.4,Laptop,MSI Stealth,0,Non-Fraud
+6002,4661.57,Laptop,HP Pavilion,1,"Fraud E-Commerce
+Diskon Palsu"
+7703,1448.18,Google,Pixel 7,0,Non-Fraud
+2598,3350.49,Apple,iPhone SE,0,Non-Fraud
+8551,1072.1,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+3649,1811.98,Realme,GT Neo 5,0,Non-Fraud
+7755,3696.68,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+6776,1050.81,Xiaomi,Redmi Note 12,0,Non-Fraud
+6573,1396.62,Infinix,Zero Ultra,0,Non-Fraud
+7886,4755.04,Oppo,A78,0,Non-Fraud
+2303,2804.26,Infinix,Hot 30,0,Non-Fraud
+7409,1161.1,Laptop,HP Pavilion,1,"Fraud Onboarding 
+Dokumen Curian"
+6343,4597.98,Huawei,MatePad Pro,0,Non-Fraud
+6934,3313.99,Google,Pixel 7,1,"Counterfeit
+Kartu Kloning"
+3377,1413.32,Vivo,Y36,0,Non-Fraud
+5941,4902.82,Xiaomi,Poco X5,0,Non-Fraud
+1766,4065.63,Samsung,Galaxy Tab S9,1,"Counterfeit
+Skimming ATM"
+8726,1574.07,Oppo,Find X5 Pro,1,"Counterfeit
+Cetak Kartu Palsu"
+9036,501.34,Samsung,Galaxy Tab S9,1,"Counterfeit
+Skimming ATM"
+5809,4032.77,Google,Pixel 7,0,Non-Fraud
+3020,3999.27,Realme,GT Neo 5,0,Non-Fraud
+2692,1519.09,Xiaomi,Mi 11 Ultra,1,"Fraud Onboarding 
+Bot Registerasi"
+4651,784.92,Apple,iPad Air,0,Non-Fraud
+4542,3988.72,Apple,iPhone 12,0,Non-Fraud
+8276,747.98,Huawei,P50 Pro,1,"Fraud Onboarding 
+Dokumen Curian"
+6446,2369.91,Apple,iPhone 13 Pro,0,Non-Fraud
+2140,1075.48,Laptop,Lenovo ThinkPad,0,Non-Fraud
+3941,645.29,Vivo,V27 Pro,1,"Fraud Onboarding 
+Alamat Palsu"
+2177,2428.99,Xiaomi,Poco X5,1,"CNP (Card Not Present)
+Bot Transaksi"
+5028,2710.88,Laptop,MSI Stealth,1,"Fraud E-Commerce
+Refund Fraud"
+1841,4789.83,Laptop,Asus ROG,1,"Fraud Onboarding 
+Alamat Palsu"
+4387,2098.18,Custom PC,Windows 11 Gaming Rig,1,"CNP (Card Not Present)
+Transaksi Berulang"
+7843,1146.15,Realme,GT Neo 5,1,"CNP (Card Not Present)
+IP Asing "
+8402,2380.73,Samsung,Galaxy Tab S9,0,Non-Fraud
+1883,4271.6,Oppo,Find X5 Pro,1,"Counterfeit
+Modifikasi Chip"
+7221,255.52,Custom PC,Windows 10 Office PC,1,"Counterfeit
+Cetak Kartu Palsu"
+3994,2464.11,Realme,GT Neo 5,1,"Counterfeit
+Penjualan Kartu Palsu"
+5995,219.27,Infinix,Hot 30,0,Non-Fraud
+6029,1942.66,Xiaomi,Redmi 13C,0,Non-Fraud
+4770,3920.25,Apple,iPad Pro 12.9,0,Non-Fraud
+1447,2427.4,Laptop,Lenovo ThinkPad,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+3807,4918.47,Apple,iPhone 14 Pro Max,0,Non-Fraud
+3640,2193.48,Vivo,X90,1,"Fraud Onboarding 
+Alamat Palsu"
+3363,1773.84,Samsung,Galaxy A54,0,Non-Fraud
+3561,1401.06,Samsung,Galaxy A54,1,"Fraud Onboarding 
+Alamat Palsu"
+1810,307.67,Xiaomi,Redmi 13C,1,"Fraud E-Commerce
+Ulasan Palsu"
+7190,2222.47,Infinix,Hot 30,0,Non-Fraud
+9052,3761.79,Apple,MacBook Air M2,0,Non-Fraud
+2140,163.49,Apple,iPhone 14 Pro Max,1,"Fraud Onboarding 
+Dokumen Curian"
+1615,1196.74,Xiaomi,Poco X5,0,Non-Fraud
+3202,2225.49,Apple,iPhone 14 Pro Max,1,"Counterfeit
+Cetak Kartu Palsu"
+8737,4069.76,Vivo,X90,0,Non-Fraud
+4985,388.66,Laptop,Acer Aspire,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+4144,1484.73,Laptop,Acer Aspire,1,"Fraud Onboarding 
+Alamat Palsu"
+5133,4197.5,Xiaomi,Pad 6,1,"CNP (Card Not Present)
+Fake Account"
+3527,1981.31,Custom PC,Windows 10 Office PC,1,"Fraud Onboarding 
+Data Duplikat"
+4901,988.33,Custom PC,Windows 10 Office PC,0,Non-Fraud
+7692,4222.73,Xiaomi,Pad 6,0,Non-Fraud
+4144,1402.15,Oppo,Find X5 Pro,1,"Fraud E-Commerce
+Refund Fraud"
+5334,1573.83,Xiaomi,Pad 6,0,Non-Fraud
+2852,4033.21,Infinix,Hot 30,0,Non-Fraud
+1007,4811.98,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+9203,113.13,Xiaomi,Poco X5,0,Non-Fraud
+3652,2942.79,Laptop,Acer Aspire,1,"CNP (Card Not Present)
+Phising Data"
+4227,4696.27,Apple,iPad Pro 12.9,0,Non-Fraud
+3727,1661.35,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+9175,922.86,Xiaomi,Pad 6,0,Non-Fraud
+6881,4211.5,Huawei,P50 Pro,0,Non-Fraud
+6798,430.37,Vivo,Y36,0,Non-Fraud
+9483,4565.77,Google,Pixel 6a,1,"Counterfeit
+Skimming ATM"
+9366,1752.73,Samsung,Galaxy Z Fold 5,1,"Fraud Onboarding 
+Alamat Palsu"
+5585,3731.06,Apple,MacBook Pro M3,1,"Fraud E-Commerce
+Ulasan Palsu"
+1420,1201.62,Oppo,A78,0,Non-Fraud
+7248,1000.12,Google,Pixel 6a,1,"Fraud Onboarding 
+Alamat Palsu"
+3754,3663.99,Samsung,Galaxy Note 20,0,Non-Fraud
+5596,3694.97,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+7472,4252.22,Laptop,HP Pavilion,0,Non-Fraud
+5797,1473.79,Oppo,A78,0,Non-Fraud
+5885,3652.0,Oppo,A78,0,Non-Fraud
+9298,3002.24,Custom PC,Windows 11 Gaming Rig,1,"CNP (Card Not Present)
+Phising Data"
+5359,3533.45,Samsung,Galaxy Tab S9,0,Non-Fraud
+2091,322.02,Oppo,Reno 8,1,"CNP (Card Not Present)
+IP Asing "
+8642,932.28,Xiaomi,Mi 11 Ultra,1,"Fraud E-Commerce
+Pesanan Palsu"
+5961,2698.08,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+1402,2186.98,Samsung,Galaxy Tab S9,1,"Fraud Onboarding 
+Alamat Palsu"
+7598,1978.16,Custom PC,Windows 10 Office PC,0,Non-Fraud
+4156,1838.54,Laptop,HP Pavilion,0,Non-Fraud
+9160,283.08,Oppo,A78,0,Non-Fraud
+3733,1187.9,Vivo,V27 Pro,0,Non-Fraud
+6947,1771.53,Samsung,Galaxy Tab S9,1,"Fraud Onboarding 
+Dokumen Curian"
+6653,2845.82,Huawei,P50 Pro,1,"CNP (Card Not Present)
+IP Asing "
+5556,4383.02,Samsung,Galaxy A54,1,"Fraud E-Commerce
+Refund Fraud"
+5776,1387.42,Samsung,Galaxy S23,1,"Fraud Onboarding 
+Bot Registerasi"
+5976,3062.87,Oppo,Find X5 Pro,0,Non-Fraud
+3181,1013.71,Apple,iPhone 12,1,"Counterfeit
+Cetak Kartu Palsu"
+8556,734.1,Samsung,Galaxy Tab S9,1,"Counterfeit
+Modifikasi Chip"
+8284,1557.78,Apple,iPad Air,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+3010,1666.03,Google,Pixel 6a,1,"CNP (Card Not Present)
+Fake Account"
+2773,216.15,Apple,iPhone SE,1,"Fraud E-Commerce
+Refund Fraud"
+2191,879.97,Google,Pixel 6a,0,Non-Fraud
+1307,407.43,Realme,C55,1,"Fraud Onboarding 
+Alamat Palsu"
+4089,803.92,Oppo,Find X5 Pro,1,"Counterfeit
+Modifikasi Chip"
+3307,4439.98,Apple,MacBook Pro M3,0,Non-Fraud
+9357,1189.92,Xiaomi,Redmi Note 12,0,Non-Fraud
+3760,4787.93,Realme,C55,1,"CNP (Card Not Present)
+Fake Account"
+2396,3855.22,Google,Pixel 7,1,"Counterfeit
+Modifikasi Chip"
+4684,264.77,Vivo,Y36,0,Non-Fraud
+5451,4863.41,Huawei,P50 Pro,1,"CNP (Card Not Present)
+Phising Data"
+3050,4858.98,Google,Pixel 7,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+9051,3588.22,Samsung,Galaxy Tab S9,1,"Counterfeit
+Skimming ATM"
+8171,2275.34,Laptop,Dell XPS,0,Non-Fraud
+2168,2036.48,Laptop,Lenovo ThinkPad,0,Non-Fraud
+3270,4884.58,Vivo,X90,0,Non-Fraud
+7421,4565.28,Infinix,Zero Ultra,1,"Fraud E-Commerce
+Pesanan Palsu"
+1798,2424.25,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+1423,4508.17,Realme,GT Neo 5,0,Non-Fraud
+7067,4591.25,Oppo,A78,1,"Counterfeit
+Cetak Kartu Palsu"
+8831,3360.49,Xiaomi,Pad 6,0,Non-Fraud
+2318,1130.31,Huawei,Mate 40,0,Non-Fraud
+4617,1896.46,Xiaomi,Poco X5,1,"Fraud Onboarding 
+Alamat Palsu"
+1435,1554.42,Apple,iPad Air,1,"CNP (Card Not Present)
+Phising Data"
+9907,2086.3,Laptop,Lenovo ThinkPad,0,Non-Fraud
+2331,3200.45,Laptop,Asus ROG,0,Non-Fraud
+5988,1032.82,Apple,iPhone 14 Pro Max,0,Non-Fraud
+6721,4905.83,Laptop,Asus ROG,1,"Counterfeit
+Kartu Kloning"
+4143,2439.18,Laptop,Asus ROG,0,Non-Fraud
+7769,314.14,Laptop,MSI Stealth,1,"CNP (Card Not Present)
+Bot Transaksi"
+4163,1686.3,Realme,GT Neo 5,0,Non-Fraud
+1786,4114.98,Apple,iPhone 12,0,Non-Fraud
+5201,4485.58,Laptop,Asus ROG,1,"CNP (Card Not Present)
+Fake Account"
+6063,2460.26,Oppo,Reno 8,0,Non-Fraud
+3662,2355.95,Apple,MacBook Pro M3,0,Non-Fraud
+4488,550.25,Laptop,MSI Stealth,1,"Counterfeit
+Kartu Kloning"
+6937,2718.56,Vivo,Y36,1,"Counterfeit
+Skimming ATM"
+4872,360.74,Realme,GT Neo 5,0,Non-Fraud
+1073,3132.17,Infinix,Zero Ultra,0,Non-Fraud
+5167,3984.97,Apple,iPhone SE,0,Non-Fraud
+5037,4653.41,Vivo,X90,1,"Fraud Onboarding 
+Data Duplikat"
+9603,767.64,Huawei,P50 Pro,0,Non-Fraud
+5429,3130.25,Apple,iPhone 13 Pro,0,Non-Fraud
+6900,4473.97,Samsung,Galaxy Tab A8,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+1070,4780.79,Apple,iPad Pro 12.9,1,"Fraud E-Commerce
+Ulasan Palsu"
+4781,4419.15,Laptop,Dell XPS,0,Non-Fraud
+7669,3221.11,Laptop,Dell XPS,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+8636,2797.05,Xiaomi,Redmi Note 12,1,"CNP (Card Not Present)
+Fake Account"
+8750,2967.41,Samsung,Galaxy A54,1,"Fraud E-Commerce
+Refund Fraud"
+4951,4279.39,Huawei,P50 Pro,0,Non-Fraud
+1558,4374.52,Apple,iPad Air,0,Non-Fraud
+9465,4058.77,Infinix,Zero Ultra,0,Non-Fraud
+2752,4793.21,Laptop,MSI Stealth,1,"Counterfeit
+Skimming ATM"
+3251,3552.34,Xiaomi,Mi 11 Ultra,1,"Counterfeit
+Penjualan Kartu Palsu"
+2124,4886.39,Custom PC,Windows 11 Gaming Rig,1,"Fraud E-Commerce
+Diskon Palsu"
+3294,3295.5,Oppo,A78,1,"Fraud E-Commerce
+Pesanan Palsu"
+4231,4609.35,Laptop,Lenovo ThinkPad,0,Non-Fraud
+2692,2078.19,Custom PC,Windows 11 Gaming Rig,1,"Counterfeit
+Penjualan Kartu Palsu"
+5208,841.48,Laptop,Dell XPS,1,"Counterfeit
+Kartu Kloning"
+1023,1153.39,Xiaomi,Mi 11 Ultra,1,"Fraud Onboarding 
+Identitas Palsu"
+5704,1947.59,Laptop,Acer Aspire,0,Non-Fraud
+2231,3542.73,Samsung,Galaxy Tab S9,0,Non-Fraud
+1830,3633.13,Oppo,A78,0,Non-Fraud
+9735,2749.86,Samsung,Galaxy S23,0,Non-Fraud
+7715,3446.4,Samsung,Galaxy S23,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+4327,1231.17,Laptop,Dell XPS,1,"CNP (Card Not Present)
+Phising Data"
+1425,54.81,Huawei,Mate 40,0,Non-Fraud
+8681,4240.76,Laptop,Acer Aspire,0,Non-Fraud
+2662,4214.0,Laptop,Lenovo ThinkPad,1,"CNP (Card Not Present)
+Fake Account"
+3541,4346.5,Custom PC,Windows 11 Gaming Rig,1,"CNP (Card Not Present)
+IP Asing "
+4895,894.74,Samsung,Galaxy Note 20,1,"Fraud E-Commerce
+Pesanan Palsu"
+8548,550.6,Samsung,Galaxy S23,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+7913,1197.69,Apple,iPad Pro 12.9,0,Non-Fraud
+3349,1432.62,Custom PC,Windows 10 Office PC,0,Non-Fraud
+9952,1649.81,Xiaomi,Redmi Note 12,0,Non-Fraud
+3604,3999.22,Infinix,Hot 30,0,Non-Fraud
+5527,3600.18,Vivo,Y36,1,"Fraud Onboarding 
+Dokumen Curian"
+2534,160.03,Xiaomi,Pad 6,0,Non-Fraud
+5281,1252.04,Laptop,Dell XPS,1,"CNP (Card Not Present)
+Bot Transaksi"
+1626,4555.96,Oppo,Find X5 Pro,1,"CNP (Card Not Present)
+Bot Transaksi"
+9196,3253.42,Apple,iPad Pro 12.9,1,"Fraud E-Commerce
+Ulasan Palsu"
+7815,3117.02,Samsung,Galaxy A54,0,Non-Fraud
+9704,1792.52,Samsung,Galaxy Z Fold 5,1,"Fraud E-Commerce
+Diskon Palsu"
+5575,606.78,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+1129,4029.78,Samsung,Galaxy A54,0,Non-Fraud
+9112,3288.9,Samsung,Galaxy Z Fold 5,1,"CNP (Card Not Present)
+Phising Data"
+7012,3486.05,Custom PC,Windows 10 Office PC,0,Non-Fraud
+7016,692.48,Xiaomi,Pad 6,0,Non-Fraud
+9017,814.22,Samsung,Galaxy Tab A8,0,Non-Fraud
+2312,392.98,Apple,iPhone SE,0,Non-Fraud
+2364,2776.0,Xiaomi,Mi 11 Ultra,1,"CNP (Card Not Present)
+Bot Transaksi"
+9553,2659.07,Apple,iPad Air,0,Non-Fraud
+9635,1214.43,Vivo,V27 Pro,1,"Fraud Onboarding 
+Dokumen Curian"
+1503,3109.5,Apple,iPhone 14 Pro Max,1,"Fraud Onboarding 
+Data Duplikat"
+1387,4760.61,Samsung,Galaxy Tab S9,0,Non-Fraud
+7844,1400.35,Apple,MacBook Air M2,0,Non-Fraud
+9931,1579.89,Xiaomi,Redmi 13C,1,"CNP (Card Not Present)
+Phising Data"
+1343,713.44,Xiaomi,Pad 6,0,Non-Fraud
+7106,1821.59,Oppo,A78,1,"CNP (Card Not Present)
+Phising Data"
+2048,1703.02,Laptop,Lenovo ThinkPad,1,"Fraud E-Commerce
+Ulasan Palsu"
+6716,3718.42,Custom PC,Windows 11 Gaming Rig,1,"Fraud E-Commerce
+Ulasan Palsu"
+6767,2015.96,Samsung,Galaxy Tab S9,1,"CNP (Card Not Present)
+Transaksi Berulang"
+8661,3093.75,Apple,iPhone 13 Pro,0,Non-Fraud
+7348,4978.51,Laptop,Asus ROG,0,Non-Fraud
+4824,3078.31,Samsung,Galaxy Z Fold 5,1,"CNP (Card Not Present)
+Fake Account"
+9207,3231.19,Custom PC,Windows 10 Office PC,0,Non-Fraud
+2538,427.9,Oppo,A78,1,"Fraud Onboarding 
+Alamat Palsu"
+6166,3630.79,Infinix,Hot 30,0,Non-Fraud
+8267,2033.89,Samsung,Galaxy Note 20,0,Non-Fraud
+5798,2128.39,Samsung,Galaxy Tab S9,0,Non-Fraud
+2833,4843.83,Google,Pixel 6a,1,"CNP (Card Not Present)
+Transaksi Berulang"
+7023,2487.46,Laptop,Dell XPS,0,Non-Fraud
+5152,3434.38,Laptop,Asus ROG,0,Non-Fraud
+6750,1080.07,Xiaomi,Redmi 13C,1,"CNP (Card Not Present)
+Bot Transaksi"
+4595,3990.21,Custom PC,Windows 10 Office PC,0,Non-Fraud
+8040,2467.12,Xiaomi,Redmi 13C,1,"Counterfeit
+Kartu Kloning"
+7957,4616.51,Laptop,HP Pavilion,0,Non-Fraud
+1925,1196.07,Laptop,HP Pavilion,1,"Counterfeit
+Cetak Kartu Palsu"
+5963,1161.77,Xiaomi,Pad 6,0,Non-Fraud
+6375,2101.61,Samsung,Galaxy Z Fold 5,1,"Counterfeit
+Cetak Kartu Palsu"
+9728,486.74,Infinix,Hot 30,0,Non-Fraud
+4585,2745.98,Laptop,Dell XPS,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+6888,1156.75,Xiaomi,Poco X5,1,"CNP (Card Not Present)
+Fake Account"
+2919,1766.67,Huawei,Mate 40,0,Non-Fraud
+2340,229.37,Vivo,X90,0,Non-Fraud
+6546,979.09,Laptop,Dell XPS,1,"Counterfeit
+Cetak Kartu Palsu"
+7132,1260.74,Apple,iPhone 13 Pro,0,Non-Fraud
+4492,3153.78,Custom PC,Windows 10 Office PC,1,"Fraud Onboarding 
+Bot Registerasi"
+1355,756.34,Laptop,Asus ROG,1,"CNP (Card Not Present)
+Phising Data"
+8542,2059.53,Vivo,X90,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+5439,2590.22,Apple,iPhone 12,1,"Counterfeit
+Kartu Kloning"
+6357,2286.89,Vivo,X90,0,Non-Fraud
+4923,4281.21,Samsung,Galaxy Z Fold 5,1,"Counterfeit
+Kartu Kloning"
+5351,1247.53,Apple,iPhone SE,0,Non-Fraud
+5925,315.44,Realme,C55,1,"Counterfeit
+Penjualan Kartu Palsu"
+6436,4931.15,Xiaomi,Mi 11 Ultra,1,"Counterfeit
+Cetak Kartu Palsu"
+6711,4625.68,Laptop,Acer Aspire,0,Non-Fraud
+3336,2871.77,Huawei,Mate 40,1,"Fraud E-Commerce
+Refund Fraud"
+1841,2019.17,Apple,iPad Air,1,"Counterfeit
+Kartu Kloning"
+1574,3548.72,Realme,GT Neo 5,0,Non-Fraud
+2357,711.61,Huawei,MatePad Pro,1,"Fraud Onboarding 
+Dokumen Curian"
+7539,1484.37,Apple,iPhone SE,0,Non-Fraud
+3449,3864.99,Vivo,X90,0,Non-Fraud
+3783,4357.47,Apple,iPhone 13 Pro,0,Non-Fraud
+5609,4994.6,Realme,GT Neo 5,0,Non-Fraud
+7287,2265.54,Xiaomi,Redmi 13C,1,"Fraud Onboarding 
+Alamat Palsu"
+3229,4173.99,Huawei,P50 Pro,1,"Fraud Onboarding 
+Alamat Palsu"
+2815,3400.37,Samsung,Galaxy A54,0,Non-Fraud
+2785,1004.37,Samsung,Galaxy Z Fold 5,1,"CNP (Card Not Present)
+Bot Transaksi"
+2641,4423.72,Apple,iPhone 13 Pro,0,Non-Fraud
+8819,2941.21,Apple,iPad Pro 12.9,1,"Counterfeit
+Modifikasi Chip"
+7980,4157.69,Samsung,Galaxy S23,1,"CNP (Card Not Present)
+Fake Account"
+2643,3157.71,Apple,iPad Pro 12.9,1,"Counterfeit
+Skimming ATM"
+5061,777.53,Apple,iPhone SE,0,Non-Fraud
+1962,1304.43,Oppo,Reno 8,1,"Counterfeit
+Skimming ATM"
+9523,3876.83,Xiaomi,Redmi Note 12,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+9778,2016.01,Samsung,Galaxy A54,1,"CNP (Card Not Present)
+Phising Data"
+3930,2426.54,Infinix,Zero Ultra,0,Non-Fraud
+8450,4023.16,Apple,iPad Air,0,Non-Fraud
+7090,462.02,Oppo,A78,1,"Counterfeit
+Cetak Kartu Palsu"
+6952,3769.79,Huawei,Mate 40,0,Non-Fraud
+1636,3756.67,Laptop,Lenovo ThinkPad,0,Non-Fraud
+1910,1321.12,Google,Pixel 6a,1,"Counterfeit
+Penjualan Kartu Palsu"
+3373,2846.2,Samsung,Galaxy Tab A8,1,"CNP (Card Not Present)
+Bot Transaksi"
+2437,2672.41,Laptop,HP Pavilion,0,Non-Fraud
+4969,852.96,Huawei,MatePad Pro,0,Non-Fraud
+5979,4478.53,Custom PC,Windows 11 Gaming Rig,1,"Fraud Onboarding 
+Identitas Palsu"
+4585,4507.82,Custom PC,Windows 10 Office PC,1,"Fraud E-Commerce
+Pesanan Palsu"
+8421,3274.92,Laptop,MSI Stealth,0,Non-Fraud
+7961,3281.15,Huawei,P50 Pro,1,"Counterfeit
+Cetak Kartu Palsu"
+1969,3378.31,Samsung,Galaxy S23,1,"CNP (Card Not Present)
+Fake Account"
+8848,3325.51,Laptop,Dell XPS,0,Non-Fraud
+7260,2596.13,Xiaomi,Redmi 13C,0,Non-Fraud
+6516,1859.95,Apple,iPad Air,0,Non-Fraud
+3827,4166.47,Huawei,P50 Pro,1,"CNP (Card Not Present)
+Bot Transaksi"
+7201,738.88,Apple,iPad Pro 12.9,1,"Fraud Onboarding 
+Alamat Palsu"
+9751,1182.93,Huawei,P50 Pro,1,"Fraud Onboarding 
+Alamat Palsu"
+7952,818.44,Realme,C55,1,"CNP (Card Not Present)
+IP Asing "
+6973,1537.81,Infinix,Hot 30,0,Non-Fraud
+5346,4382.31,Custom PC,Windows 10 Office PC,0,Non-Fraud
+8317,4892.71,Xiaomi,Redmi 13C,0,Non-Fraud
+4466,379.26,Laptop,MSI Stealth,0,Non-Fraud
+6883,1373.37,Oppo,Find X5 Pro,1,"CNP (Card Not Present)
+Phising Data"
+8605,875.83,Apple,iPhone 14 Pro Max,0,Non-Fraud
+1943,478.19,Laptop,Dell XPS,0,Non-Fraud
+1062,2781.22,Apple,MacBook Pro M3,0,Non-Fraud
+7455,4713.55,Apple,iPad Pro 12.9,0,Non-Fraud
+1915,1243.36,Samsung,Galaxy S23,0,Non-Fraud
+2236,4771.1,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+7570,4264.73,Oppo,Reno 8,0,Non-Fraud
+3631,332.24,Oppo,Reno 8,1,"Fraud E-Commerce
+Ulasan Palsu"
+9040,2929.15,Samsung,Galaxy Note 20,1,"CNP (Card Not Present)
+Phising Data"
+7960,4910.13,Apple,iPad Pro 12.9,0,Non-Fraud
+5792,642.82,Laptop,MSI Stealth,0,Non-Fraud
+1175,1445.03,Apple,MacBook Pro M3,1,"CNP (Card Not Present)
+Bot Transaksi"
+2939,562.97,Samsung,Galaxy A54,0,Non-Fraud
+7658,289.62,Apple,iPhone 14 Pro Max,1,"Fraud Onboarding 
+Alamat Palsu"
+2163,2226.61,Oppo,Find X5 Pro,1,"Counterfeit
+Kartu Kloning"
+6459,4772.36,Infinix,Zero Ultra,0,Non-Fraud
+8820,3834.96,Google,Pixel 7,1,"Fraud E-Commerce
+Refund Fraud"
+2776,1398.17,Infinix,Hot 30,1,"Fraud Onboarding 
+Bot Registerasi"
+9492,3223.81,Apple,MacBook Pro M3,0,Non-Fraud
+2461,1318.31,Infinix,Zero Ultra,1,"Fraud E-Commerce
+Ulasan Palsu"
+8233,3085.93,Apple,iPhone 14 Pro Max,1,"CNP (Card Not Present)
+Bot Transaksi"
+3678,2546.42,Laptop,Acer Aspire,1,"CNP (Card Not Present)
+Phising Data"
+4947,2326.55,Xiaomi,Poco X5,0,Non-Fraud
+2412,4423.1,Laptop,HP Pavilion,0,Non-Fraud
+9978,1049.24,Xiaomi,Mi 11 Ultra,1,"Counterfeit
+Penjualan Kartu Palsu"
+4313,4535.49,Vivo,Y36,1,"CNP (Card Not Present)
+Phising Data"
+6432,2009.76,Xiaomi,Pad 6,1,"Fraud Onboarding 
+Alamat Palsu"
+8975,3600.14,Xiaomi,Mi 11 Ultra,1,"Fraud Onboarding 
+Data Duplikat"
+9979,951.19,Google,Pixel 6a,1,"Counterfeit
+Penjualan Kartu Palsu"
+2209,550.62,Apple,MacBook Air M2,0,Non-Fraud
+3763,2903.37,Xiaomi,Redmi Note 12,1,"Fraud E-Commerce
+Pesanan Palsu"
+9585,3439.03,Apple,iPhone 13 Pro,1,"CNP (Card Not Present)
+IP Asing "
+6764,493.28,Laptop,MSI Stealth,1,"Counterfeit
+Cetak Kartu Palsu"
+9574,3618.25,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+1949,569.64,Laptop,MSI Stealth,0,Non-Fraud
+4042,692.68,Laptop,Asus ROG,0,Non-Fraud
+2134,4370.22,Xiaomi,Poco X5,0,Non-Fraud
+6105,904.37,Huawei,Mate 40,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+9129,1138.37,Laptop,Acer Aspire,0,Non-Fraud
+3287,4623.45,Infinix,Zero Ultra,1,"Counterfeit
+Penjualan Kartu Palsu"
+1109,126.51,Oppo,Reno 8,1,"Counterfeit
+Penjualan Kartu Palsu"
+7427,716.94,Infinix,Hot 30,1,"Fraud Onboarding 
+Bot Registerasi"
+1368,3843.94,Infinix,Zero Ultra,0,Non-Fraud
+2447,2320.67,Samsung,Galaxy Z Fold 5,1,"Counterfeit
+Skimming ATM"
+6537,2639.39,Laptop,Asus ROG,0,Non-Fraud
+8831,646.98,Oppo,Find X5 Pro,0,Non-Fraud
+9453,1362.31,Apple,MacBook Pro M3,0,Non-Fraud
+9753,4993.86,Apple,iPhone 14 Pro Max,0,Non-Fraud
+1984,1988.16,Vivo,X90,0,Non-Fraud
+7791,3857.27,Apple,iPad Pro 12.9,1,"CNP (Card Not Present)
+Fake Account"
+8040,611.44,Laptop,HP Pavilion,1,"CNP (Card Not Present)
+Fake Account"
+5721,889.06,Xiaomi,Redmi Note 12,1,"Fraud Onboarding 
+Alamat Palsu"
+8839,1362.48,Apple,iPhone 14 Pro Max,0,Non-Fraud
+9573,4875.64,Apple,iPad Air,1,"Counterfeit
+Cetak Kartu Palsu"
+4041,4830.91,Samsung,Galaxy Note 20,1,"CNP (Card Not Present)
+Bot Transaksi"
+7647,3527.01,Huawei,MatePad Pro,0,Non-Fraud
+8224,1780.04,Samsung,Galaxy Tab S9,1,"Counterfeit
+Penjualan Kartu Palsu"
+7468,1422.44,Samsung,Galaxy Tab A8,0,Non-Fraud
+1276,3886.35,Realme,GT Neo 5,0,Non-Fraud
+9273,4232.13,Infinix,Hot 30,0,Non-Fraud
+4511,424.61,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+8808,207.19,Apple,iPhone 14 Pro Max,1,"Fraud E-Commerce
+Ulasan Palsu"
+2766,3790.91,Apple,MacBook Pro M3,0,Non-Fraud
+7488,3567.38,Laptop,Acer Aspire,1,"CNP (Card Not Present)
+IP Asing "
+3207,1046.53,Google,Pixel 7,0,Non-Fraud
+4112,1707.94,Xiaomi,Redmi 13C,1,"Fraud Onboarding 
+Data Duplikat"
+9918,2182.32,Realme,GT Neo 5,0,Non-Fraud
+7169,897.62,Apple,iPhone 14 Pro Max,0,Non-Fraud
+7221,1101.94,Xiaomi,Poco X5,1,"Fraud Onboarding 
+Identitas Palsu"
+3798,4621.86,Huawei,MatePad Pro,0,Non-Fraud
+1051,3209.2,Samsung,Galaxy Tab S9,0,Non-Fraud
+7055,1501.8,Vivo,Y36,1,"Fraud Onboarding 
+Dokumen Curian"
+1631,4064.24,Apple,iPhone 13 Pro,1,"Counterfeit
+Skimming ATM"
+2741,2404.84,Huawei,P50 Pro,1,"Fraud Onboarding 
+Identitas Palsu"
+7836,4794.92,Apple,iPhone SE,0,Non-Fraud
+9544,3063.61,Infinix,Zero Ultra,0,Non-Fraud
+9895,2866.49,Laptop,Asus ROG,0,Non-Fraud
+7555,2510.99,Samsung,Galaxy Note 20,0,Non-Fraud
+6207,4145.31,Laptop,MSI Stealth,1,"Fraud Onboarding 
+Data Duplikat"
+7120,3099.61,Apple,MacBook Air M2,0,Non-Fraud
+2067,1236.87,Vivo,Y36,0,Non-Fraud
+4373,2491.9,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+2290,4891.22,Laptop,MSI Stealth,1,"Counterfeit
+Modifikasi Chip"
+8524,2814.07,Apple,iPad Air,1,"Fraud Onboarding 
+Data Duplikat"
+8272,1601.41,Xiaomi,Redmi Note 12,1,"Counterfeit
+Cetak Kartu Palsu"
+9658,4415.27,Xiaomi,Poco X5,1,"Counterfeit
+Cetak Kartu Palsu"
+6079,3223.57,Xiaomi,Mi 11 Ultra,1,"Counterfeit
+Modifikasi Chip"
+5703,1482.65,Apple,iPhone 12,1,"Fraud Onboarding 
+Bot Registerasi"
+9239,2421.56,Vivo,X90,1,"CNP (Card Not Present)
+IP Asing "
+8901,364.0,Apple,iPhone 14 Pro Max,0,Non-Fraud
+7436,1332.06,Samsung,Galaxy Tab S9,0,Non-Fraud
+5163,3027.43,Custom PC,Windows 10 Office PC,1,"Fraud E-Commerce
+Diskon Palsu"
+7449,3155.22,Laptop,HP Pavilion,1,"Fraud Onboarding 
+Bot Registerasi"
+8622,2998.31,Laptop,Asus ROG,0,Non-Fraud
+2688,2966.99,Huawei,P50 Pro,1,"Fraud Onboarding 
+Dokumen Curian"
+9456,250.11,Realme,GT Neo 5,0,Non-Fraud
+6310,994.54,Apple,iPad Air,1,"Fraud E-Commerce
+Ulasan Palsu"
+3392,745.75,Apple,iPhone 14 Pro Max,1,"Counterfeit
+Modifikasi Chip"
+5831,550.81,Realme,GT Neo 5,0,Non-Fraud
+4697,4198.55,Huawei,Mate 40,1,"Fraud Onboarding 
+Dokumen Curian"
+3419,3001.11,Apple,iPad Pro 12.9,0,Non-Fraud
+2906,1391.5,Oppo,Find X5 Pro,0,Non-Fraud
+5888,1568.24,Laptop,Asus ROG,0,Non-Fraud
+9821,2470.42,Laptop,Asus ROG,0,Non-Fraud
+9842,2271.2,Laptop,Lenovo ThinkPad,0,Non-Fraud
+7173,4095.38,Laptop,Acer Aspire,0,Non-Fraud
+3307,4281.58,Google,Pixel 7,0,Non-Fraud
+9005,285.75,Apple,iPhone SE,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+5079,283.05,Samsung,Galaxy Tab S9,0,Non-Fraud
+2138,1558.87,Apple,iPhone 13 Pro,0,Non-Fraud
+3630,122.78,Infinix,Hot 30,0,Non-Fraud
+2297,2478.88,Google,Pixel 6a,0,Non-Fraud
+2173,2282.64,Vivo,V27 Pro,1,"CNP (Card Not Present)
+Transaksi Berulang"
+5114,405.14,Apple,iPad Pro 12.9,0,Non-Fraud
+4339,2106.97,Vivo,X90,0,Non-Fraud
+2698,3388.32,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+1141,3100.82,Xiaomi,Redmi Note 12,0,Non-Fraud
+2904,1290.59,Xiaomi,Poco X5,1,"CNP (Card Not Present)
+Transaksi Berulang"
+9446,1033.36,Custom PC,Windows 10 Office PC,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+2817,1506.91,Laptop,HP Pavilion,0,Non-Fraud
+8428,3891.64,Apple,iPad Air,0,Non-Fraud
+1216,3910.01,Huawei,Mate 40,0,Non-Fraud
+5632,4891.9,Oppo,A78,0,Non-Fraud
+9094,1805.33,Huawei,P50 Pro,1,"Fraud E-Commerce
+Refund Fraud"
+4106,4853.46,Vivo,X90,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+8152,1518.27,Samsung,Galaxy A54,0,Non-Fraud
+3053,2011.81,Laptop,Lenovo ThinkPad,1,"Counterfeit
+Kartu Kloning"
+6373,1987.49,Huawei,P50 Pro,0,Non-Fraud
+5067,4942.28,Samsung,Galaxy A54,0,Non-Fraud
+3741,1292.78,Apple,iPhone SE,0,Non-Fraud
+2571,3450.36,Samsung,Galaxy Note 20,1,"Counterfeit
+Penjualan Kartu Palsu"
+7888,3771.63,Vivo,X90,0,Non-Fraud
+7051,3849.99,Samsung,Galaxy Tab A8,0,Non-Fraud
+1332,1931.64,Google,Pixel 7,0,Non-Fraud
+2126,1794.54,Laptop,HP Pavilion,0,Non-Fraud
+1683,390.21,Apple,iPad Pro 12.9,1,"CNP (Card Not Present)
+Transaksi Berulang"
+6260,1426.12,Xiaomi,Pad 6,1,"Fraud E-Commerce
+Ulasan Palsu"
+1470,2765.83,Infinix,Zero Ultra,1,"CNP (Card Not Present)
+IP Asing "
+9747,785.44,Xiaomi,Mi 11 Ultra,1,"Fraud E-Commerce
+Diskon Palsu"
+4554,1391.53,Infinix,Hot 30,1,"CNP (Card Not Present)
+Phising Data"
+4006,274.14,Samsung,Galaxy Note 20,0,Non-Fraud
+2926,1035.69,Laptop,HP Pavilion,1,"Fraud E-Commerce
+Pesanan Palsu"
+4565,227.35,Xiaomi,Redmi Note 12,1,"Fraud Onboarding 
+Identitas Palsu"
+8240,2179.38,Realme,GT Neo 5,0,Non-Fraud
+3537,991.94,Huawei,P50 Pro,1,"Fraud Onboarding 
+Dokumen Curian"
+3405,2608.93,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+2589,2813.52,Samsung,Galaxy S23,1,"Fraud E-Commerce
+Refund Fraud"
+1583,2584.8,Apple,iPhone 12,0,Non-Fraud
+2249,2217.15,Laptop,HP Pavilion,0,Non-Fraud
+1354,1181.64,Xiaomi,Redmi 13C,1,"Fraud Onboarding 
+Bot Registerasi"
+1233,4583.42,Infinix,Hot 30,0,Non-Fraud
+9862,4237.1,Xiaomi,Pad 6,0,Non-Fraud
+8694,3823.51,Apple,iPhone SE,1,"Fraud Onboarding 
+Alamat Palsu"
+2749,2264.16,Huawei,P50 Pro,0,Non-Fraud
+9208,108.68,Huawei,MatePad Pro,0,Non-Fraud
+6854,1738.23,Laptop,Acer Aspire,1,"Fraud E-Commerce
+Pesanan Palsu"
+4815,1817.26,Apple,iPad Air,1,"Fraud Onboarding 
+Alamat Palsu"
+1166,2856.56,Xiaomi,Redmi Note 12,1,"Fraud E-Commerce
+Refund Fraud"
+9101,2808.17,Huawei,MatePad Pro,1,"Fraud Onboarding 
+Dokumen Curian"
+4566,510.48,Oppo,Reno 8,1,"Fraud Onboarding 
+Dokumen Curian"
+5564,2659.08,Apple,iPad Air,1,"Fraud E-Commerce
+Ulasan Palsu"
+1219,2289.17,Huawei,MatePad Pro,1,"Fraud E-Commerce
+Diskon Palsu"
+2477,3772.28,Realme,GT Neo 5,0,Non-Fraud
+8005,4953.67,Vivo,V27 Pro,0,Non-Fraud
+2882,3094.64,Realme,C55,0,Non-Fraud
+8121,4403.28,Oppo,A78,1,"CNP (Card Not Present)
+Phising Data"
+7318,254.94,Oppo,A78,0,Non-Fraud
+7338,2942.08,Custom PC,Windows 10 Office PC,1,"CNP (Card Not Present)
+IP Asing "
+2649,2133.19,Realme,C55,0,Non-Fraud
+8257,1507.28,Xiaomi,Poco X5,0,Non-Fraud
+2564,386.51,Xiaomi,Pad 6,1,"Fraud Onboarding 
+Identitas Palsu"
+3580,538.04,Infinix,Hot 30,0,Non-Fraud
+6697,2963.61,Apple,iPhone 13 Pro,0,Non-Fraud
+8848,586.27,Xiaomi,Pad 6,1,"CNP (Card Not Present)
+Phising Data"
+1386,3817.57,Realme,GT Neo 5,0,Non-Fraud
+8543,978.32,Laptop,Dell XPS,1,"CNP (Card Not Present)
+Bot Transaksi"
+8910,3146.42,Huawei,Mate 40,1,"Fraud E-Commerce
+Ulasan Palsu"
+6216,3562.21,Samsung,Galaxy S23,0,Non-Fraud
+9579,3638.67,Vivo,Y36,0,Non-Fraud
+9687,654.37,Apple,MacBook Air M2,0,Non-Fraud
+5667,1852.15,Apple,iPhone SE,1,"CNP (Card Not Present)
+Bot Transaksi"
+1461,4710.38,Laptop,Lenovo ThinkPad,1,"CNP (Card Not Present)
+Transaksi Berulang"
+4329,363.24,Xiaomi,Redmi Note 12,1,"Fraud E-Commerce
+Refund Fraud"
+3590,1217.22,Apple,iPhone 12,0,Non-Fraud
+7881,3057.02,Apple,iPhone 12,1,"Fraud Onboarding 
+Data Duplikat"
+2116,4156.93,Oppo,Reno 8,0,Non-Fraud
+5981,4714.49,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+3628,2133.46,Laptop,Acer Aspire,0,Non-Fraud
+1123,1296.12,Laptop,Dell XPS,0,Non-Fraud
+3319,4361.84,Laptop,Acer Aspire,0,Non-Fraud
+1167,288.23,Huawei,MatePad Pro,1,"Fraud E-Commerce
+Pesanan Palsu"
+8532,4800.88,Apple,iPhone SE,0,Non-Fraud
+5239,3350.29,Vivo,Y36,0,Non-Fraud
+7842,2223.48,Infinix,Hot 30,0,Non-Fraud
+1374,1521.64,Xiaomi,Redmi Note 12,1,"Fraud Onboarding 
+Bot Registerasi"
+6085,3696.63,Custom PC,Windows 11 Gaming Rig,1,"Counterfeit
+Kartu Kloning"
+8660,2685.1,Apple,MacBook Pro M3,1,"Fraud E-Commerce
+Ulasan Palsu"
+9860,1807.53,Oppo,Reno 8,1,"CNP (Card Not Present)
+IP Asing "
+5478,3376.2,Realme,GT Neo 5,1,"Counterfeit
+Cetak Kartu Palsu"
+8903,2242.72,Huawei,Mate 40,0,Non-Fraud
+5762,2635.69,Samsung,Galaxy S23,0,Non-Fraud
+5224,1450.25,Xiaomi,Redmi 13C,1,"Fraud Onboarding 
+Dokumen Curian"
+7919,4498.84,Apple,iPad Pro 12.9,1,"CNP (Card Not Present)
+Fake Account"
+2151,178.43,Samsung,Galaxy A54,0,Non-Fraud
+2390,4776.2,Laptop,Acer Aspire,0,Non-Fraud
+2552,4985.42,Laptop,Lenovo ThinkPad,0,Non-Fraud
+3027,4191.64,Vivo,X90,1,"CNP (Card Not Present)
+Transaksi Berulang"
+1494,4566.38,Apple,iPhone 13 Pro,0,Non-Fraud
+4075,2269.33,Custom PC,Windows 10 Office PC,1,"Fraud Onboarding 
+Identitas Palsu"
+7137,2479.47,Vivo,V27 Pro,0,Non-Fraud
+7802,3475.14,Samsung,Galaxy S23,0,Non-Fraud
+5582,1657.82,Xiaomi,Pad 6,1,"Fraud Onboarding 
+Identitas Palsu"
+3781,549.29,Custom PC,Windows 10 Office PC,0,Non-Fraud
+6162,2383.05,Samsung,Galaxy Tab A8,1,"Fraud Onboarding 
+Alamat Palsu"
+8356,318.11,Apple,MacBook Air M2,1,"Fraud E-Commerce
+Diskon Palsu"
+7312,2468.32,Apple,iPhone 14 Pro Max,0,Non-Fraud
+2798,1810.78,Huawei,P50 Pro,0,Non-Fraud
+9001,2707.89,Infinix,Hot 30,0,Non-Fraud
+4047,2754.07,Laptop,Acer Aspire,0,Non-Fraud
+6783,4021.8,Samsung,Galaxy Note 20,0,Non-Fraud
+1795,204.06,Laptop,Lenovo ThinkPad,0,Non-Fraud
+7333,4723.62,Xiaomi,Pad 6,0,Non-Fraud
+5324,3264.38,Custom PC,Windows 10 Office PC,0,Non-Fraud
+5738,618.69,Oppo,Reno 8,0,Non-Fraud
+7357,4974.32,Google,Pixel 6a,1,"Fraud Onboarding 
+Data Duplikat"
+2781,1269.52,Vivo,X90,0,Non-Fraud
+6941,640.53,Laptop,Asus ROG,0,Non-Fraud
+8969,2532.83,Laptop,Dell XPS,1,"CNP (Card Not Present)
+Fake Account"
+8439,906.99,Huawei,P50 Pro,0,Non-Fraud
+6236,1983.44,Custom PC,Windows 10 Office PC,0,Non-Fraud
+3486,1008.72,Vivo,Y36,0,Non-Fraud
+5844,4666.92,Huawei,P50 Pro,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+3893,1656.64,Google,Pixel 7,1,"Counterfeit
+Skimming ATM"
+1675,1107.21,Laptop,HP Pavilion,1,"CNP (Card Not Present)
+IP Asing "
+5379,2057.53,Apple,iPhone 14 Pro Max,1,"Fraud E-Commerce
+Ulasan Palsu"
+4523,2311.27,Laptop,MSI Stealth,0,Non-Fraud
+2115,4741.94,Xiaomi,Redmi 13C,0,Non-Fraud
+6108,1273.16,Oppo,Find X5 Pro,1,"Counterfeit
+Skimming ATM"
+4799,2486.24,Samsung,Galaxy Tab A8,1,"Counterfeit
+Skimming ATM"
+8799,2171.96,Xiaomi,Redmi Note 12,1,"Fraud Onboarding 
+Bot Registerasi"
+2470,3090.84,Huawei,MatePad Pro,0,Non-Fraud
+7857,2384.93,Huawei,P50 Pro,1,"Fraud E-Commerce
+Diskon Palsu"
+6596,3478.72,Infinix,Zero Ultra,0,Non-Fraud
+6271,4153.77,Apple,iPhone SE,0,Non-Fraud
+6372,4774.71,Apple,iPhone SE,1,"CNP (Card Not Present)
+IP Asing "
+3752,4680.42,Apple,MacBook Pro M3,1,"Fraud Onboarding 
+Data Duplikat"
+9620,3904.73,Laptop,MSI Stealth,0,Non-Fraud
+2788,2585.85,Laptop,Acer Aspire,0,Non-Fraud
+6634,430.7,Samsung,Galaxy S23,1,"Fraud E-Commerce
+Refund Fraud"
+4079,3310.72,Apple,iPhone 14 Pro Max,0,Non-Fraud
+7046,4063.84,Samsung,Galaxy Tab S9,0,Non-Fraud
+1083,115.55,Laptop,HP Pavilion,1,"Fraud E-Commerce
+Refund Fraud"
+4358,4267.04,Samsung,Galaxy Note 20,0,Non-Fraud
+5746,3035.48,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+6477,716.62,Infinix,Hot 30,0,Non-Fraud
+2622,462.03,Xiaomi,Redmi Note 12,1,"Counterfeit
+Cetak Kartu Palsu"
+2280,4697.03,Huawei,MatePad Pro,1,"CNP (Card Not Present)
+Fake Account"
+4660,4534.44,Samsung,Galaxy Tab S9,1,"CNP (Card Not Present)
+IP Asing "
+1690,4688.16,Infinix,Hot 30,0,Non-Fraud
+9896,993.52,Laptop,Acer Aspire,0,Non-Fraud
+6790,1592.74,Oppo,Find X5 Pro,0,Non-Fraud
+3532,2244.69,Apple,MacBook Pro M3,0,Non-Fraud
+6882,145.11,Infinix,Zero Ultra,1,"Counterfeit
+Cetak Kartu Palsu"
+6243,1003.12,Infinix,Zero Ultra,1,"Fraud Onboarding 
+Dokumen Curian"
+8418,3922.35,Huawei,P50 Pro,0,Non-Fraud
+2243,4840.17,Infinix,Zero Ultra,1,"Counterfeit
+Skimming ATM"
+9062,4650.62,Apple,iPhone 13 Pro,0,Non-Fraud
+4224,4653.66,Xiaomi,Redmi 13C,0,Non-Fraud
+1756,3257.2,Realme,C55,0,Non-Fraud
+2294,3186.71,Samsung,Galaxy Note 20,1,"CNP (Card Not Present)
+IP Asing "
+7124,4218.0,Samsung,Galaxy S23,0,Non-Fraud
+7975,2729.29,Laptop,Lenovo ThinkPad,0,Non-Fraud
+8816,3249.9,Infinix,Zero Ultra,1,"Fraud E-Commerce
+Diskon Palsu"
+2443,3620.33,Apple,iPhone 12,0,Non-Fraud
+8791,1463.37,Samsung,Galaxy Note 20,0,Non-Fraud
+4776,4317.66,Samsung,Galaxy S23,1,"CNP (Card Not Present)
+Phising Data"
+4791,4000.6,Apple,MacBook Pro M3,0,Non-Fraud
+9507,370.0,Xiaomi,Pad 6,1,"Counterfeit
+Cetak Kartu Palsu"
+6854,2487.36,Oppo,Find X5 Pro,1,"Counterfeit
+Skimming ATM"
+5469,3429.54,Apple,iPhone 12,0,Non-Fraud
+6471,953.12,Google,Pixel 7,0,Non-Fraud
+8184,4156.97,Laptop,Dell XPS,0,Non-Fraud
+4750,4007.68,Huawei,MatePad Pro,0,Non-Fraud
+5169,402.4,Custom PC,Windows 10 Office PC,0,Non-Fraud
+8429,2941.55,Samsung,Galaxy S23,0,Non-Fraud
+5894,2112.49,Laptop,Asus ROG,1,"Fraud E-Commerce
+Pesanan Palsu"
+3301,4450.05,Xiaomi,Mi 11 Ultra,1,"Fraud E-Commerce
+Refund Fraud"
+7525,4452.73,Google,Pixel 6a,1,"Counterfeit
+Penjualan Kartu Palsu"
+1468,520.58,Vivo,Y36,1,"Counterfeit
+Skimming ATM"
+1907,396.84,Apple,iPhone SE,1,"CNP (Card Not Present)
+Bot Transaksi"
+7212,4541.21,Oppo,Reno 8,1,"CNP (Card Not Present)
+Fake Account"
+8765,1229.28,Realme,GT Neo 5,0,Non-Fraud
+4567,3537.73,Xiaomi,Redmi Note 12,1,"CNP (Card Not Present)
+Transaksi Berulang"
+9988,2207.12,Samsung,Galaxy Tab S9,0,Non-Fraud
+4650,4970.43,Google,Pixel 6a,1,"Fraud Onboarding 
+Identitas Palsu"
+3032,4770.22,Laptop,Dell XPS,0,Non-Fraud
+3099,2502.01,Xiaomi,Redmi Note 12,1,"CNP (Card Not Present)
+Bot Transaksi"
+5802,3151.58,Realme,GT Neo 5,1,"Fraud Onboarding 
+Bot Registerasi"
+9087,3480.15,Samsung,Galaxy A54,0,Non-Fraud
+6040,4926.55,Apple,iPhone 13 Pro,1,"Fraud E-Commerce
+Pesanan Palsu"
+2471,1336.43,Vivo,Y36,0,Non-Fraud
+2311,2814.93,Apple,MacBook Pro M3,0,Non-Fraud
+1753,2395.62,Apple,MacBook Pro M3,0,Non-Fraud
+5722,3022.49,Oppo,A78,0,Non-Fraud
+1013,3884.97,Samsung,Galaxy A54,1,"Fraud E-Commerce
+Refund Fraud"
+5586,2961.66,Samsung,Galaxy Note 20,0,Non-Fraud
+3530,3393.4,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+9562,323.53,Vivo,V27 Pro,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+6666,4061.18,Samsung,Galaxy Tab A8,1,"Fraud E-Commerce
+Refund Fraud"
+4996,2289.53,Xiaomi,Poco X5,0,Non-Fraud
+4608,3200.95,Xiaomi,Redmi 13C,0,Non-Fraud
+6004,360.57,Google,Pixel 7,0,Non-Fraud
+4209,891.35,Apple,iPhone 12,0,Non-Fraud
+6721,3445.91,Laptop,Acer Aspire,0,Non-Fraud
+3016,3077.39,Samsung,Galaxy Note 20,1,"Fraud Onboarding 
+Alamat Palsu"
+4123,2786.69,Infinix,Zero Ultra,0,Non-Fraud
+1999,4717.23,Oppo,Find X5 Pro,1,"Counterfeit
+Skimming ATM"
+2957,4279.47,Huawei,Mate 40,1,"Counterfeit
+Penjualan Kartu Palsu"
+3281,4501.43,Custom PC,Windows 11 Gaming Rig,1,"Fraud Onboarding 
+Data Duplikat"
+2807,3531.41,Samsung,Galaxy S23,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+2595,4680.24,Samsung,Galaxy Tab A8,0,Non-Fraud
+7355,4638.01,Infinix,Zero Ultra,0,Non-Fraud
+7479,4991.34,Apple,MacBook Pro M3,0,Non-Fraud
+2270,2351.31,Vivo,X90,1,"Fraud Onboarding 
+Identitas Palsu"
+5239,1711.0,Samsung,Galaxy Tab A8,1,"Counterfeit
+Modifikasi Chip"
+2051,2449.34,Xiaomi,Redmi Note 12,0,Non-Fraud
+4142,695.37,Oppo,Find X5 Pro,1,"Fraud Onboarding 
+Data Duplikat"
+2188,329.44,Oppo,Reno 8,0,Non-Fraud
+4631,2496.07,Custom PC,Windows 10 Office PC,1,"CNP (Card Not Present)
+IP Asing "
+5990,4916.42,Custom PC,Windows 10 Office PC,1,"CNP (Card Not Present)
+Transaksi Berulang"
+6695,2444.36,Oppo,A78,1,"Counterfeit
+Kartu Kloning"
+4059,574.78,Samsung,Galaxy Tab A8,1,"Fraud E-Commerce
+Refund Fraud"
+1023,4653.96,Samsung,Galaxy Z Fold 5,1,"Fraud Onboarding 
+Bot Registerasi"
+1711,2167.4,Vivo,X90,1,"Counterfeit
+Modifikasi Chip"
+3667,4259.6,Apple,MacBook Pro M3,1,"CNP (Card Not Present)
+Phising Data"
+3687,2050.51,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+6356,32.68,Oppo,Find X5 Pro,0,Non-Fraud
+4079,2910.68,Xiaomi,Redmi 13C,0,Non-Fraud
+7339,1772.97,Infinix,Hot 30,0,Non-Fraud
+9933,2236.87,Laptop,Asus ROG,0,Non-Fraud
+7737,4760.14,Google,Pixel 7,0,Non-Fraud
+5827,3222.16,Laptop,MSI Stealth,1,"Counterfeit
+Kartu Kloning"
+1217,3586.42,Oppo,A78,0,Non-Fraud
+1898,4478.81,Oppo,Find X5 Pro,1,"Counterfeit
+Skimming ATM"
+8890,185.38,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+7935,4307.61,Vivo,X90,1,"CNP (Card Not Present)
+Bot Transaksi"
+4688,4120.0,Samsung,Galaxy Note 20,1,"Fraud Onboarding 
+Bot Registerasi"
+9030,2046.43,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+7760,811.82,Infinix,Zero Ultra,1,"Fraud E-Commerce
+Pesanan Palsu"
+2478,2985.5,Realme,GT Neo 5,1,"Fraud Onboarding 
+Bot Registerasi"
+2689,1062.88,Samsung,Galaxy Z Fold 5,1,"Fraud Onboarding 
+Bot Registerasi"
+1814,4731.45,Laptop,Acer Aspire,0,Non-Fraud
+2253,364.36,Samsung,Galaxy Tab A8,0,Non-Fraud
+4639,2367.91,Vivo,Y36,1,"Counterfeit
+Cetak Kartu Palsu"
+4119,1927.41,Apple,iPad Air,1,"Fraud Onboarding 
+Alamat Palsu"
+4171,71.67,Infinix,Hot 30,0,Non-Fraud
+9845,3366.63,Oppo,Find X5 Pro,1,"CNP (Card Not Present)
+Phising Data"
+7825,2342.45,Samsung,Galaxy Tab S9,0,Non-Fraud
+4326,4708.71,Xiaomi,Redmi Note 12,1,"Counterfeit
+Penjualan Kartu Palsu"
+7030,4709.77,Vivo,X90,0,Non-Fraud
+4440,516.24,Huawei,Mate 40,1,"CNP (Card Not Present)
+Bot Transaksi"
+7247,3752.3,Oppo,Find X5 Pro,1,"Fraud Onboarding 
+Dokumen Curian"
+8677,4786.62,Xiaomi,Redmi Note 12,1,"CNP (Card Not Present)
+Fake Account"
+6400,3715.32,Samsung,Galaxy Note 20,1,"CNP (Card Not Present)
+Phising Data"
+5673,3866.51,Samsung,Galaxy A54,1,"Fraud Onboarding 
+Alamat Palsu"
+6844,1634.49,Laptop,Asus ROG,1,"Counterfeit
+Modifikasi Chip"
+2328,1057.12,Laptop,Lenovo ThinkPad,1,"Fraud E-Commerce
+Pesanan Palsu"
+3501,3606.09,Samsung,Galaxy Note 20,0,Non-Fraud
+7111,616.0,Samsung,Galaxy Z Fold 5,1,"Counterfeit
+Kartu Kloning"
+9078,3822.04,Samsung,Galaxy Tab A8,1,"CNP (Card Not Present)
+Fake Account"
+9230,1084.88,Realme,GT Neo 5,1,"Counterfeit
+Penjualan Kartu Palsu"
+6330,758.94,Xiaomi,Poco X5,1,"CNP (Card Not Present)
+Phising Data"
+6025,4612.32,Google,Pixel 7,1,"CNP (Card Not Present)
+Transaksi Berulang"
+8286,2460.58,Apple,iPhone 13 Pro,0,Non-Fraud
+2836,1084.96,Google,Pixel 7,1,"Fraud E-Commerce
+Ulasan Palsu"
+8230,2881.78,Samsung,Galaxy Tab A8,1,"Counterfeit
+Modifikasi Chip"
+8670,4494.12,Vivo,X90,1,"CNP (Card Not Present)
+Bot Transaksi"
+3395,832.26,Xiaomi,Redmi Note 12,0,Non-Fraud
+3962,4815.51,Huawei,Mate 40,0,Non-Fraud
+8141,326.0,Google,Pixel 7,0,Non-Fraud
+9775,2120.14,Samsung,Galaxy S23,0,Non-Fraud
+6829,3685.91,Huawei,MatePad Pro,0,Non-Fraud
+6577,2382.81,Samsung,Galaxy Tab S9,0,Non-Fraud
+2924,1469.25,Vivo,V27 Pro,0,Non-Fraud
+1464,133.61,Vivo,V27 Pro,0,Non-Fraud
+7445,2829.28,Apple,MacBook Pro M3,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+7805,686.68,Oppo,Find X5 Pro,0,Non-Fraud
+6704,1406.95,Vivo,V27 Pro,0,Non-Fraud
+4144,4766.14,Laptop,HP Pavilion,1,"CNP (Card Not Present)
+Phising Data"
+3604,330.08,Samsung,Galaxy A54,1,"Counterfeit
+Penjualan Kartu Palsu"
+8999,3343.63,Vivo,Y36,1,"CNP (Card Not Present)
+IP Asing "
+3418,4915.44,Vivo,V27 Pro,0,Non-Fraud
+4256,4645.55,Apple,iPad Air,1,"Counterfeit
+Kartu Kloning"
+7378,495.01,Apple,iPad Pro 12.9,0,Non-Fraud
+8974,1237.05,Laptop,HP Pavilion,0,Non-Fraud
+1969,3404.34,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+8055,3593.1,Apple,iPad Air,1,"Fraud E-Commerce
+Diskon Palsu"
+8115,3687.59,Huawei,MatePad Pro,1,"Fraud Onboarding 
+Alamat Palsu"
+1199,259.94,Apple,iPad Air,1,"Counterfeit
+Penjualan Kartu Palsu"
+5349,1082.24,Xiaomi,Redmi Note 12,1,"Counterfeit
+Cetak Kartu Palsu"
+4800,4430.57,Vivo,X90,1,"CNP (Card Not Present)
+Bot Transaksi"
+2839,2993.2,Google,Pixel 7,0,Non-Fraud
+3183,637.15,Realme,C55,0,Non-Fraud
+4715,4640.26,Apple,MacBook Air M2,1,"Counterfeit
+Cetak Kartu Palsu"
+6432,2761.68,Oppo,A78,0,Non-Fraud
+8446,2913.95,Realme,GT Neo 5,1,"Counterfeit
+Cetak Kartu Palsu"
+5868,693.82,Oppo,Find X5 Pro,0,Non-Fraud
+7395,4213.75,Oppo,A78,1,"Fraud E-Commerce
+Refund Fraud"
+4868,1628.67,Vivo,Y36,1,"Fraud Onboarding 
+Data Duplikat"
+6328,3445.3,Laptop,HP Pavilion,1,"Counterfeit
+Cetak Kartu Palsu"
+6003,156.12,Xiaomi,Redmi Note 12,1,"Fraud Onboarding 
+Alamat Palsu"
+3995,1110.15,Xiaomi,Poco X5,0,Non-Fraud
+6153,748.38,Apple,MacBook Pro M3,0,Non-Fraud
+7183,621.27,Apple,iPhone 13 Pro,1,"Counterfeit
+Skimming ATM"
+8625,4354.32,Apple,iPhone 14 Pro Max,0,Non-Fraud
+3815,2353.71,Oppo,Reno 8,1,"Counterfeit
+Cetak Kartu Palsu"
+8172,4174.86,Huawei,MatePad Pro,1,"Fraud Onboarding 
+Bot Registerasi"
+4976,336.95,Infinix,Hot 30,1,"CNP (Card Not Present)
+Transaksi Berulang"
+7737,515.32,Realme,C55,1,"Fraud E-Commerce
+Diskon Palsu"
+5430,4330.72,Apple,iPad Pro 12.9,1,"Fraud Onboarding 
+Alamat Palsu"
+5864,4797.46,Infinix,Zero Ultra,0,Non-Fraud
+1114,2962.98,Apple,iPhone 14 Pro Max,1,"Fraud Onboarding 
+Identitas Palsu"
+4216,300.22,Infinix,Zero Ultra,1,"CNP (Card Not Present)
+Fake Account"
+3706,933.58,Huawei,Mate 40,0,Non-Fraud
+9454,1851.91,Huawei,MatePad Pro,1,"CNP (Card Not Present)
+Transaksi Berulang"
+2305,4086.5,Apple,MacBook Pro M3,0,Non-Fraud
+1690,4432.07,Oppo,Find X5 Pro,1,"Fraud Onboarding 
+Dokumen Curian"
+1632,3124.9,Google,Pixel 7,1,"CNP (Card Not Present)
+IP Asing "
+3287,1675.58,Laptop,Asus ROG,1,"Fraud E-Commerce
+Pesanan Palsu"
+6604,1253.3,Oppo,Find X5 Pro,1,"CNP (Card Not Present)
+IP Asing "
+4077,2023.89,Oppo,A78,1,"Counterfeit
+Modifikasi Chip"
+3324,4179.83,Apple,MacBook Pro M3,1,"Fraud E-Commerce
+Pesanan Palsu"
+5763,2990.26,Xiaomi,Poco X5,1,"CNP (Card Not Present)
+IP Asing "
+4595,3823.43,Realme,GT Neo 5,1,"CNP (Card Not Present)
+Fake Account"
+4974,3274.6,Samsung,Galaxy S23,0,Non-Fraud
+3835,2338.06,Xiaomi,Redmi Note 12,0,Non-Fraud
+5016,4827.82,Samsung,Galaxy S23,0,Non-Fraud
+7592,3761.68,Xiaomi,Poco X5,0,Non-Fraud
+9131,1255.15,Custom PC,Windows 10 Office PC,0,Non-Fraud
+5415,1690.73,Realme,C55,1,"Counterfeit
+Skimming ATM"
+6668,666.82,Vivo,V27 Pro,1,"CNP (Card Not Present)
+Fake Account"
+3479,2231.77,Realme,C55,1,"Counterfeit
+Penjualan Kartu Palsu"
+9339,857.48,Xiaomi,Redmi 13C,1,"Fraud E-Commerce
+Ulasan Palsu"
+8019,4040.98,Google,Pixel 6a,0,Non-Fraud
+4751,4059.48,Laptop,Dell XPS,0,Non-Fraud
+2169,110.87,Custom PC,Windows 10 Office PC,1,"Fraud E-Commerce
+Ulasan Palsu"
+3912,1263.79,Google,Pixel 7,0,Non-Fraud
+8099,3499.07,Google,Pixel 6a,1,"Fraud E-Commerce
+Pesanan Palsu"
+3554,1494.89,Huawei,Mate 40,1,"CNP (Card Not Present)
+Phising Data"
+7412,1715.58,Laptop,Acer Aspire,0,Non-Fraud
+1329,709.26,Realme,GT Neo 5,1,"Fraud Onboarding 
+Dokumen Curian"
+4971,3881.15,Apple,MacBook Air M2,0,Non-Fraud
+8359,3266.09,Custom PC,Windows 10 Office PC,0,Non-Fraud
+3469,2572.62,Realme,C55,1,"Fraud Onboarding 
+Alamat Palsu"
+6368,3077.07,Samsung,Galaxy Tab A8,0,Non-Fraud
+3560,4827.13,Apple,iPhone 12,0,Non-Fraud
+6821,4336.99,Apple,iPhone SE,1,"Fraud Onboarding 
+Bot Registerasi"
+8589,1144.07,Custom PC,Windows 10 Office PC,0,Non-Fraud
+2103,540.42,Xiaomi,Redmi 13C,1,"Fraud Onboarding 
+Data Duplikat"
+3954,4169.77,Apple,iPhone 13 Pro,0,Non-Fraud
+2112,3769.21,Huawei,MatePad Pro,0,Non-Fraud
+2085,463.76,Vivo,V27 Pro,1,"CNP (Card Not Present)
+Bot Transaksi"
+8479,645.25,Samsung,Galaxy A54,0,Non-Fraud
+8031,365.29,Samsung,Galaxy S23,1,"Counterfeit
+Modifikasi Chip"
+7604,2738.72,Custom PC,Windows 10 Office PC,0,Non-Fraud
+9483,1316.27,Vivo,X90,0,Non-Fraud
+5753,264.14,Samsung,Galaxy A54,0,Non-Fraud
+4349,4334.66,Apple,MacBook Air M2,1,"Fraud Onboarding 
+Dokumen Curian"
+5911,4685.57,Oppo,Find X5 Pro,1,"Fraud Onboarding 
+Identitas Palsu"
+4628,527.5,Oppo,A78,1,"Fraud E-Commerce
+Ulasan Palsu"
+7092,1165.81,Custom PC,Windows 10 Office PC,0,Non-Fraud
+4245,3750.06,Samsung,Galaxy Note 20,1,"Fraud E-Commerce
+Diskon Palsu"
+9782,1475.36,Apple,MacBook Pro M3,0,Non-Fraud
+9013,323.46,Samsung,Galaxy Tab S9,1,"Counterfeit
+Modifikasi Chip"
+6544,2007.67,Realme,GT Neo 5,1,"Fraud Onboarding 
+Bot Registerasi"
+3459,2787.75,Laptop,Asus ROG,1,"Counterfeit
+Modifikasi Chip"
+9762,514.71,Infinix,Hot 30,0,Non-Fraud
+5286,968.65,Vivo,Y36,0,Non-Fraud
+7182,2807.6,Oppo,A78,0,Non-Fraud
+7084,3883.87,Infinix,Zero Ultra,0,Non-Fraud
+9421,1686.18,Huawei,MatePad Pro,1,"CNP (Card Not Present)
+Transaksi Berulang"
+2179,1497.43,Huawei,Mate 40,1,"CNP (Card Not Present)
+Bot Transaksi"
+8759,3014.84,Laptop,Acer Aspire,0,Non-Fraud
+2165,4906.09,Oppo,Reno 8,1,"CNP (Card Not Present)
+Phising Data"
+8077,894.69,Infinix,Hot 30,0,Non-Fraud
+8123,1401.48,Laptop,Lenovo ThinkPad,0,Non-Fraud
+8666,4193.73,Google,Pixel 7,1,"Counterfeit
+Cetak Kartu Palsu"
+6618,2646.62,Vivo,V27 Pro,0,Non-Fraud
+3878,3531.39,Huawei,MatePad Pro,0,Non-Fraud
+3157,2483.41,Samsung,Galaxy Z Fold 5,1,"Fraud Onboarding 
+Bot Registerasi"
+7942,4756.76,Laptop,Acer Aspire,0,Non-Fraud
+1459,4977.67,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+1372,3646.21,Samsung,Galaxy A54,0,Non-Fraud
+8095,2373.35,Xiaomi,Mi 11 Ultra,1,"Counterfeit
+Kartu Kloning"
+6078,1506.82,Samsung,Galaxy S23,0,Non-Fraud
+5021,4149.98,Laptop,Dell XPS,1,"Counterfeit
+Cetak Kartu Palsu"
+9135,488.75,Samsung,Galaxy Tab S9,0,Non-Fraud
+5883,217.37,Laptop,HP Pavilion,0,Non-Fraud
+9864,1953.71,Infinix,Zero Ultra,0,Non-Fraud
+6860,2887.81,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+4021,2414.03,Custom PC,Windows 10 Office PC,0,Non-Fraud
+7720,630.69,Oppo,Reno 8,1,"Fraud Onboarding 
+Alamat Palsu"
+6482,3233.43,Laptop,Asus ROG,0,Non-Fraud
+8122,3777.39,Samsung,Galaxy Tab A8,0,Non-Fraud
+4360,2627.18,Apple,MacBook Pro M3,0,Non-Fraud
+2929,2968.44,Apple,iPhone 14 Pro Max,0,Non-Fraud
+7757,1518.17,Laptop,Dell XPS,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+6088,1933.13,Xiaomi,Pad 6,0,Non-Fraud
+8045,881.62,Xiaomi,Redmi Note 12,0,Non-Fraud
+7450,3022.38,Xiaomi,Poco X5,0,Non-Fraud
+8844,4354.91,Realme,C55,0,Non-Fraud
+5502,3211.6,Realme,GT Neo 5,1,"Counterfeit
+Modifikasi Chip"
+9519,21.94,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+9988,484.61,Huawei,Mate 40,1,"CNP (Card Not Present)
+Phising Data"
+7784,1799.34,Realme,GT Neo 5,0,Non-Fraud
+4776,4720.58,Laptop,HP Pavilion,1,"CNP (Card Not Present)
+Transaksi Berulang"
+2441,3303.5,Huawei,P50 Pro,0,Non-Fraud
+8433,3861.72,Infinix,Zero Ultra,1,"Fraud E-Commerce
+Refund Fraud"
+6631,1391.78,Samsung,Galaxy Tab A8,1,"Fraud Onboarding 
+Identitas Palsu"
+8317,1478.97,Custom PC,Windows 10 Office PC,0,Non-Fraud
+2554,3187.11,Laptop,Dell XPS,1,"Fraud E-Commerce
+Diskon Palsu"
+8146,4322.12,Infinix,Zero Ultra,0,Non-Fraud
+5128,3519.2,Samsung,Galaxy A54,0,Non-Fraud
+3212,3763.53,Samsung,Galaxy S23,1,"Fraud Onboarding 
+Dokumen Curian"
+5497,1473.19,Infinix,Zero Ultra,1,"CNP (Card Not Present)
+Bot Transaksi"
+9838,3838.76,Apple,iPad Pro 12.9,0,Non-Fraud
+1307,4843.92,Laptop,HP Pavilion,0,Non-Fraud
+1309,152.44,Laptop,Lenovo ThinkPad,0,Non-Fraud
+1684,1299.77,Google,Pixel 7,1,"Counterfeit
+Kartu Kloning"
+1674,2414.71,Huawei,Mate 40,0,Non-Fraud
+6465,4597.66,Apple,iPad Air,1,"Counterfeit
+Kartu Kloning"
+9392,3171.66,Custom PC,Windows 10 Office PC,1,"Fraud Onboarding 
+Dokumen Curian"
+4960,2334.18,Custom PC,Windows 11 Gaming Rig,1,"CNP (Card Not Present)
+Phising Data"
+9185,110.7,Vivo,V27 Pro,0,Non-Fraud
+4439,4978.63,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+9894,634.69,Xiaomi,Redmi 13C,1,"Fraud Onboarding 
+Data Duplikat"
+2580,2518.99,Laptop,Dell XPS,1,"CNP (Card Not Present)
+Bot Transaksi"
+2332,2447.98,Huawei,Mate 40,1,"Fraud Onboarding 
+Identitas Palsu"
+8551,581.99,Vivo,X90,1,"Fraud Onboarding 
+Identitas Palsu"
+8978,686.93,Apple,iPhone 14 Pro Max,1,"CNP (Card Not Present)
+IP Asing "
+4791,3848.69,Laptop,HP Pavilion,0,Non-Fraud
+6834,557.11,Laptop,Acer Aspire,1,"Fraud E-Commerce
+Refund Fraud"
+2201,807.56,Xiaomi,Redmi Note 12,1,"CNP (Card Not Present)
+Bot Transaksi"
+9772,4522.68,Apple,iPad Pro 12.9,0,Non-Fraud
+2389,3807.91,Samsung,Galaxy Z Fold 5,1,"CNP (Card Not Present)
+IP Asing "
+5300,721.0,Samsung,Galaxy Tab A8,0,Non-Fraud
+7847,775.64,Oppo,Reno 8,1,"Fraud Onboarding 
+Data Duplikat"
+3050,2816.68,Vivo,Y36,0,Non-Fraud
+6703,3849.69,Apple,iPhone 12,0,Non-Fraud
+2396,2669.57,Laptop,Asus ROG,1,"CNP (Card Not Present)
+Phising Data"
+3964,437.55,Laptop,MSI Stealth,1,"Counterfeit
+Penjualan Kartu Palsu"
+4971,3274.12,Vivo,Y36,1,"Counterfeit
+Skimming ATM"
+6533,3440.55,Apple,iPad Pro 12.9,0,Non-Fraud
+7150,4431.77,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+1196,522.2,Laptop,MSI Stealth,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+7756,4389.57,Samsung,Galaxy S23,1,"Fraud Onboarding 
+Dokumen Curian"
+2406,4338.56,Laptop,Asus ROG,0,Non-Fraud
+2114,1094.67,Vivo,Y36,1,"Counterfeit
+Skimming ATM"
+3617,1324.53,Oppo,Find X5 Pro,1,"Fraud Onboarding 
+Alamat Palsu"
+9394,1708.9,Laptop,HP Pavilion,0,Non-Fraud
+8363,2085.82,Samsung,Galaxy Z Fold 5,1,"CNP (Card Not Present)
+Transaksi Berulang"
+6353,1302.3,Infinix,Hot 30,1,"Fraud Onboarding 
+Data Duplikat"
+7226,840.3,Apple,MacBook Air M2,0,Non-Fraud
+5234,2410.08,Realme,C55,1,"Fraud E-Commerce
+Ulasan Palsu"
+9998,1827.95,Apple,MacBook Pro M3,0,Non-Fraud
+1141,1144.4,Apple,MacBook Air M2,0,Non-Fraud
+5764,2671.71,Google,Pixel 6a,0,Non-Fraud
+6424,3892.54,Xiaomi,Poco X5,0,Non-Fraud
+1636,3180.88,Realme,GT Neo 5,0,Non-Fraud
+5241,2459.9,Samsung,Galaxy A54,0,Non-Fraud
+9693,3231.55,Xiaomi,Redmi 13C,0,Non-Fraud
+6229,3736.43,Xiaomi,Poco X5,0,Non-Fraud
+1385,2197.74,Apple,iPhone SE,1,"Fraud Onboarding 
+Alamat Palsu"
+4486,679.28,Samsung,Galaxy S23,1,"Fraud Onboarding 
+Data Duplikat"
+7837,139.68,Vivo,X90,1,"Fraud E-Commerce
+Ulasan Palsu"
+1326,2981.7,Infinix,Zero Ultra,1,"CNP (Card Not Present)
+Phising Data"
+6439,283.63,Oppo,Reno 8,1,"Fraud Onboarding 
+Identitas Palsu"
+5108,3932.28,Realme,GT Neo 5,0,Non-Fraud
+1700,1591.69,Laptop,Asus ROG,1,"CNP (Card Not Present)
+Bot Transaksi"
+5767,1593.14,Laptop,Acer Aspire,0,Non-Fraud
+1547,1202.87,Vivo,Y36,0,Non-Fraud
+1981,3157.14,Samsung,Galaxy A54,1,"CNP (Card Not Present)
+Transaksi Berulang"
+2738,2587.66,Samsung,Galaxy Tab A8,1,"Fraud E-Commerce
+Ulasan Palsu"
+6279,4480.79,Laptop,MSI Stealth,1,"Fraud Onboarding 
+Data Duplikat"
+9503,3191.27,Apple,iPad Pro 12.9,1,"CNP (Card Not Present)
+Phising Data"
+7305,1610.38,Huawei,P50 Pro,1,"Counterfeit
+Skimming ATM"
+3218,1012.37,Apple,iPhone 13 Pro,1,"Fraud Onboarding 
+Alamat Palsu"
+5430,3001.29,Apple,iPad Air,1,"CNP (Card Not Present)
+Fake Account"
+1773,2644.87,Apple,iPhone 12,1,"Fraud E-Commerce
+Ulasan Palsu"
+4518,2746.58,Apple,iPad Pro 12.9,0,Non-Fraud
+9715,4568.57,Samsung,Galaxy Note 20,1,"Counterfeit
+Kartu Kloning"
+7974,1966.96,Apple,iPhone SE,1,"CNP (Card Not Present)
+Fake Account"
+2397,3508.92,Laptop,MSI Stealth,1,"Fraud E-Commerce
+Ulasan Palsu"
+2505,223.71,Vivo,V27 Pro,0,Non-Fraud
+9831,2320.4,Infinix,Zero Ultra,0,Non-Fraud
+2840,236.17,Laptop,Lenovo ThinkPad,1,"Counterfeit
+Kartu Kloning"
+9378,4205.33,Xiaomi,Redmi Note 12,1,"CNP (Card Not Present)
+Bot Transaksi"
+1354,333.93,Huawei,MatePad Pro,1,"Fraud E-Commerce
+Pesanan Palsu"
+1008,3602.35,Apple,iPad Air,1,"Fraud Onboarding 
+Identitas Palsu"
+7742,2243.1,Huawei,MatePad Pro,1,"Fraud Onboarding 
+Identitas Palsu"
+7708,2006.68,Oppo,A78,0,Non-Fraud
+9218,2119.21,Xiaomi,Poco X5,0,Non-Fraud
+8216,3108.41,Apple,MacBook Air M2,1,"Fraud Onboarding 
+Bot Registerasi"
+9298,4165.15,Oppo,A78,1,"Counterfeit
+Cetak Kartu Palsu"
+9396,3176.16,Samsung,Galaxy Note 20,0,Non-Fraud
+6382,3523.96,Laptop,HP Pavilion,0,Non-Fraud
+8681,3430.2,Samsung,Galaxy Z Fold 5,1,"Fraud E-Commerce
+Refund Fraud"
+5832,1315.81,Vivo,V27 Pro,0,Non-Fraud
+6150,2351.03,Laptop,HP Pavilion,0,Non-Fraud
+7696,3556.18,Samsung,Galaxy Tab S9,1,"CNP (Card Not Present)
+Fake Account"
+1622,1522.07,Infinix,Hot 30,1,"Fraud Onboarding 
+Data Duplikat"
+5599,866.44,Laptop,HP Pavilion,1,"Counterfeit
+Penjualan Kartu Palsu"
+1195,3530.6,Oppo,A78,0,Non-Fraud
+8673,3796.4,Xiaomi,Poco X5,0,Non-Fraud
+1062,2542.01,Xiaomi,Redmi 13C,0,Non-Fraud
+2003,1722.18,Huawei,Mate 40,0,Non-Fraud
+8858,634.28,Google,Pixel 6a,1,"Fraud Onboarding 
+Dokumen Curian"
+6875,1445.97,Laptop,Acer Aspire,0,Non-Fraud
+8610,2019.67,Xiaomi,Poco X5,1,"Counterfeit
+Skimming ATM"
+3573,3688.49,Realme,C55,1,"Counterfeit
+Skimming ATM"
+1546,4208.01,Xiaomi,Poco X5,0,Non-Fraud
+4644,4607.37,Xiaomi,Poco X5,0,Non-Fraud
+5618,4756.98,Xiaomi,Pad 6,0,Non-Fraud
+3637,4933.99,Vivo,V27 Pro,1,"Fraud E-Commerce
+Ulasan Palsu"
+1587,4174.1,Samsung,Galaxy Tab A8,1,"CNP (Card Not Present)
+Phising Data"
+4265,1730.01,Laptop,Asus ROG,0,Non-Fraud
+2584,332.55,Oppo,A78,0,Non-Fraud
+3128,691.53,Apple,MacBook Pro M3,0,Non-Fraud
+4099,2172.72,Realme,GT Neo 5,1,"CNP (Card Not Present)
+Bot Transaksi"
+3899,3205.04,Samsung,Galaxy S23,1,"Fraud Onboarding 
+Data Duplikat"
+1571,556.07,Xiaomi,Redmi 13C,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+9590,4642.11,Apple,MacBook Air M2,1,"Fraud Onboarding 
+Data Duplikat"
+6812,1203.08,Huawei,MatePad Pro,1,"CNP (Card Not Present)
+Phising Data"
+4083,2616.31,Apple,iPhone SE,0,Non-Fraud
+7258,2894.95,Laptop,HP Pavilion,0,Non-Fraud
+2822,2882.02,Vivo,Y36,1,"Fraud E-Commerce
+Ulasan Palsu"
+1651,869.61,Huawei,Mate 40,1,"CNP (Card Not Present)
+Bot Transaksi"
+1819,1815.51,Huawei,MatePad Pro,0,Non-Fraud
+9481,2957.7,Xiaomi,Redmi 13C,1,"Counterfeit
+Skimming ATM"
+7734,1661.48,Apple,iPhone 12,1,"CNP (Card Not Present)
+Bot Transaksi"
+5671,3250.22,Laptop,HP Pavilion,0,Non-Fraud
+6006,3878.66,Samsung,Galaxy Tab S9,1,"CNP (Card Not Present)
+Fake Account"
+5556,1095.77,Vivo,Y36,0,Non-Fraud
+2096,4685.73,Google,Pixel 7,0,Non-Fraud
+3648,3298.72,Huawei,P50 Pro,1,"Fraud Onboarding 
+Bot Registerasi"
+2177,4444.13,Xiaomi,Redmi 13C,1,"Fraud E-Commerce
+Diskon Palsu"
+1101,2008.6,Xiaomi,Poco X5,0,Non-Fraud
+9391,365.27,Samsung,Galaxy Z Fold 5,1,"CNP (Card Not Present)
+IP Asing "
+3374,3903.28,Laptop,Dell XPS,1,"Fraud E-Commerce
+Ulasan Palsu"
+1084,1565.27,Laptop,MSI Stealth,0,Non-Fraud
+4488,2166.53,Huawei,P50 Pro,0,Non-Fraud
+3028,3984.24,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+3348,2173.71,Oppo,A78,1,"Fraud Onboarding 
+Data Duplikat"
+8665,98.92,Infinix,Hot 30,0,Non-Fraud
+2410,4276.94,Apple,MacBook Air M2,0,Non-Fraud
+9624,1407.17,Infinix,Hot 30,1,"Fraud Onboarding 
+Alamat Palsu"
+5812,2663.92,Apple,iPhone SE,0,Non-Fraud
+4570,4784.77,Samsung,Galaxy S23,1,"CNP (Card Not Present)
+IP Asing "
+6286,1442.54,Vivo,V27 Pro,0,Non-Fraud
+9451,4887.36,Custom PC,Windows 10 Office PC,0,Non-Fraud
+9287,934.39,Samsung,Galaxy Note 20,1,"Fraud E-Commerce
+Diskon Palsu"
+7447,3232.72,Samsung,Galaxy Tab S9,0,Non-Fraud
+2917,3395.57,Apple,iPhone 13 Pro,1,"Fraud Onboarding 
+Alamat Palsu"
+7571,3304.97,Xiaomi,Pad 6,0,Non-Fraud
+4701,3501.92,Apple,iPhone 12,1,"Fraud Onboarding 
+Dokumen Curian"
+5944,1227.31,Vivo,V27 Pro,1,"Fraud E-Commerce
+Ulasan Palsu"
+8405,2645.18,Apple,MacBook Air M2,1,"CNP (Card Not Present)
+IP Asing "
+8378,2774.07,Laptop,MSI Stealth,0,Non-Fraud
+7248,974.88,Vivo,Y36,0,Non-Fraud
+5128,2068.27,Xiaomi,Redmi Note 12,1,"Fraud Onboarding 
+Dokumen Curian"
+7531,3182.29,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+4583,3115.38,Xiaomi,Poco X5,0,Non-Fraud
+3157,1378.03,Apple,iPhone 13 Pro,1,"Counterfeit
+Kartu Kloning"
+9206,2035.6,Laptop,MSI Stealth,0,Non-Fraud
+3440,4363.07,Apple,iPhone 13 Pro,0,Non-Fraud
+1886,4256.27,Infinix,Zero Ultra,1,"Fraud Onboarding 
+Bot Registerasi"
+2948,200.02,Laptop,Dell XPS,0,Non-Fraud
+8586,805.42,Huawei,Mate 40,1,"CNP (Card Not Present)
+Fake Account"
+8621,13.1,Vivo,V27 Pro,0,Non-Fraud
+9775,3880.05,Samsung,Galaxy A54,0,Non-Fraud
+3522,4138.53,Vivo,V27 Pro,0,Non-Fraud
+7835,3059.95,Samsung,Galaxy Tab A8,0,Non-Fraud
+4863,2388.61,Apple,iPhone SE,1,"Counterfeit
+Cetak Kartu Palsu"
+1114,2660.37,Samsung,Galaxy S23,0,Non-Fraud
+8858,4100.87,Realme,GT Neo 5,0,Non-Fraud
+5403,1808.34,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+9276,2840.39,Apple,iPhone 13 Pro,0,Non-Fraud
+7592,4577.57,Laptop,Acer Aspire,0,Non-Fraud
+5825,157.74,Apple,iPhone 14 Pro Max,1,"CNP (Card Not Present)
+Bot Transaksi"
+6886,2854.08,Huawei,MatePad Pro,1,"Fraud Onboarding 
+Dokumen Curian"
+4003,3660.86,Apple,MacBook Pro M3,0,Non-Fraud
+5991,647.66,Laptop,Lenovo ThinkPad,1,"Counterfeit
+Penjualan Kartu Palsu"
+3816,3502.24,Huawei,MatePad Pro,1,"Fraud E-Commerce
+Refund Fraud"
+4519,1317.23,Oppo,Reno 8,0,Non-Fraud
+4365,4800.89,Laptop,Acer Aspire,0,Non-Fraud
+4290,3659.21,Apple,iPhone 13 Pro,1,"CNP (Card Not Present)
+Phising Data"
+7474,2530.05,Laptop,Lenovo ThinkPad,0,Non-Fraud
+4565,3210.81,Apple,iPhone 14 Pro Max,1,"Counterfeit
+Cetak Kartu Palsu"
+4889,2892.2,Oppo,Reno 8,0,Non-Fraud
+4828,1781.28,Huawei,Mate 40,1,"Counterfeit
+Skimming ATM"
+4325,4018.45,Samsung,Galaxy Tab S9,1,"Fraud Onboarding 
+Identitas Palsu"
+3872,4537.23,Samsung,Galaxy A54,1,"Fraud E-Commerce
+Refund Fraud"
+5862,2456.66,Huawei,Mate 40,1,"Counterfeit
+Modifikasi Chip"
+5769,2441.68,Vivo,V27 Pro,0,Non-Fraud
+4801,3849.22,Oppo,Reno 8,1,"Fraud Onboarding 
+Data Duplikat"
+3452,811.94,Apple,iPhone SE,0,Non-Fraud
+8501,4767.39,Laptop,Asus ROG,0,Non-Fraud
+3216,2779.94,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+3236,2458.33,Apple,iPhone 14 Pro Max,0,Non-Fraud
+6335,614.86,Apple,iPhone 13 Pro,1,"Counterfeit
+Skimming ATM"
+1345,163.34,Apple,MacBook Air M2,1,"Fraud Onboarding 
+Dokumen Curian"
+2179,1637.05,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+6744,2359.5,Laptop,MSI Stealth,1,"CNP (Card Not Present)
+Bot Transaksi"
+1261,1294.6,Laptop,MSI Stealth,0,Non-Fraud
+3324,2319.97,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+2491,891.22,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+3172,4174.58,Samsung,Galaxy Tab S9,0,Non-Fraud
+4939,2420.9,Apple,MacBook Pro M3,0,Non-Fraud
+8071,3241.16,Xiaomi,Redmi Note 12,0,Non-Fraud
+9708,2740.11,Xiaomi,Poco X5,1,"Counterfeit
+Modifikasi Chip"
+4298,2009.24,Apple,iPhone 14 Pro Max,0,Non-Fraud
+3310,1777.84,Infinix,Zero Ultra,0,Non-Fraud
+7171,2221.83,Infinix,Hot 30,1,"Fraud E-Commerce
+Pesanan Palsu"
+1716,4443.07,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+8499,3253.33,Samsung,Galaxy A54,0,Non-Fraud
+4623,272.28,Vivo,X90,0,Non-Fraud
+4578,2602.63,Laptop,Asus ROG,1,"Fraud Onboarding 
+Alamat Palsu"
+3257,1995.98,Samsung,Galaxy Tab A8,1,"CNP (Card Not Present)
+Phising Data"
+2060,748.3,Laptop,MSI Stealth,1,"Fraud E-Commerce
+Pesanan Palsu"
+8182,1354.23,Custom PC,Windows 11 Gaming Rig,1,"Fraud E-Commerce
+Pesanan Palsu"
+1988,4792.86,Vivo,Y36,1,"Fraud Onboarding 
+Dokumen Curian"
+1526,4085.19,Laptop,Acer Aspire,0,Non-Fraud
+3607,4427.72,Apple,iPad Air,1,"Counterfeit
+Cetak Kartu Palsu"
+2665,4984.4,Samsung,Galaxy S23,0,Non-Fraud
+7991,913.75,Xiaomi,Pad 6,1,"Fraud E-Commerce
+Ulasan Palsu"
+1715,816.5,Vivo,V27 Pro,1,"Fraud E-Commerce
+Refund Fraud"
+9460,562.06,Apple,MacBook Pro M3,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+9419,2890.18,Infinix,Hot 30,1,"Counterfeit
+Cetak Kartu Palsu"
+4285,2238.36,Samsung,Galaxy Tab S9,0,Non-Fraud
+1591,475.46,Huawei,Mate 40,1,"Fraud E-Commerce
+Ulasan Palsu"
+8847,2244.02,Apple,iPad Pro 12.9,1,"Counterfeit
+Kartu Kloning"
+3661,601.64,Oppo,A78,1,"CNP (Card Not Present)
+Phising Data"
+4368,2888.32,Huawei,MatePad Pro,0,Non-Fraud
+1874,4599.18,Huawei,Mate 40,0,Non-Fraud
+4559,1749.44,Infinix,Hot 30,1,"Fraud E-Commerce
+Ulasan Palsu"
+6578,720.07,Google,Pixel 6a,0,Non-Fraud
+9296,3485.28,Realme,GT Neo 5,0,Non-Fraud
+9086,1021.77,Vivo,Y36,1,"CNP (Card Not Present)
+Bot Transaksi"
+7542,251.46,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+8524,840.64,Vivo,V27 Pro,0,Non-Fraud
+6510,776.07,Oppo,A78,0,Non-Fraud
+5445,2959.23,Vivo,V27 Pro,1,"Fraud E-Commerce
+Ulasan Palsu"
+8825,1984.32,Custom PC,Windows 10 Office PC,0,Non-Fraud
+2436,1182.61,Custom PC,Windows 10 Office PC,0,Non-Fraud
+6141,3614.63,Oppo,Reno 8,1,"CNP (Card Not Present)
+IP Asing "
+3892,4194.5,Xiaomi,Mi 11 Ultra,1,"CNP (Card Not Present)
+Phising Data"
+3159,2510.83,Xiaomi,Redmi Note 12,1,"Fraud E-Commerce
+Pesanan Palsu"
+8307,2197.6,Oppo,Find X5 Pro,1,"Counterfeit
+Kartu Kloning"
+4251,3503.21,Oppo,A78,1,"Counterfeit
+Kartu Kloning"
+8927,4212.9,Apple,MacBook Pro M3,1,"Counterfeit
+Cetak Kartu Palsu"
+9665,2502.25,Apple,MacBook Air M2,1,"Fraud E-Commerce
+Refund Fraud"
+4577,901.01,Xiaomi,Mi 11 Ultra,1,"Counterfeit
+Skimming ATM"
+8011,3756.55,Laptop,Acer Aspire,1,"CNP (Card Not Present)
+Transaksi Berulang"
+9317,2059.92,Vivo,Y36,0,Non-Fraud
+2073,3780.51,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+2095,2833.07,Apple,iPhone 13 Pro,0,Non-Fraud
+2314,4910.76,Oppo,A78,1,"Fraud Onboarding 
+Bot Registerasi"
+9118,4693.94,Apple,iPhone 12,0,Non-Fraud
+9980,3454.61,Apple,MacBook Air M2,0,Non-Fraud
+9257,2040.72,Apple,MacBook Pro M3,1,"Fraud E-Commerce
+Ulasan Palsu"
+1002,1282.76,Apple,iPhone 14 Pro Max,0,Non-Fraud
+6472,2840.75,Vivo,V27 Pro,0,Non-Fraud
+8427,4701.96,Xiaomi,Poco X5,1,"CNP (Card Not Present)
+Fake Account"
+6211,2161.65,Laptop,HP Pavilion,1,"CNP (Card Not Present)
+Fake Account"
+9794,2077.24,Xiaomi,Mi 11 Ultra,1,"Fraud Onboarding 
+Data Duplikat"
+9943,889.06,Apple,iPad Pro 12.9,0,Non-Fraud
+9564,4359.37,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+7032,645.4,Xiaomi,Redmi 13C,0,Non-Fraud
+9956,2083.87,Huawei,MatePad Pro,1,"Counterfeit
+Kartu Kloning"
+7404,533.23,Vivo,X90,1,"Counterfeit
+Skimming ATM"
+9948,462.29,Laptop,MSI Stealth,1,"Counterfeit
+Cetak Kartu Palsu"
+6682,1458.28,Huawei,P50 Pro,0,Non-Fraud
+5983,2216.54,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+4148,2045.15,Apple,iPhone SE,1,"Counterfeit
+Modifikasi Chip"
+8853,761.46,Xiaomi,Redmi Note 12,1,"Counterfeit
+Penjualan Kartu Palsu"
+3728,2904.04,Apple,iPhone 13 Pro,0,Non-Fraud
+5648,2466.47,Laptop,Acer Aspire,1,"Fraud E-Commerce
+Diskon Palsu"
+4715,1548.2,Laptop,Lenovo ThinkPad,1,"CNP (Card Not Present)
+Phising Data"
+6586,2123.56,Xiaomi,Poco X5,0,Non-Fraud
+6268,4742.23,Realme,GT Neo 5,1,"Fraud E-Commerce
+Pesanan Palsu"
+2358,4445.36,Vivo,V27 Pro,1,"Fraud E-Commerce
+Refund Fraud"
+5174,4669.06,Apple,iPad Air,1,"Fraud Onboarding 
+Identitas Palsu"
+6685,2054.75,Xiaomi,Redmi 13C,0,Non-Fraud
+3701,2856.65,Samsung,Galaxy Tab A8,1,"Fraud E-Commerce
+Refund Fraud"
+9248,2634.48,Samsung,Galaxy S23,1,"CNP (Card Not Present)
+Phising Data"
+5915,1915.49,Laptop,Asus ROG,1,"Fraud Onboarding 
+Data Duplikat"
+4806,4804.69,Google,Pixel 6a,1,"CNP (Card Not Present)
+Transaksi Berulang"
+9634,3906.13,Custom PC,Windows 10 Office PC,1,"CNP (Card Not Present)
+IP Asing "
+3641,2013.13,Custom PC,Windows 10 Office PC,1,"Fraud E-Commerce
+Diskon Palsu"
+8240,1914.41,Apple,MacBook Air M2,1,"CNP (Card Not Present)
+Bot Transaksi"
+1593,4709.23,Apple,iPhone 12,0,Non-Fraud
+7862,1680.23,Custom PC,Windows 10 Office PC,1,"Fraud E-Commerce
+Refund Fraud"
+3835,4688.09,Custom PC,Windows 10 Office PC,1,"Fraud Onboarding 
+Alamat Palsu"
+3099,2978.48,Samsung,Galaxy Note 20,1,"Counterfeit
+Skimming ATM"
+1415,1754.28,Apple,iPhone SE,1,"Counterfeit
+Skimming ATM"
+2556,4869.76,Vivo,V27 Pro,1,"Fraud Onboarding 
+Identitas Palsu"
+9126,3432.85,Laptop,MSI Stealth,1,"Fraud E-Commerce
+Diskon Palsu"
+9268,258.21,Realme,C55,1,"Counterfeit
+Penjualan Kartu Palsu"
+2107,1897.03,Vivo,Y36,1,"Fraud E-Commerce
+Diskon Palsu"
+9905,1920.74,Laptop,Acer Aspire,0,Non-Fraud
+7700,496.17,Apple,iPad Pro 12.9,0,Non-Fraud
+3362,1297.98,Realme,C55,0,Non-Fraud
+7066,1438.13,Laptop,Asus ROG,1,"Fraud E-Commerce
+Ulasan Palsu"
+7571,2086.63,Vivo,Y36,1,"Fraud Onboarding 
+Identitas Palsu"
+4174,2964.17,Xiaomi,Poco X5,1,"CNP (Card Not Present)
+Bot Transaksi"
+1060,3536.29,Apple,iPhone 12,0,Non-Fraud
+3574,4571.97,Apple,iPad Pro 12.9,1,"Fraud Onboarding 
+Bot Registerasi"
+2254,1647.61,Laptop,Asus ROG,0,Non-Fraud
+8280,3769.92,Huawei,P50 Pro,1,"Fraud Onboarding 
+Bot Registerasi"
+2143,260.59,Oppo,A78,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+6047,1977.47,Xiaomi,Pad 6,1,"Counterfeit
+Skimming ATM"
+1996,3487.54,Xiaomi,Pad 6,1,"CNP (Card Not Present)
+Phising Data"
+4929,2024.19,Custom PC,Windows 10 Office PC,0,Non-Fraud
+6558,2296.78,Oppo,A78,0,Non-Fraud
+2832,2828.56,Samsung,Galaxy Tab S9,1,"Fraud E-Commerce
+Diskon Palsu"
+7440,668.4,Apple,iPad Air,0,Non-Fraud
+1221,4066.86,Laptop,Lenovo ThinkPad,1,"CNP (Card Not Present)
+IP Asing "
+7409,1768.18,Huawei,MatePad Pro,1,"CNP (Card Not Present)
+Phising Data"
+5291,1346.7,Laptop,Acer Aspire,1,"Counterfeit
+Modifikasi Chip"
+4517,4440.19,Huawei,Mate 40,0,Non-Fraud
+4211,4174.8,Huawei,Mate 40,1,"Counterfeit
+Cetak Kartu Palsu"
+5046,2883.96,Samsung,Galaxy A54,0,Non-Fraud
+6246,1314.73,Custom PC,Windows 11 Gaming Rig,1,"Fraud Onboarding 
+Bot Registerasi"
+6104,380.98,Google,Pixel 6a,1,"CNP (Card Not Present)
+Bot Transaksi"
+4488,2553.01,Google,Pixel 7,0,Non-Fraud
+1021,2630.98,Laptop,Asus ROG,1,"Fraud Onboarding 
+Dokumen Curian"
+4519,3929.33,Google,Pixel 6a,0,Non-Fraud
+3384,4862.21,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+1619,1679.3,Apple,MacBook Air M2,1,"CNP (Card Not Present)
+Bot Transaksi"
+8914,321.51,Xiaomi,Redmi 13C,1,"CNP (Card Not Present)
+Fake Account"
+1648,1527.7,Apple,iPhone 14 Pro Max,1,"Fraud Onboarding 
+Dokumen Curian"
+3594,3765.17,Laptop,HP Pavilion,1,"Fraud Onboarding 
+Dokumen Curian"
+2912,1899.11,Oppo,Find X5 Pro,0,Non-Fraud
+7767,709.62,Xiaomi,Redmi 13C,0,Non-Fraud
+9915,285.7,Samsung,Galaxy Z Fold 5,1,"Fraud Onboarding 
+Dokumen Curian"
+3812,2791.15,Laptop,MSI Stealth,0,Non-Fraud
+9147,4627.77,Custom PC,Windows 11 Gaming Rig,1,"CNP (Card Not Present)
+Transaksi Berulang"
+9554,1798.76,Huawei,MatePad Pro,1,"Counterfeit
+Penjualan Kartu Palsu"
+4758,2554.25,Apple,iPhone SE,1,"Fraud Onboarding 
+Identitas Palsu"
+7119,4993.8,Apple,iPhone SE,1,"CNP (Card Not Present)
+Bot Transaksi"
+8090,203.22,Oppo,A78,0,Non-Fraud
+9172,2630.12,Laptop,HP Pavilion,0,Non-Fraud
+4770,3402.29,Samsung,Galaxy Tab A8,1,"Counterfeit
+Skimming ATM"
+3867,3669.92,Realme,C55,0,Non-Fraud
+6966,4747.3,Laptop,Lenovo ThinkPad,1,"Counterfeit
+Penjualan Kartu Palsu"
+4877,1331.76,Custom PC,Windows 10 Office PC,1,"Fraud Onboarding 
+Data Duplikat"
+8740,4148.32,Laptop,Lenovo ThinkPad,1,"Counterfeit
+Skimming ATM"
+4268,2043.77,Huawei,P50 Pro,1,"CNP (Card Not Present)
+Bot Transaksi"
+2146,4467.74,Apple,MacBook Air M2,1,"Counterfeit
+Cetak Kartu Palsu"
+3584,574.89,Vivo,V27 Pro,0,Non-Fraud
+8207,3463.07,Huawei,MatePad Pro,1,"CNP (Card Not Present)
+Fake Account"
+3971,2759.62,Xiaomi,Pad 6,1,"Fraud Onboarding 
+Dokumen Curian"
+4831,1608.48,Infinix,Zero Ultra,0,Non-Fraud
+3818,356.37,Huawei,Mate 40,1,"Fraud E-Commerce
+Diskon Palsu"
+1355,215.35,Laptop,Lenovo ThinkPad,0,Non-Fraud
+1757,2557.53,Apple,iPhone 12,0,Non-Fraud
+6353,1359.24,Apple,MacBook Air M2,0,Non-Fraud
+9812,1371.3,Infinix,Zero Ultra,0,Non-Fraud
+5363,2076.19,Infinix,Hot 30,1,"Fraud E-Commerce
+Ulasan Palsu"
+8831,451.21,Realme,C55,0,Non-Fraud
+1127,4634.08,Oppo,Reno 8,1,"Counterfeit
+Modifikasi Chip"
+4556,3236.71,Samsung,Galaxy S23,1,"CNP (Card Not Present)
+IP Asing "
+3367,1292.53,Huawei,P50 Pro,0,Non-Fraud
+8907,4450.79,Laptop,Dell XPS,1,"CNP (Card Not Present)
+Phising Data"
+3807,1936.46,Samsung,Galaxy Z Fold 5,1,"Fraud E-Commerce
+Ulasan Palsu"
+5072,3666.25,Custom PC,Windows 10 Office PC,0,Non-Fraud
+1370,164.9,Samsung,Galaxy Note 20,0,Non-Fraud
+6804,2263.29,Laptop,Lenovo ThinkPad,0,Non-Fraud
+7135,129.47,Google,Pixel 6a,0,Non-Fraud
+7801,4540.54,Xiaomi,Redmi 13C,0,Non-Fraud
+1548,1241.0,Oppo,Reno 8,1,"Fraud E-Commerce
+Diskon Palsu"
+9524,648.13,Vivo,X90,0,Non-Fraud
+6239,159.51,Samsung,Galaxy A54,0,Non-Fraud
+8289,3010.37,Vivo,X90,0,Non-Fraud
+2842,1693.0,Oppo,A78,1,"Counterfeit
+Modifikasi Chip"
+1279,487.68,Vivo,Y36,1,"Counterfeit
+Skimming ATM"
+7444,4952.1,Laptop,MSI Stealth,1,"Fraud Onboarding 
+Alamat Palsu"
+1644,3017.89,Huawei,Mate 40,1,"CNP (Card Not Present)
+Fake Account"
+2475,1727.31,Xiaomi,Poco X5,0,Non-Fraud
+8656,3551.45,Laptop,Acer Aspire,1,"CNP (Card Not Present)
+Bot Transaksi"
+9179,2292.68,Samsung,Galaxy Note 20,0,Non-Fraud
+7990,248.31,Apple,MacBook Air M2,0,Non-Fraud
+1753,3197.98,Oppo,Reno 8,1,"Counterfeit
+Cetak Kartu Palsu"
+5765,1486.77,Realme,C55,0,Non-Fraud
+3341,4287.85,Oppo,Reno 8,1,"Fraud E-Commerce
+Refund Fraud"
+2942,4849.1,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+9153,1186.64,Apple,iPhone 13 Pro,0,Non-Fraud
+4597,1272.82,Custom PC,Windows 11 Gaming Rig,0,Non-Fraud
+3333,3095.47,Apple,iPad Air,0,Non-Fraud
+6279,1110.53,Samsung,Galaxy A54,1,"Counterfeit
+Penjualan Kartu Palsu"
+8048,1153.55,Xiaomi,Mi 11 Ultra,0,Non-Fraud
+5936,3769.14,Apple,iPad Air,1,"Fraud E-Commerce
+Refund Fraud"
+6693,3637.14,Laptop,Acer Aspire,0,Non-Fraud
+1784,2287.86,Infinix,Zero Ultra,0,Non-Fraud
+5087,1040.75,Laptop,Lenovo ThinkPad,0,Non-Fraud
+7717,3182.52,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+6577,403.61,Realme,GT Neo 5,1,"Counterfeit
+Modifikasi Chip"
+5329,554.17,Samsung,Galaxy Note 20,1,"Counterfeit
+Penjualan Kartu Palsu"
+3092,3013.14,Samsung,Galaxy S23,0,Non-Fraud
+9424,4758.99,Custom PC,Windows 11 Gaming Rig,1,"Fraud Onboarding 
+Bot Registerasi"
+9777,3996.56,Huawei,MatePad Pro,0,Non-Fraud
+8836,187.59,Apple,iPhone 12,1,"Fraud Onboarding 
+Identitas Palsu"
+6393,1926.87,Realme,C55,1,"CNP (Card Not Present)
+Transaksi Berulang"
+3546,492.24,Huawei,MatePad Pro,0,Non-Fraud
+4720,3285.18,Xiaomi,Redmi Note 12,1,"Counterfeit
+Penjualan Kartu Palsu"
+2577,271.77,Laptop,Acer Aspire,1,"CNP (Card Not Present)
+Transaksi Berulang"
+7041,2447.5,Laptop,Acer Aspire,1,"Fraud Onboarding 
+Bot Registerasi"
+3528,4528.7,Realme,C55,0,Non-Fraud
+5675,190.1,Huawei,Mate 40,1,"Counterfeit
+Skimming ATM"
+3488,171.5,Apple,iPhone 14 Pro Max,0,Non-Fraud
+6597,3660.65,Custom PC,Windows 11 Gaming Rig,1,"Counterfeit
+Cetak Kartu Palsu"
+7109,597.86,Infinix,Zero Ultra,1,"Fraud Onboarding 
+Dokumen Curian"
+5055,2540.38,Xiaomi,Pad 6,0,Non-Fraud
+2463,4763.89,Vivo,X90,0,Non-Fraud
+1751,977.45,Apple,iPhone 13 Pro,1,"Fraud Onboarding 
+Dokumen Curian"
+6924,4878.96,Apple,iPhone SE,0,Non-Fraud
+3977,1743.67,Huawei,Mate 40,1,"Fraud E-Commerce
+Refund Fraud"
+1621,1511.51,Samsung,Galaxy Tab A8,0,Non-Fraud
+7323,2467.62,Realme,GT Neo 5,1,"CNP (Card Not Present)
+Transaksi Berulang"
+5288,4531.27,Xiaomi,Redmi 13C,1,"Fraud E-Commerce
+Diskon Palsu"
+4506,1135.19,Apple,iPad Air,0,Non-Fraud
+2853,3651.87,Oppo,A78,1,"CNP (Card Not Present)
+IP Asing "
+6290,3522.39,Huawei,MatePad Pro,1,"Fraud Onboarding 
+Identitas Palsu"
+7997,1762.02,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+7156,4351.17,Huawei,Mate 40,0,Non-Fraud
+7252,3877.76,Laptop,Lenovo ThinkPad,1,"Fraud E-Commerce
+Ulasan Palsu"
+6368,4058.27,Samsung,Galaxy Tab S9,0,Non-Fraud
+4863,649.8,Apple,iPad Pro 12.9,1,"Fraud Onboarding 
+Bot Registerasi"
+9272,3924.52,Apple,iPhone 12,1,"Counterfeit
+Modifikasi Chip"
+9314,2677.35,Laptop,MSI Stealth,1,"Fraud Onboarding 
+Dokumen Curian"
+5446,3595.94,Samsung,Galaxy Tab A8,0,Non-Fraud
+6926,1868.1,Apple,iPad Pro 12.9,0,Non-Fraud
+1002,1684.54,Apple,iPad Pro 12.9,0,Non-Fraud
+5745,2828.19,Vivo,X90,0,Non-Fraud
+1136,525.0,Oppo,A78,0,Non-Fraud
+7876,517.13,Xiaomi,Redmi 13C,1,"Fraud E-Commerce
+Pembayaran Ditunda"
+6083,678.7,Samsung,Galaxy Z Fold 5,1,"Fraud E-Commerce
+Pesanan Palsu"
+8584,4695.9,Xiaomi,Redmi Note 12,0,Non-Fraud
+2894,849.59,Huawei,P50 Pro,0,Non-Fraud
+7363,4519.36,Apple,iPad Air,0,Non-Fraud
+2927,3422.2,Samsung,Galaxy Z Fold 5,0,Non-Fraud
+7523,2729.48,Apple,iPad Air,0,Non-Fraud
+6932,3279.85,Vivo,Y36,0,Non-Fraud
+8860,2058.05,Apple,iPad Pro 12.9,1,"CNP (Card Not Present)
+IP Asing "
+2120,658.71,Xiaomi,Redmi 13C,1,"Fraud Onboarding 
+Identitas Palsu"
+5323,1121.19,Vivo,Y36,1,"Fraud E-Commerce
+Refund Fraud"
+5802,2514.87,Apple,iPad Air,1,"CNP (Card Not Present)
+Fake Account"
+1086,1934.32,Google,Pixel 6a,0,Non-Fraud
+8622,2435.27,Samsung,Galaxy Tab S9,1,"Fraud Onboarding 
+Identitas Palsu"
+7302,4570.33,Oppo,Find X5 Pro,0,Non-Fraud
+7689,4981.33,Samsung,Galaxy Tab A8,1,"Counterfeit
+Modifikasi Chip"
+8408,860.41,Apple,MacBook Pro M3,1,"CNP (Card Not Present)
+Fake Account"
+8510,1527.18,Samsung,Galaxy Tab A8,0,Non-Fraud

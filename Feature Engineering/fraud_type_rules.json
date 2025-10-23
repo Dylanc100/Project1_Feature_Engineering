@@ -1,0 +1,22 @@
+[
+  {
+    "fraud_type": "High Transaction Amount",
+    "rule": "Transaction Amount > 500"
+  },
+  {
+    "fraud_type": "New Account Fraud",
+    "rule": "Account Age Days < 30 and Transaction Amount > 200"
+  },
+  {
+    "fraud_type": "Location Mismatch",
+    "rule": "Shipping Address != Billing Address"
+  },
+  {
+    "fraud_type": "Odd Hour Transaction",
+    "rule": "Transaction Hour < 5 or Transaction Hour > 23"
+  },
+  {
+    "fraud_type": "High Quantity Fraud",
+    "rule": "Quantity > 3 and Product Category in ['electronics','luxury']"
+  }
+]
